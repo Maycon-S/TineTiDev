@@ -11,7 +11,6 @@ StartupEvents.registry('block', event => {
     .hardness(5.0) // Dureza do bloco
     .resistance(5.0) // Resistência do bloco
     .requiresTool(true) // Necessário ferramenta
-    .tagBlock('') // Pode ser minerado com machado
     .tagBlock('minecraft:mineable/pickaxe') // Pode ser minerado com picareta
     .tagBlock('minecraft:needs_diamond_tool'); // Necessário ferramenta de ferro
 
@@ -21,7 +20,6 @@ StartupEvents.registry('block', event => {
     .hardness(8.0)
     .resistance(8.0)
     .requiresTool(true)
-    .tagBlock('')
     .tagBlock('minecraft:mineable/pickaxe')
     .tagBlock('minecraft:needs_diamond_tool');
 
@@ -31,7 +29,6 @@ StartupEvents.registry('block', event => {
     .hardness(10.0)
     .resistance(10.0)
     .requiresTool(true)
-    .tagBlock('')
     .tagBlock('minecraft:mineable/pickaxe')
     .tagBlock('minecraft:needs_diamond_tool');
 });
@@ -44,7 +41,7 @@ event.create('roxortnite')
 event.create('roxortnite_nugget')
 event.create('realinite_nugget')
 event.create('ingot_pulsante').displayName('Ingot pulsante');
-event.create('olho_de _deus')
+event.create('olho_de_deus')
 });
 
 
@@ -71,27 +68,17 @@ ItemEvents.toolTierRegistry((event) => {
       });
     });
 
-        ItemEvents.modification(event => { 
-          event.modify('custom_sword', item => {
-            item.tier = realinite => {
-              tier.speed = 20
-              tier.attackDamageBaseline = 30
-              tier.level = 7
-            }
-          })
-
+ItemEvents.modification(event => { 
 event.modify('custom_sword', item => {
-  item.tier = tier => {
-    tier.enchantmentValue = 30
-  }
+  item.enchantmentValue = 30
 })
 })
 
  StartupEvents.registry('item', event => {
-event.create('realinite_capecete', 'helmet').displayName('Realinite Helmet').rarity('epic').tier("realinite");
-event.create('realinite_peitoral', 'chestplate').displayName('Realinite Chestplate').rarity('epic').tier("realinite");
-event.create('realinite_leggings', 'leggings').displayName('Realinite Leggings').rarity('epic').tier("realinite");
-event.create('realinite_botas', 'boots').displayName('Realinite Boots').rarity('epic').tier("realinite");
+event.create('realinite_capecete', 'helmet').displayName('Realinite Helmet').rarity('epic').tier('realinite');
+event.create('realinite_peitoral', 'chestplate').displayName('Realinite Chestplate').rarity('epic').tier('realinite');
+event.create('realinite_leggings', 'leggings').displayName('Realinite Leggings').rarity('epic').tier('realinite');
+event.create('realinite_botas', 'boots').displayName('Realinite Boots').rarity('epic').tier('realinite');
 event.create('terra')
 event.create('custom_sword', 'sword').tier('realinite').attackDamageBaseline(14)
 event.create('pomagico')
@@ -104,6 +91,8 @@ event.create('singularity')
 event.create('divine_currency')
 event.create('test_1_gift')
 event.create('iuminati_test_2')
+event.create('advanced_bin')
 });
 
 Platform.mods.kubejs.name = 'tineti'
+ // ivertnite => realinite => roxortnite
