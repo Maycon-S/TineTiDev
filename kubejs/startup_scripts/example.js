@@ -49,7 +49,7 @@ event.create('olho_de _deus')
 
 
 ItemEvents.toolTierRegistry((event) => {
-  event.add("realinite", (tier) => {
+  event.add("realinite", tier => {
     tier.uses = 8000;
     tier.speed = 11;
     tier.attackDamageBonus = 10;
@@ -59,7 +59,7 @@ ItemEvents.toolTierRegistry((event) => {
   }); 
 
   ItemEvents.armorTierRegistry((event) => { 
-    event.add("realinite", (tier) => {
+    event.add("realinite", tier => {
         tier.durabilityMultiplier = 400;
         tier.slotProtections = [15, 25, 30, 15]; 
         tier.enchantmentValue = 22;
@@ -67,7 +67,7 @@ ItemEvents.toolTierRegistry((event) => {
         tier.repairIngredient = 'kubejs:realinite';
         tier.toughness = 5.0;
         tier.knockbackResistance = 2.0;
-
+        
       });
     });
 
@@ -90,7 +90,7 @@ event.modify('custom_sword', item => {
  StartupEvents.registry('item', event => {
 event.create('realinite_capecete', 'helmet').displayName('Realinite Helmet').rarity('epic').tier("realinite");
 event.create('realinite_peitoral', 'chestplate').displayName('Realinite Chestplate').rarity('epic').tier("realinite");
-event.create('realinite_pernairas', 'leggings').displayName('Realinite Leggings').rarity('epic').tier("realinite");
+event.create('realinite_leggings', 'leggings').displayName('Realinite Leggings').rarity('epic').tier("realinite");
 event.create('realinite_botas', 'boots').displayName('Realinite Boots').rarity('epic').tier("realinite");
 event.create('terra')
 event.create('custom_sword', 'sword').tier('realinite').attackDamageBaseline(14)
@@ -99,11 +99,11 @@ event.create('advanced_engine')
 event.create('supreme_advanced_magic')
 event.create('supreme_advanced_engine')
 event.create('supreme_advanced_alchemy_of_machines')
-event.create('diad')
-event.create('dd3')
-event.create('coin')
-event.create('dd4')
-event.create('dd5')
+event.create('star')
+event.create('singularity')
+event.create('divine_currency')
+event.create('test_1_gift')
+event.create('iuminati_test_2')
 });
 
 Platform.mods.kubejs.name = 'tineti'
