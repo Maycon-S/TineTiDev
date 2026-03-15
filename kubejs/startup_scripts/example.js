@@ -92,6 +92,7 @@ event.create('divine_currency')
 event.create('test_1_gift')
 event.create('iuminati_test_2')
 event.create('advanced_bin')
+event.create('wrought_axe_in_hand') // teste 3d
 });
 
 Platform.mods.kubejs.name = 'tineti'
