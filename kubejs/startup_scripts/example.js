@@ -97,3 +97,4 @@ event.create('wrought_axe_in_hand') // teste 3d
 
 Platform.mods.kubejs.name = 'tineti'
  // ivertnite => realinite => roxortnite
+ 
