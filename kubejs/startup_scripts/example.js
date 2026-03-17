@@ -40,8 +40,6 @@ event.create('realinite')
 event.create('roxortnite')
 event.create('roxortnite_nugget')
 event.create('realinite_nugget')
-event.create('ingot_pulsante').displayName('Ingot pulsante');
-event.create('olho_de_deus')
 });
 
 
@@ -79,7 +77,6 @@ event.create('realinite_capecete', 'helmet').displayName('Realinite Helmet').rar
 event.create('realinite_peitoral', 'chestplate').displayName('Realinite Chestplate').rarity('epic').tier('realinite');
 event.create('realinite_leggings', 'leggings').displayName('Realinite Leggings').rarity('epic').tier('realinite');
 event.create('realinite_botas', 'boots').displayName('Realinite Boots').rarity('epic').tier('realinite');
-event.create('terra')
 event.create('custom_sword', 'sword').tier('realinite').attackDamageBaseline(14)
 event.create('pomagico')
 event.create('advanced_engine')
@@ -91,8 +88,7 @@ event.create('singularity')
 event.create('divine_currency')
 event.create('test_1_gift')
 event.create('iuminati_test_2')
-event.create('advanced_bin')
-event.create('wrought_axe_in_hand') // teste 3D
+event.create('wrought_axe_in_hand') // teste 3d
 });
 
 Platform.mods.kubejs.name = 'tineti'
