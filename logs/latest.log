@@ -1,80 +1,80 @@
-[11:08:16] [main/INFO]: ModLauncher running: args [--username, maycon, --version, TineTiDev, --gameDir, C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev, --assetsDir, C:\Users\Maycon Souza\AppData\Roaming\.minecraft\assets, --assetIndex, 5, --uuid, 854f598e626b443ca9c30bfc196317af, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, modified, --width, 925, --height, 530, --launchTarget, forgeclient, --fml.forgeVersion, 47.4.10, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[11:08:16] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Microsoft; OS Windows 10 arch amd64 version 10.0
-[11:08:17] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
-[11:08:17] [main/INFO]: Trying GL version 4.6
-[11:08:17] [main/INFO]: Requested GL version 4.6 got version 4.6
-[11:08:17] [main/INFO]: OptiFineTransformationService.onLoad
-[11:08:17] [main/INFO]: OptiFine ZIP file URL: union:/C:/Users/Maycon%20Souza/AppData/Roaming/.minecraft/versions/TineTiDev/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23188!/
-[11:08:17] [main/INFO]: OptiFine ZIP file: C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods\preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
-[11:08:17] [main/INFO]: Target.PRE_CLASS is available
-[11:08:17] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Maycon%20Souza/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
-[11:08:17] [main/INFO]: OptiFineTransformationService.initialize
-[11:08:17] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce RTX 5050/PCIe/SSE2 GL version 4.6.0 NVIDIA 595.71, NVIDIA Corporation
-[11:08:18] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file ars_nouveau-1.20.1-4.12.6-all.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file avaritialite-forge-1.20.1-1.10.2.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file avaritialiteextended-forge-1.20.1-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file balm-forge-1.20.1-7.3.10-all.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file bettercombat-forge-1.8.6+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file Botania-1.20.1-446-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file cloth-config-11.1.136-forge.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file create-1.20.1-0.5.1.j.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file createdieselgenerators-1.20.1-1.2i.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file Cucumber-1.20.1-7.0.13.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file curios-forge-5.11.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file dg_js-1.20.1-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file ExtendedCrafting-1.20.1-6.0.7.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file jei-1.20.1-forge-15.20.0.105.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file kubejs-create-forge-2001.2.5-build.2.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file kubejs-forge-2001.6.5-build.16.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file kubejsadditions-forge-4.3.3.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file kubejsarsnouveau-1.2.2.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file kubejspowah-1.2.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file mahou_tsukai_combat-1.0.2-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file mahoutsukai-1.20.1-v1.34.78.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file mekamod-1.20.1-2.0.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file Mekanism-1.20.1-10.4.12.68.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file Patchouli-1.20.1-84-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file player-animation-lib-forge-1.0.2-rc1+1.20.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file Powah-5.0.7.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file rhino-forge-2001.2.3-build.6.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file tl_skin_cape_forge_1.20_1.20.1-1.32.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file waystones-forge-1.20-14.1.6.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/INFO]: Found mod file worldedit-mod-7.2.15.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[11:08:18] [main/WARN]: Mod file C:\Users\Maycon Souza\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.10\fmlcore-1.20.1-47.4.10.jar is missing mods.toml file
-[11:08:18] [main/WARN]: Mod file C:\Users\Maycon Souza\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.10\javafmllanguage-1.20.1-47.4.10.jar is missing mods.toml file
-[11:08:18] [main/WARN]: Mod file C:\Users\Maycon Souza\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.10\lowcodelanguage-1.20.1-47.4.10.jar is missing mods.toml file
-[11:08:18] [main/WARN]: Mod file C:\Users\Maycon Souza\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.10\mclanguage-1.20.1-47.4.10.jar is missing mods.toml file
-[11:08:18] [main/INFO]: Found mod file fmlcore-1.20.1-47.4.10.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@87abc48
-[11:08:18] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.4.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@87abc48
-[11:08:18] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.4.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@87abc48
-[11:08:18] [main/INFO]: Found mod file mclanguage-1.20.1-47.4.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@87abc48
-[11:08:18] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@87abc48
-[11:08:18] [main/INFO]: Found mod file forge-1.20.1-47.4.10-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@87abc48
-[11:08:18] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[11:08:18] [main/INFO]: Found 7 dependencies adding them to mods collection
-[11:08:18] [main/INFO]: Found mod file mixinextras-forge-0.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@629adce
-[11:08:18] [main/INFO]: Found mod file kuma-api-forge-20.1.9-SNAPSHOT.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@629adce
-[11:08:18] [main/INFO]: Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@629adce
-[11:08:18] [main/INFO]: Found mod file flywheel-forge-1.20.1-0.6.11-13.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@629adce
-[11:08:18] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.4.4.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@629adce
-[11:08:18] [main/INFO]: Found mod file Registrate-MC1.20-1.3.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@629adce
-[11:08:18] [main/INFO]: Found mod file MixinExtras-0.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@629adce
-[11:08:19] [main/INFO]: OptiFineTransformationService.transformers
-[11:08:19] [main/INFO]: Targets: 412
-[11:08:19] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
-[11:08:20] [main/INFO]: Compatibility level set to JAVA_17
-[11:08:21] [main/INFO]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[11:08:21] [main/INFO]: Launching target 'forgeclient' with arguments [--version, TineTiDev, --gameDir, C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev, --assetsDir, C:\Users\Maycon Souza\AppData\Roaming\.minecraft\assets, --uuid, 854f598e626b443ca9c30bfc196317af, --username, maycon, --assetIndex, 5, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, modified, --width, 925, --height, 530]
-[11:08:21] [main/WARN]: Reference map 'kubejspowah.refmap.json' for kubejspowah.mixins.json could not be read. If this is a development environment you can ignore this message
-[11:08:22] [main/WARN]: Error loading class: mezz/modnametooltip/TooltipEventHandler (java.lang.ClassNotFoundException: mezz.modnametooltip.TooltipEventHandler)
-[11:08:22] [main/WARN]: Error loading class: me/shedaniel/rei/impl/client/ClientHelperImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.ClientHelperImpl)
-[11:08:22] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0).
-[11:08:29] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 175 milliseconds
-[11:08:31] [Render thread/WARN]: Assets URL 'union:/C:/Users/Maycon%20Souza/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23220!/assets/.mcassetsroot' uses unexpected schema
-[11:08:31] [Render thread/WARN]: Assets URL 'union:/C:/Users/Maycon%20Souza/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23220!/data/.mcassetsroot' uses unexpected schema
-[11:08:31] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11:08:32] [Render thread/ERROR]: Failed to verify authentication
+[21:31:52] [main/INFO]: ModLauncher running: args [--username, maycon, --version, TineTiDev, --gameDir, C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev, --assetsDir, C:\Users\Maycon Souza\AppData\Roaming\.minecraft\assets, --assetIndex, 5, --uuid, 854f598e626b443ca9c30bfc196317af, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, modified, --width, 925, --height, 530, --launchTarget, forgeclient, --fml.forgeVersion, 47.4.10, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[21:31:52] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[21:31:53] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[21:31:53] [main/INFO]: Trying GL version 4.6
+[21:31:54] [main/INFO]: Requested GL version 4.6 got version 4.6
+[21:31:54] [main/INFO]: OptiFineTransformationService.onLoad
+[21:31:54] [main/INFO]: OptiFine ZIP file URL: union:/C:/Users/Maycon%20Souza/AppData/Roaming/.minecraft/versions/TineTiDev/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23188!/
+[21:31:54] [main/INFO]: OptiFine ZIP file: C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods\preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
+[21:31:54] [main/INFO]: Target.PRE_CLASS is available
+[21:31:54] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Maycon%20Souza/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
+[21:31:54] [main/INFO]: OptiFineTransformationService.initialize
+[21:31:54] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce RTX 5050/PCIe/SSE2 GL version 4.6.0 NVIDIA 595.71, NVIDIA Corporation
+[21:31:54] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file ars_nouveau-1.20.1-4.12.6-all.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file avaritialite-forge-1.20.1-1.10.2.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file avaritialiteextended-forge-1.20.1-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file balm-forge-1.20.1-7.3.10-all.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file bettercombat-forge-1.8.6+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file Botania-1.20.1-446-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file cloth-config-11.1.136-forge.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file create-1.20.1-0.5.1.j.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file createdieselgenerators-1.20.1-1.2i.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file Cucumber-1.20.1-7.0.13.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file curios-forge-5.11.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file dg_js-1.20.1-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file ExtendedCrafting-1.20.1-6.0.7.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file jei-1.20.1-forge-15.20.0.105.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file kubejs-create-forge-2001.2.5-build.2.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file kubejs-forge-2001.6.5-build.16.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file kubejsadditions-forge-4.3.3.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file kubejsarsnouveau-1.2.2.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file kubejspowah-1.2.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file mahou_tsukai_combat-1.0.2-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file mahoutsukai-1.20.1-v1.34.78.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file mekamod-1.20.1-2.0.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file Mekanism-1.20.1-10.4.12.68.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file Patchouli-1.20.1-84-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file player-animation-lib-forge-1.0.2-rc1+1.20.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file Powah-5.0.7.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file rhino-forge-2001.2.3-build.6.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file tl_skin_cape_forge_1.20_1.20.1-1.32.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file waystones-forge-1.20-14.1.6.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/INFO]: Found mod file worldedit-mod-7.2.15.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
+[21:31:54] [main/WARN]: Mod file C:\Users\Maycon Souza\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.10\fmlcore-1.20.1-47.4.10.jar is missing mods.toml file
+[21:31:54] [main/WARN]: Mod file C:\Users\Maycon Souza\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.10\javafmllanguage-1.20.1-47.4.10.jar is missing mods.toml file
+[21:31:54] [main/WARN]: Mod file C:\Users\Maycon Souza\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.10\lowcodelanguage-1.20.1-47.4.10.jar is missing mods.toml file
+[21:31:54] [main/WARN]: Mod file C:\Users\Maycon Souza\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.10\mclanguage-1.20.1-47.4.10.jar is missing mods.toml file
+[21:31:54] [main/INFO]: Found mod file fmlcore-1.20.1-47.4.10.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@87abc48
+[21:31:54] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.4.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@87abc48
+[21:31:54] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.4.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@87abc48
+[21:31:54] [main/INFO]: Found mod file mclanguage-1.20.1-47.4.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@87abc48
+[21:31:54] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@87abc48
+[21:31:54] [main/INFO]: Found mod file forge-1.20.1-47.4.10-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@87abc48
+[21:31:55] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[21:31:55] [main/INFO]: Found 7 dependencies adding them to mods collection
+[21:31:55] [main/INFO]: Found mod file mixinextras-forge-0.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@629adce
+[21:31:55] [main/INFO]: Found mod file kuma-api-forge-20.1.9-SNAPSHOT.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@629adce
+[21:31:55] [main/INFO]: Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@629adce
+[21:31:55] [main/INFO]: Found mod file flywheel-forge-1.20.1-0.6.11-13.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@629adce
+[21:31:55] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.4.4.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@629adce
+[21:31:55] [main/INFO]: Found mod file Registrate-MC1.20-1.3.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@629adce
+[21:31:55] [main/INFO]: Found mod file MixinExtras-0.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@629adce
+[21:31:55] [main/INFO]: OptiFineTransformationService.transformers
+[21:31:55] [main/INFO]: Targets: 412
+[21:31:56] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
+[21:31:56] [main/INFO]: Compatibility level set to JAVA_17
+[21:31:57] [main/INFO]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[21:31:57] [main/INFO]: Launching target 'forgeclient' with arguments [--version, TineTiDev, --gameDir, C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev, --assetsDir, C:\Users\Maycon Souza\AppData\Roaming\.minecraft\assets, --uuid, 854f598e626b443ca9c30bfc196317af, --username, maycon, --assetIndex, 5, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, modified, --width, 925, --height, 530]
+[21:31:57] [main/WARN]: Reference map 'kubejspowah.refmap.json' for kubejspowah.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:31:58] [main/WARN]: Error loading class: mezz/modnametooltip/TooltipEventHandler (java.lang.ClassNotFoundException: mezz.modnametooltip.TooltipEventHandler)
+[21:31:58] [main/WARN]: Error loading class: me/shedaniel/rei/impl/client/ClientHelperImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.ClientHelperImpl)
+[21:31:58] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0).
+[21:32:05] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 154 milliseconds
+[21:32:07] [Render thread/WARN]: Assets URL 'union:/C:/Users/Maycon%20Souza/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23220!/assets/.mcassetsroot' uses unexpected schema
+[21:32:07] [Render thread/WARN]: Assets URL 'union:/C:/Users/Maycon%20Souza/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23220!/data/.mcassetsroot' uses unexpected schema
+[21:32:07] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:32:08] [Render thread/ERROR]: Failed to verify authentication
 com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
 	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[authlib-4.0.43.1.jar%23111!/:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:147) ~[authlib-4.0.43.1.jar%23111!/:?]
@@ -103,114 +103,118 @@ Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 4
 	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-4.0.43.1.jar%23111!/:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:122) ~[authlib-4.0.43.1.jar%23111!/:?]
 	... 20 more
-[11:08:32] [Render thread/INFO]: Setting user: maycon
-[11:08:32] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
-[11:08:32] [Render thread/INFO]: [OptiFine] Forge version: 47.4.10
-[11:08:32] [Render thread/INFO]: [OptiFine] Forge version above 47.0.3, antialiasing disabled
-[11:08:32] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
-[11:08:32] [Render thread/INFO]: Loaded client.properties
-[11:08:32] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
-[11:08:32] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
-[11:08:32] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
-[11:08:32] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to module net.optifine
-[11:08:32] [Render thread/INFO]: [OptiFine] 
-[11:08:32] [Render thread/INFO]: [OptiFine] OptiFine_1.20.1_HD_U_I6_pre6
-[11:08:32] [Render thread/INFO]: [OptiFine] Build: 20230727-130058
-[11:08:32] [Render thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
-[11:08:32] [Render thread/INFO]: [OptiFine] Java: 17.0.15, Microsoft
-[11:08:32] [Render thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
-[11:08:32] [Render thread/INFO]: [OptiFine] LWJGL: 3.4.0 Win32 WGL Null EGL OSMesa VisualC DLL
-[11:08:32] [Render thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce RTX 5050/PCIe/SSE2, version 4.6.0 NVIDIA 595.71, NVIDIA Corporation
-[11:08:32] [Render thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
-[11:08:32] [Render thread/INFO]: [OptiFine] Maximum texture size: 32768x32768
-[11:08:32] [VersionCheck/INFO]: [OptiFine] Checking for new version
-[11:08:32] [Render thread/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 595.71
-[11:08:32] [Render thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
-[11:08:32] [Render thread/INFO]: [Shaders] Renderer: NVIDIA GeForce RTX 5050/PCIe/SSE2
-[11:08:32] [Render thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
-[11:08:32] [Render thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
-[11:08:32] [Render thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
-[11:08:32] [Render thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
-[11:08:32] [Render thread/INFO]: [Shaders] Load shaders configuration.
-[11:08:32] [Render thread/INFO]: [Shaders] Save shaders configuration.
-[11:08:32] [Render thread/INFO]: [Shaders] No shaderpack loaded.
-[11:08:32] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
-[11:08:32] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
-[11:08:33] [modloading-worker-0/INFO]: Optifine detected.
-[11:08:33] [VersionCheck/INFO]: [OptiFine] Version found: I6
-[11:08:33] [modloading-worker-0/INFO]: Loaded common.properties
-[11:08:33] [modloading-worker-0/INFO]: Loaded dev.properties
-[11:08:33] [modloading-worker-0/INFO]: Looking for KubeJS plugins...
-[11:08:33] [modloading-worker-0/INFO]: Found plugin source kubejs
-[11:08:33] [modloading-worker-0/WARN]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
-[11:08:33] [modloading-worker-0/INFO]: Found plugin source cucumber
-[11:08:33] [modloading-worker-0/INFO]: Found plugin source kubejsadditions
-[11:08:33] [modloading-worker-0/INFO]: Found plugin source kubejsarsnouveau
-[11:08:33] [modloading-worker-0/INFO]: Found plugin source kubejs_create
-[11:08:33] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
-[11:08:33] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
-[11:08:33] [modloading-worker-0/INFO]: Forge mod loading, version 47.4.10, for MC 1.20.1 with MCP 20230612.114412
-[11:08:33] [modloading-worker-0/INFO]: MinecraftForge v47.4.10 Initialized
-[11:08:33] [modloading-worker-0/INFO]: Sending ConfigManager...
-[11:08:33] [modloading-worker-0/INFO]: Sending ConfigManager took 7.781 ms
-[11:08:33] [modloading-worker-0/INFO]: Found plugin source kubejspowah
-[11:08:33] [modloading-worker-0/INFO]: Registering C2S receiver with id powah:packet
-[11:08:33] [modloading-worker-0/INFO]: Found plugin source dg_js
-[11:08:33] [modloading-worker-0/INFO]: Done in 519.1 ms
-[11:08:34] [modloading-worker-0/INFO]: Loading Rhino Minecraft remapper...
-[11:08:34] [modloading-worker-0/INFO]: Rhino properties loaded.
-[11:08:34] [modloading-worker-0/INFO]: Loading mappings for 1.20.1
-[11:08:34] [modloading-worker-0/INFO]: Done in 0,084 s
-[11:08:34] [modloading-worker-0/INFO]: example.js#5: Hello, World! (Loaded startup scripts)
-[11:08:34] [modloading-worker-0/INFO]: Loaded script startup_scripts:example.js in 0.1 s
-[11:08:34] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS startup scripts in 0.481 s with 0 errors and 0 warnings
-[11:08:34] [modloading-worker-0/INFO]: example.js#5: Hello, World! (Loaded client scripts)
-[11:08:34] [modloading-worker-0/INFO]: Loaded script client_scripts:example.js in 0.0 s
-[11:08:34] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS client scripts in 0.022 s with 0 errors and 0 warnings
-[11:08:34] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:send_data_from_client
-[11:08:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:send_data_from_server
-[11:08:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:paint
-[11:08:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:add_stage
-[11:08:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:remove_stage
-[11:08:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:sync_stages
-[11:08:34] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:first_click
-[11:08:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:toast
-[11:08:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:reload_startup_scripts
-[11:08:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:display_server_errors
-[11:08:34] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:display_client_errors
-[11:08:39] [Render thread/INFO]: Reloading ResourceManager: vanilla, mod_resources, KubeJS Resource Pack [assets]
-[11:08:39] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[11:08:39] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[11:08:39] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[11:08:39] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[11:08:39] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
-[11:08:39] [Render thread/INFO]: [OptiFine] Resource packs: mod_resources
-[11:08:39] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[11:08:39] [Worker-Main-5/INFO]: Version 10.4.12 initializing...
-[11:08:39] [Render thread/INFO]: Client resource reload complete!
-[11:08:39] [Worker-Main-10/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
-[11:08:39] [Render thread/INFO]: [OptiFine] *** Reflector Forge ***
-[11:08:39] [Worker-Main-1/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/banner_patterns.png
-[11:08:39] [Worker-Main-11/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/signs.png
-[11:08:39] [Worker-Main-7/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/shield_patterns.png
-[11:08:39] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
-[11:08:39] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
-[11:08:39] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
-[11:08:39] [Worker-Main-3/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/armor_trims.png
-[11:08:39] [Worker-Main-3/INFO]: [OptiFine] Multitexture: false
-[11:08:39] [Worker-Main-9/INFO]: HELLO FROM COMMON SETUP
-[11:08:39] [Worker-Main-5/INFO]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[11:08:39] [Worker-Main-5/INFO]: Mod loaded.
-[11:08:39] [Worker-Main-3/INFO]: [OptiFine] Mipmap levels: 4
-[11:08:39] [Render thread/INFO]: [OptiFine] *** Reflector Vanilla ***
-[11:08:39] [Worker-Main-11/INFO]: [OptiFine] Sprite size: 64
-[11:08:39] [Worker-Main-11/INFO]: [OptiFine] Mipmap levels: 6
-[11:08:40] [Worker-Main-6/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/blocks.png
-[11:08:40] [Worker-Main-6/INFO]: [OptiFine] Multitexture: false
-[11:08:40] [Worker-Main-11/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[11:08:40] [Worker-Main-1/INFO]: [OptiFine] Sprite size: 64
-[11:08:40] [Worker-Main-1/INFO]: [OptiFine] Mipmap levels: 6
-[11:08:40] [Render thread/ERROR]: OpenGL API ERROR: 1282 (GL_INVALID_OPERATION error generated. Texture name does not refer to a texture object generated by OpenGL.)
+[21:32:08] [Render thread/INFO]: Setting user: maycon
+[21:32:08] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[21:32:08] [Render thread/INFO]: [OptiFine] Forge version: 47.4.10
+[21:32:08] [Render thread/INFO]: [OptiFine] Forge version above 47.0.3, antialiasing disabled
+[21:32:08] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[21:32:08] [Render thread/INFO]: Loaded client.properties
+[21:32:08] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
+[21:32:08] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
+[21:32:08] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
+[21:32:08] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to module net.optifine
+[21:32:08] [Render thread/INFO]: [OptiFine] 
+[21:32:08] [Render thread/INFO]: [OptiFine] OptiFine_1.20.1_HD_U_I6_pre6
+[21:32:08] [Render thread/INFO]: [OptiFine] Build: 20230727-130058
+[21:32:08] [Render thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[21:32:08] [Render thread/INFO]: [OptiFine] Java: 17.0.15, Microsoft
+[21:32:08] [Render thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[21:32:08] [Render thread/INFO]: [OptiFine] LWJGL: 3.4.0 Win32 WGL Null EGL OSMesa VisualC DLL
+[21:32:08] [Render thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce RTX 5050/PCIe/SSE2, version 4.6.0 NVIDIA 595.71, NVIDIA Corporation
+[21:32:08] [Render thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[21:32:08] [Render thread/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[21:32:08] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[21:32:08] [Render thread/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 595.71
+[21:32:08] [Render thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[21:32:08] [Render thread/INFO]: [Shaders] Renderer: NVIDIA GeForce RTX 5050/PCIe/SSE2
+[21:32:08] [Render thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[21:32:08] [Render thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[21:32:08] [Render thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
+[21:32:08] [Render thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[21:32:08] [Render thread/INFO]: [Shaders] Load shaders configuration.
+[21:32:08] [Render thread/INFO]: [Shaders] Save shaders configuration.
+[21:32:08] [Render thread/INFO]: [Shaders] No shaderpack loaded.
+[21:32:08] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[21:32:08] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[21:32:08] [modloading-worker-0/INFO]: Optifine detected.
+[21:32:08] [VersionCheck/INFO]: [OptiFine] Version found: I6
+[21:32:08] [modloading-worker-0/INFO]: Loaded common.properties
+[21:32:08] [modloading-worker-0/INFO]: Loaded dev.properties
+[21:32:08] [modloading-worker-0/INFO]: Looking for KubeJS plugins...
+[21:32:08] [modloading-worker-0/INFO]: Found plugin source kubejs
+[21:32:08] [modloading-worker-0/WARN]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
+[21:32:08] [modloading-worker-0/INFO]: Found plugin source cucumber
+[21:32:08] [modloading-worker-0/INFO]: Found plugin source kubejsadditions
+[21:32:08] [modloading-worker-0/INFO]: Found plugin source kubejsarsnouveau
+[21:32:08] [modloading-worker-0/INFO]: Found plugin source kubejs_create
+[21:32:09] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[21:32:09] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[21:32:09] [modloading-worker-0/INFO]: Forge mod loading, version 47.4.10, for MC 1.20.1 with MCP 20230612.114412
+[21:32:09] [modloading-worker-0/INFO]: MinecraftForge v47.4.10 Initialized
+[21:32:09] [modloading-worker-0/INFO]: Sending ConfigManager...
+[21:32:09] [modloading-worker-0/INFO]: Sending ConfigManager took 4.161 ms
+[21:32:09] [modloading-worker-0/INFO]: Found plugin source kubejspowah
+[21:32:09] [modloading-worker-0/INFO]: Registering C2S receiver with id powah:packet
+[21:32:09] [modloading-worker-0/INFO]: Found plugin source dg_js
+[21:32:09] [modloading-worker-0/INFO]: Done in 356.6 ms
+[21:32:09] [modloading-worker-0/INFO]: Loading Rhino Minecraft remapper...
+[21:32:09] [modloading-worker-0/INFO]: Rhino properties loaded.
+[21:32:09] [modloading-worker-0/INFO]: Loading mappings for 1.20.1
+[21:32:09] [modloading-worker-0/INFO]: Done in 0,077 s
+[21:32:10] [modloading-worker-0/INFO]: example.js#5: Hello, World! (Loaded startup scripts)
+[21:32:10] [modloading-worker-0/INFO]: Loaded script startup_scripts:example.js in 0.082 s
+[21:32:10] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS startup scripts in 0.487 s with 0 errors and 0 warnings
+[21:32:10] [modloading-worker-0/INFO]: example.js#5: Hello, World! (Loaded client scripts)
+[21:32:10] [modloading-worker-0/INFO]: Loaded script client_scripts:example.js in 0.002 s
+[21:32:10] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS client scripts in 0.025 s with 0 errors and 0 warnings
+[21:32:10] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:send_data_from_client
+[21:32:10] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:send_data_from_server
+[21:32:10] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:paint
+[21:32:10] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:add_stage
+[21:32:10] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:remove_stage
+[21:32:10] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:sync_stages
+[21:32:10] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:first_click
+[21:32:10] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:toast
+[21:32:10] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:reload_startup_scripts
+[21:32:10] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:display_server_errors
+[21:32:10] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:display_client_errors
+[21:32:14] [Render thread/INFO]: Reloading ResourceManager: vanilla, mod_resources, KubeJS Resource Pack [assets]
+[21:32:14] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[21:32:14] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[21:32:14] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[21:32:14] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[21:32:14] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
+[21:32:14] [Render thread/INFO]: [OptiFine] Resource packs: mod_resources
+[21:32:14] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[21:32:14] [Render thread/INFO]: Client resource reload complete!
+[21:32:14] [Worker-Main-7/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[21:32:14] [Worker-Main-4/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/shield_patterns.png
+[21:32:14] [Worker-Main-10/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/signs.png
+[21:32:14] [Worker-Main-5/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/chest.png
+[21:32:14] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[21:32:14] [Worker-Main-6/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/decorated_pot.png
+[21:32:14] [Worker-Main-11/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/armor_trims.png
+[21:32:14] [Worker-Main-1/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/banner_patterns.png
+[21:32:14] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
+[21:32:14] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
+[21:32:14] [Worker-Main-10/INFO]: [OptiFine] Multitexture: false
+[21:32:14] [Worker-Main-5/INFO]: [OptiFine] Multitexture: false
+[21:32:14] [Worker-Main-6/INFO]: [OptiFine] Multitexture: false
+[21:32:14] [Render thread/INFO]: [OptiFine] *** Reflector Forge ***
+[21:32:14] [Worker-Main-2/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/shulker_boxes.png
+[21:32:14] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
+[21:32:14] [Worker-Main-5/INFO]: [OptiFine] Sprite size: 64
+[21:32:14] [Worker-Main-5/INFO]: [OptiFine] Mipmap levels: 6
+[21:32:14] [Worker-Main-11/INFO]: [OptiFine] Mipmap levels: 4
+[21:32:14] [Render thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[21:32:14] [Worker-Main-6/INFO]: [OptiFine] Mipmap levels: 4
+[21:32:14] [Worker-Main-5/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[21:32:14] [Worker-Main-10/INFO]: [OptiFine] Sprite size: 64
+[21:32:14] [Worker-Main-10/INFO]: [OptiFine] Mipmap levels: 6
+[21:32:14] [Worker-Main-2/INFO]: [OptiFine] Sprite size: 64
+[21:32:14] [Worker-Main-2/INFO]: [OptiFine] Mipmap levels: 6
+[21:32:14] [Worker-Main-10/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[21:32:14] [Render thread/ERROR]: OpenGL API ERROR: 1282 (GL_INVALID_OPERATION error generated. Texture name does not refer to a texture object generated by OpenGL.)
 java.lang.Exception: Stack trace
 	at org.lwjgl.opengl.GL11C.glBindTexture(Native Method) ~[lwjgl-opengl-3.3.1.jar%23147!/:build 7]
 	at net.minecraftforge.fml.earlydisplay.RenderElement.lambda$mojang$2(RenderElement.java:106) ~[fmlearlydisplay-1.20.1-47.4.10.jar%23105!/:1.0]
@@ -240,62 +244,51 @@ java.lang.Exception: Stack trace
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Sprite size: 64
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Mipmap levels: 6
-[11:08:40] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[11:08:40] [Worker-Main-4/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/decorated_pot.png
-[11:08:40] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
-[11:08:40] [Worker-Main-8/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/chest.png
-[11:08:40] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
-[11:08:40] [Worker-Main-4/INFO]: [OptiFine] Mipmap levels: 4
-[11:08:40] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
-[11:08:40] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
-[11:08:40] [Worker-Main-8/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[11:08:40] [Worker-Main-4/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/shulker_boxes.png
-[11:08:40] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
-[11:08:40] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[11:08:40] [Worker-Main-11/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[11:08:40] [Worker-Main-8/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[11:08:40] [Worker-Main-11/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/beds.png
-[11:08:40] [Worker-Main-4/INFO]: [OptiFine] Sprite size: 64
-[11:08:40] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
-[11:08:40] [Worker-Main-4/INFO]: [OptiFine] Mipmap levels: 6
-[11:08:40] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[11:08:40] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[11:08:40] [Worker-Main-11/INFO]: [OptiFine] Sprite size: 64
-[11:08:40] [Worker-Main-11/INFO]: [OptiFine] Mipmap levels: 6
-[11:08:40] [Worker-Main-8/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/particles.png
-[11:08:40] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
-[11:08:40] [Worker-Main-4/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/paintings.png
-[11:08:40] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
-[11:08:40] [Worker-Main-11/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/mob_effects.png
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
-[11:08:40] [Worker-Main-11/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[11:08:40] [Worker-Main-5/INFO]: [OptiFine] Pre-stitch: mekanism:textures/atlas/robit.png
-[11:08:40] [Worker-Main-5/INFO]: [OptiFine] Multitexture: false
-[11:08:40] [Worker-Main-1/INFO]: [OptiFine] Pre-stitch: jei:textures/atlas/gui.png
-[11:08:40] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
-[11:08:40] [Worker-Main-1/INFO]: [OptiFine] Scaled non power of 2: jei:icons/recipe_transfer, 7 -> 14
-[11:08:40] [Worker-Main-1/INFO]: [OptiFine] Scaled non power of 2: jei:brewing_stand_arrow, 7 -> 14
-[11:08:40] [Forge Version Check/INFO]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_2, 3 -> 9
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_1, 3 -> 9
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_0, 3 -> 9
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_11, 3 -> 9
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_10, 3 -> 9
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_6, 3 -> 9
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_5, 3 -> 9
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_4, 3 -> 9
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_3, 3 -> 9
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_9, 3 -> 9
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_8, 3 -> 9
-[11:08:40] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_7, 3 -> 9
-[11:08:40] [Worker-Main-6/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[11:08:40] [Worker-Main-6/INFO]: [OptiFine] Multipass connected textures: false
-[11:08:40] [Worker-Main-8/ERROR]: Failed to load model mahoutsukai:models/item/proximity_projection_keys2.json
+[21:32:14] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[21:32:14] [Worker-Main-6/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/beds.png
+[21:32:14] [Worker-Main-6/INFO]: [OptiFine] Multitexture: false
+[21:32:14] [Worker-Main-3/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/blocks.png
+[21:32:14] [Worker-Main-3/INFO]: [OptiFine] Multitexture: false
+[21:32:14] [Worker-Main-1/INFO]: [OptiFine] Sprite size: 64
+[21:32:14] [Worker-Main-1/INFO]: [OptiFine] Mipmap levels: 6
+[21:32:14] [Worker-Main-6/INFO]: [OptiFine] Sprite size: 64
+[21:32:14] [Worker-Main-6/INFO]: [OptiFine] Mipmap levels: 6
+[21:32:14] [Worker-Main-4/INFO]: [OptiFine] Sprite size: 64
+[21:32:14] [Worker-Main-4/INFO]: [OptiFine] Mipmap levels: 6
+[21:32:15] [Worker-Main-6/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[21:32:15] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[21:32:15] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
+[21:32:15] [Worker-Main-6/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[21:32:15] [Worker-Main-10/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[21:32:15] [Worker-Main-5/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[21:32:15] [Worker-Main-2/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[21:32:15] [Worker-Main-1/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[21:32:15] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[21:32:15] [Worker-Main-2/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/paintings.png
+[21:32:15] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
+[21:32:15] [Worker-Main-10/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/particles.png
+[21:32:15] [Worker-Main-10/INFO]: [OptiFine] Multitexture: false
+[21:32:15] [Worker-Main-5/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/mob_effects.png
+[21:32:15] [Worker-Main-5/INFO]: [OptiFine] Multitexture: false
+[21:32:15] [Worker-Main-6/INFO]: [OptiFine] Pre-stitch: jei:textures/atlas/gui.png
+[21:32:15] [Worker-Main-6/INFO]: [OptiFine] Multitexture: false
+[21:32:15] [Worker-Main-4/INFO]: [OptiFine] Pre-stitch: mekanism:textures/atlas/robit.png
+[21:32:15] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[21:32:15] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: jei:icons/recipe_transfer, 7 -> 14
+[21:32:15] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: jei:brewing_stand_arrow, 7 -> 14
+[21:32:15] [Worker-Main-10/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_2, 3 -> 9
+[21:32:15] [Worker-Main-10/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_1, 3 -> 9
+[21:32:15] [Worker-Main-10/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_0, 3 -> 9
+[21:32:15] [Worker-Main-10/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_11, 3 -> 9
+[21:32:15] [Worker-Main-10/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_10, 3 -> 9
+[21:32:15] [Worker-Main-10/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_6, 3 -> 9
+[21:32:15] [Worker-Main-10/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_5, 3 -> 9
+[21:32:15] [Worker-Main-10/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_4, 3 -> 9
+[21:32:15] [Worker-Main-10/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_3, 3 -> 9
+[21:32:15] [Worker-Main-10/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_9, 3 -> 9
+[21:32:15] [Worker-Main-10/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_8, 3 -> 9
+[21:32:15] [Worker-Main-10/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_7, 3 -> 9
+[21:32:15] [Worker-Main-5/ERROR]: Failed to load model mahoutsukai:models/item/proximity_projection_keys2.json
 com.google.gson.JsonParseException: Composite model requires a "children" element with at least one element.
 	at net.minecraftforge.client.model.CompositeModel$Loader.read(CompositeModel.java:420) ~[forge-1.20.1-47.4.10-universal.jar%23225!/:?]
 	at net.minecraftforge.client.model.CompositeModel$Loader.read(CompositeModel.java:403) ~[forge-1.20.1-47.4.10-universal.jar%23225!/:?]
@@ -315,88 +308,95 @@ com.google.gson.JsonParseException: Composite model requires a "children" elemen
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[11:08:40] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
-[11:08:40] [Forge Version Check/INFO]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[11:08:40] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[11:08:41] [Worker-Main-9/INFO]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5b0cf16b]
-[11:08:41] [Worker-Main-9/INFO]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
-[11:08:41] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 47.4.10 Target: null
-[11:08:41] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
-[11:08:41] [Worker-Main-1/INFO]: HELLO FROM CLIENT SETUP
-[11:08:41] [Worker-Main-11/INFO]: Initialized HolidayManager.
-[11:08:41] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
-[11:08:42] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=1,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=0,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=3,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=10,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=11,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=9,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=2,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=7,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=4,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=8,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=14,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=12,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=13,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=13,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=3,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=14,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=11,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=2,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=5,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=15,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=9,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=15,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=6,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=12,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=8,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=0,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=7,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=4,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=5,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=6,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=10,roof=true'
-[11:08:42] [Worker-Main-7/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=1,roof=true'
-[11:08:42] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
-[11:08:42] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
-[11:08:43] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
-[11:08:43] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
-[11:08:43] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
-[11:08:43] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
-[11:08:44] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
-[11:08:44] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
-[11:08:44] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
-[11:08:44] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
-[11:08:45] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
-[11:08:45] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
-[11:08:45] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
-[11:08:45] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
-[11:08:46] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
-[11:08:46] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
-[11:08:46] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
-[11:08:46] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
-[11:08:46] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
-[11:08:47] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
-[11:08:47] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
-[11:08:47] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
-[11:08:47] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
-[11:08:48] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
-[11:08:48] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
-[11:08:48] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
-[11:08:48] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
-[11:08:48] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
-[11:08:49] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
-[11:08:49] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
-[11:08:49] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
-[11:08:49] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
-[11:08:49] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
-[11:08:49] [Worker-Main-6/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
-[11:08:49] [Worker-Main-6/INFO]: [OptiFine] Multipass connected textures: false
-[11:08:49] [Worker-Main-6/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
-[11:08:54] [Worker-Main-6/INFO]: [OptiFine] Mipmap levels: 4
-[11:08:54] [Worker-Main-8/WARN]: Invalid frame index on sprite kubejs:item/pomagico frame 8: 8
-[11:08:54] [Worker-Main-9/ERROR]: Unable to parse metadata from avaritia:item/mask
+[21:32:15] [Worker-Main-5/INFO]: Version 10.4.12 initializing...
+[21:32:15] [Worker-Main-3/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[21:32:15] [Worker-Main-3/INFO]: [OptiFine] Multipass connected textures: false
+[21:32:15] [Worker-Main-6/INFO]: HELLO FROM COMMON SETUP
+[21:32:15] [Forge Version Check/INFO]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[21:32:15] [Worker-Main-5/INFO]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[21:32:15] [Worker-Main-5/INFO]: Mod loaded.
+[21:32:15] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[21:32:16] [Forge Version Check/INFO]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[21:32:16] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21:32:16] [Worker-Main-6/INFO]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4bcac11d]
+[21:32:16] [Worker-Main-6/INFO]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[21:32:16] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[21:32:16] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 47.4.10 Target: null
+[21:32:16] [Worker-Main-4/INFO]: HELLO FROM CLIENT SETUP
+[21:32:16] [Worker-Main-6/INFO]: Initialized HolidayManager.
+[21:32:16] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[21:32:16] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=1,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=0,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=3,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=10,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=11,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=9,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=2,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=7,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=4,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=8,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=14,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=12,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=13,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=13,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=3,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=14,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=11,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=2,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=5,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=15,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=9,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=15,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=6,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=12,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=8,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=0,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=7,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=4,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=5,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=6,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=10,roof=true'
+[21:32:17] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=1,roof=true'
+[21:32:17] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[21:32:17] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[21:32:17] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[21:32:18] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[21:32:18] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[21:32:18] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[21:32:18] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[21:32:19] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[21:32:19] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[21:32:19] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[21:32:19] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[21:32:20] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[21:32:20] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[21:32:20] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[21:32:20] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[21:32:20] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[21:32:21] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[21:32:21] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[21:32:21] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[21:32:21] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[21:32:22] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[21:32:22] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[21:32:22] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[21:32:22] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[21:32:22] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[21:32:23] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[21:32:23] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[21:32:23] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[21:32:23] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[21:32:23] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[21:32:24] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
+[21:32:24] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[21:32:24] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[21:32:24] [Worker-Main-3/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[21:32:24] [Worker-Main-3/INFO]: [OptiFine] Multipass connected textures: false
+[21:32:24] [Worker-Main-3/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[21:32:28] [Worker-Main-3/INFO]: [OptiFine] Mipmap levels: 4
+[21:32:29] [Worker-Main-8/WARN]: Invalid frame index on sprite kubejs:item/pomagico frame 8: 8
+[21:32:29] [Worker-Main-2/ERROR]: Unable to parse metadata from avaritia:item/mask
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
@@ -425,7 +425,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%23107!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
 	... 16 more
-[11:08:54] [Worker-Main-3/ERROR]: Unable to parse metadata from avaritia:item/pull_1_mask
+[21:32:29] [Worker-Main-3/ERROR]: Unable to parse metadata from avaritia:item/pull_1_mask
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
@@ -454,7 +454,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%23107!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
 	... 16 more
-[11:08:54] [Worker-Main-4/ERROR]: Unable to parse metadata from avaritia:item/pull_0_mask
+[21:32:29] [Worker-Main-2/ERROR]: Unable to parse metadata from avaritia:item/pull_0_mask
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
@@ -483,9 +483,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%23107!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
 	... 16 more
-[11:08:54] [Worker-Main-5/WARN]: Unused frames in sprite kubejs:item/singularity: [3, 4, 5]
-[11:08:54] [Worker-Main-4/WARN]: Unused frames in sprite avaritia:block/extreme_side: [8]
-[11:08:54] [Worker-Main-9/ERROR]: Unable to parse metadata from avaritia:item/pull_1
+[21:32:29] [Worker-Main-5/WARN]: Unused frames in sprite kubejs:item/singularity: [3, 4, 5]
+[21:32:29] [Worker-Main-4/WARN]: Unused frames in sprite avaritia:block/extreme_side: [8]
+[21:32:29] [Worker-Main-3/ERROR]: Unable to parse metadata from avaritia:item/pull_0
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
@@ -514,7 +514,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%23107!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
 	... 16 more
-[11:08:54] [Worker-Main-3/ERROR]: Unable to parse metadata from avaritia:item/pull_0
+[21:32:29] [Worker-Main-8/ERROR]: Unable to parse metadata from avaritia:item/pull_1
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
@@ -543,7 +543,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%23107!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
 	... 16 more
-[11:08:54] [Worker-Main-6/ERROR]: Unable to parse metadata from avaritia:item/pull_2
+[21:32:29] [Worker-Main-7/ERROR]: Unable to parse metadata from avaritia:item/pull_2
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
@@ -572,7 +572,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%23107!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
 	... 16 more
-[11:08:54] [Worker-Main-1/ERROR]: Unable to parse metadata from avaritia:item/idle_mask
+[21:32:29] [Worker-Main-6/ERROR]: Unable to parse metadata from avaritia:item/idle_mask
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
@@ -601,8 +601,8 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%23107!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
 	... 16 more
-[11:08:54] [Worker-Main-5/WARN]: Unused frames in sprite avaritia:item/infinity_ingot: [0, 1, 2, 3, 4]
-[11:08:54] [Worker-Main-9/ERROR]: Unable to parse metadata from avaritia:item/pull_2_mask
+[21:32:29] [Worker-Main-7/WARN]: Unused frames in sprite avaritia:item/infinity_ingot: [0, 1, 2, 3, 4]
+[21:32:29] [Worker-Main-8/ERROR]: Unable to parse metadata from avaritia:item/pull_2_mask
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
@@ -631,264 +631,242 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%23107!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23220!/:?]
 	... 16 more
-[11:08:54] [Worker-Main-9/INFO]: [OptiFine] Scaled non power of 2: mahoutsukai:block/runes, 199 -> 208
-[11:08:54] [Worker-Main-9/INFO]: [OptiFine] Scaled non power of 2: createdieselgenerators:block/canister, 24 -> 32
-[11:08:56] [Worker-Main-9/WARN]: Missing textures in model createdieselgenerators:gasoline#level=5:
+[21:32:29] [Worker-Main-8/INFO]: [OptiFine] Scaled non power of 2: mahoutsukai:block/runes, 199 -> 208
+[21:32:29] [Worker-Main-8/INFO]: [OptiFine] Scaled non power of 2: createdieselgenerators:block/canister, 24 -> 32
+[21:32:31] [Worker-Main-5/WARN]: Missing textures in model createdieselgenerators:gasoline#level=5:
     minecraft:textures/atlas/blocks.png:createdieselgenerators:fluid/gasoline_still
-[11:08:56] [Worker-Main-9/WARN]: Missing textures in model botania:potted_hydroangeas_motif#:
+[21:32:31] [Worker-Main-5/WARN]: Missing textures in model botania:potted_hydroangeas_motif#:
     minecraft:textures/atlas/blocks.png:botania:block/hydroangeas_motif
-[11:08:56] [Worker-Main-9/WARN]: Missing textures in model botania:potted_nightshade_motif#:
+[21:32:31] [Worker-Main-5/WARN]: Missing textures in model botania:potted_nightshade_motif#:
     minecraft:textures/atlas/blocks.png:botania:block/nightshade_motif
-[11:08:56] [Worker-Main-9/WARN]: Missing textures in model createdieselgenerators:crude_oil#level=14:
+[21:32:31] [Worker-Main-5/WARN]: Missing textures in model createdieselgenerators:crude_oil#level=14:
     minecraft:textures/atlas/blocks.png:createdieselgenerators:fluid/crude_oil_still
-[11:08:56] [Worker-Main-9/WARN]: Missing textures in model createdieselgenerators:diesel#level=14:
+[21:32:31] [Worker-Main-5/WARN]: Missing textures in model createdieselgenerators:diesel#level=14:
     minecraft:textures/atlas/blocks.png:createdieselgenerators:fluid/diesel_still
-[11:08:56] [Worker-Main-9/WARN]: Missing textures in model kubejs:wrought_axe_in_hand#inventory:
+[21:32:31] [Worker-Main-5/WARN]: Missing textures in model kubejs:wrought_axe_in_hand#inventory:
     minecraft:textures/atlas/blocks.png:mowziesmobs:item/wrought_axe
-[11:08:56] [Worker-Main-9/WARN]: Missing textures in model createdieselgenerators:biodiesel#level=3:
+[21:32:31] [Worker-Main-5/WARN]: Missing textures in model createdieselgenerators:biodiesel#level=3:
     minecraft:textures/atlas/blocks.png:createdieselgenerators:fluid/biodiesel_still
-[11:08:56] [Worker-Main-9/WARN]: Missing textures in model createdieselgenerators:plant_oil#level=15:
+[21:32:31] [Worker-Main-5/WARN]: Missing textures in model createdieselgenerators:plant_oil#level=15:
     minecraft:textures/atlas/blocks.png:createdieselgenerators:fluid/plant_oil_still
-[11:08:56] [Worker-Main-9/WARN]: Missing textures in model createdieselgenerators:ethanol#level=0:
+[21:32:31] [Worker-Main-5/WARN]: Missing textures in model createdieselgenerators:ethanol#level=0:
     minecraft:textures/atlas/blocks.png:createdieselgenerators:fluid/ethanol_still
-[11:08:56] [Worker-Main-9/WARN]: Missing textures in model botania:potted_daybloom_motif#:
+[21:32:31] [Worker-Main-5/WARN]: Missing textures in model botania:potted_daybloom_motif#:
     minecraft:textures/atlas/blocks.png:botania:block/daybloom_motif
-[11:08:56] [Worker-Main-9/WARN]: Missing textures in model ars_nouveau:redstone_relay#facing=east,power=8:
+[21:32:31] [Worker-Main-5/WARN]: Missing textures in model ars_nouveau:redstone_relay#facing=east,power=8:
     minecraft:textures/atlas/blocks.png:ars_nouveau:blocks/agronomic_sourcelink
-[11:08:56] [Render thread/INFO]: Loaded all shader sources.
-[11:08:59] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
-[11:08:59] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
-[11:08:59] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Alto-falantes (Realtek(R) Audio)
-[11:08:59] [Render thread/INFO]: Sound engine started
-[11:08:59] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/blocks.png-atlas
-[11:08:59] [Render thread/INFO]: [OptiFine] Animated sprites: 295
-[11:08:59] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[11:08:59] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:08:59] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[11:08:59] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:08:59] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[11:08:59] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:08:59] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[11:08:59] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:08:59] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[11:08:59] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:08:59] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[11:08:59] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:08:59] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[11:08:59] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:08:59] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[11:08:59] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:09:00] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
-[11:09:00] [Render thread/WARN]: Shader botania:film_grain_particle could not find sampler named Sampler2 in the specified shader program.
-[11:09:00] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/particles.png-atlas
-[11:09:00] [Render thread/INFO]: [OptiFine] Animated sprites: 1
-[11:09:00] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[11:09:00] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:09:00] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/mob_effects.png-atlas
-[11:09:00] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:09:00] [Render thread/INFO]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
-[11:09:00] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:09:00] [Render thread/INFO]: Created: 512x256x0 mekanism:textures/atlas/robit.png-atlas
-[11:09:00] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[11:09:00] [Render thread/INFO]: BookContentResourceListenerLoader preloaded 558 jsons
-[11:09:00] [Render thread/INFO]: Loaded 51 train hat configurations.
-[11:09:00] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
-[11:09:00] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[11:09:00] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[11:09:00] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[11:09:04] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[11:09:04] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[11:09:04] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
-[11:09:04] [Render thread/INFO]: [OptiFine] Set ForgeConfig.CLIENT.experimentalForgeLightPipelineEnabled=false
-[11:09:04] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: null
-[11:09:06] [Render thread/ERROR]: Illegal format found `{0,choice,0#Sem mods|1#1<{0} mods} carregados`
-[11:09:07] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
-[11:09:07] [Render thread/INFO]: Registry minecraft:item: Found a missing id from the world kubejs:advanced_bin
-[11:09:07] [Render thread/INFO]: Registry minecraft:item: Found a missing id from the world kubejs:ingot_pulsante
-[11:09:07] [Render thread/INFO]: Registry minecraft:item: Found a missing id from the world kubejs:olho_de_deus
-[11:09:07] [Render thread/INFO]: Registry minecraft:item: Found a missing id from the world kubejs:terra
-[11:09:07] [Render thread/ERROR]: Unidentified mapping from registry minecraft:item
-	kubejs:advanced_bin: 3457
-	kubejs:ingot_pulsante: 3444
-	kubejs:olho_de_deus: 3446
-	kubejs:terra: 3450
-
-[11:09:07] [Render thread/WARN]: Forge Mod Loader detected missing registry entries.
-
-There are 4 missing entries in this save.
-If you continue the missing entries will get removed.
-A world backup will be automatically created in your saves directory.
-
-
-[11:09:07] [Render thread/WARN]: Missing minecraft:item:
-    kubejs:advanced_bin
-    kubejs:ingot_pulsante
-    kubejs:olho_de_deus
-    kubejs:terra
-
-
-[11:09:07] [Render thread/ERROR]: There are unidentified mappings in this world - we are going to attempt to process anyway
-[11:09:08] [Render thread/INFO]: example.js#5: Hello, World! (Loaded server scripts)
-[11:09:08] [Render thread/INFO]: Loaded script server_scripts:example.js in 0.006 s
-[11:09:08] [Render thread/INFO]: Loaded 1/1 KubeJS server scripts in 0.012 s with 0 errors and 0 warnings
-[11:09:08] [Render thread/INFO]: Scripts loaded
-[11:09:08] [Render thread/INFO]: Initializing recipe event...
-[11:09:09] [Render thread/INFO]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[11:09:09] [Worker-Main-8/INFO]: [minecraft:block] Found 432 tags, added 6 objects, removed 0 objects
-[11:09:10] [Render thread/INFO]: Processing recipes...
-[11:09:10] [Render thread/WARN]: Failed to parse recipe 'createdieselgenerators:basin_fermenting/golden_apple[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [ingredients:{input_fluid|input_item}[], processingTime:ticks, results:{output_fluid|output_item}[], heatRequirement:string]
-[11:09:10] [Render thread/WARN]: Failed to parse recipe 'createdieselgenerators:basin_fermenting/fermented_spider_eye[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [processingTime:ticks, results:{output_fluid|output_item}[], ingredients:{input_fluid|input_item}[], heatRequirement:string]
-[11:09:10] [Render thread/WARN]: Failed to parse recipe 'createdieselgenerators:basin_fermenting/dough[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [processingTime:ticks, results:{output_fluid|output_item}[], ingredients:{input_fluid|input_item}[], heatRequirement:string]
-[11:09:10] [Render thread/WARN]: Failed to parse recipe 'createdieselgenerators:basin_fermenting/golden_carrot[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [processingTime:ticks, results:{output_fluid|output_item}[], ingredients:{input_fluid|input_item}[], heatRequirement:string]
-[11:09:10] [Render thread/WARN]: Failed to parse recipe 'createdieselgenerators:basin_fermenting/magma_cream[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [processingTime:ticks, ingredients:{input_fluid|input_item}[], results:{output_fluid|output_item}[], heatRequirement:string]
-[11:09:10] [Render thread/WARN]: Failed to parse recipe 'createdieselgenerators:distillation/crude_oil[createdieselgenerators:distillation]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
-[11:09:10] [Render thread/WARN]: Failed to parse recipe 'createdieselgenerators:basin_fermenting/fermentable[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [processingTime:ticks, results:{output_fluid|output_item}[], ingredients:{input_fluid|input_item}[], heatRequirement:string]
-[11:09:10] [Render thread/INFO]: Found 6227 recipes in 155.1 ms
-[11:09:10] [Render thread/INFO]: Posted recipe events in 60.87 ms
-[11:09:10] [KubeJS Recipe Event Worker 0/WARN]: Error parsing recipe botania:kjs/94xr2wa1i88fyu8ka8lm6fdgp[botania:runic_altar]: {"type":"botania:runic_altar","ingredients":[{"item":"cyclic:spikes_fire"},{"item":"minecraft:obsidian"},{"item":"cyclic:spikes_fire"},{"item":"minecraft:obsidian"}],"mana":12000,"output":{"item":"minecraft:crying_obsidian"}}: Unknown item 'cyclic:spikes_fire'
-[11:09:10] [Render thread/INFO]: Loaded 19 singularity type(s) in 11 ms
-[11:09:10] [Render thread/INFO]: Registered 19 recipes in 12 ms (KubeJS mode)
-[11:09:10] [Render thread/INFO]: Added 16 recipes, removed 2 recipes, modified 0 recipes, with 1 failed recipes in 53.02 ms
-[11:09:10] [Render thread/INFO]: Loaded 3529 advancements
-[11:09:10] [Render thread/INFO]: Loaded 11 curio slots
-[11:09:10] [Render thread/INFO]: Loaded 1 curio entities
-[11:09:11] [Render thread/INFO]: Loaded cucumber-tags.json in 1 ms
-[11:09:12] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
-[11:09:12] [Server thread/INFO]: Generating keypair
-[11:09:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:09:12] [Server thread/INFO]: Server resource reload complete!
-[11:09:14] [Render thread/INFO]: A preparar a área de nascimento: 0%
-[11:09:14] [Render thread/INFO]: A preparar a área de nascimento: 0%
-[11:09:14] [Render thread/INFO]: A preparar a área de nascimento: 0%
-[11:09:14] [Render thread/INFO]: A preparar a área de nascimento: 0%
-[11:09:14] [Render thread/INFO]: A preparar a área de nascimento: 0%
-[11:09:15] [Render thread/INFO]: A preparar a área de nascimento: 3%
-[11:09:15] [Render thread/INFO]: A preparar a área de nascimento: 71%
-[11:09:15] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
-[11:09:15] [Render thread/INFO]: Time elapsed: 3203 ms
-[11:09:17] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 27454 bytes (in 3 string chunks with the size of 10000)
-[11:09:17] [Server thread/INFO]: Sending reload packet to clients
-[11:09:17] [Server thread/INFO]: Changing view distance to 8, from 10
-[11:09:17] [Server thread/INFO]: Changing simulation distance to 12, from 0
-[11:09:17] [Render thread/WARN]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
-[11:09:23] [Netty Local Client IO #0/INFO]: Connected to a modded server.
-[11:09:23] [Server thread/INFO]: maycon[local:E:5240c845] logged in with entity id 68 at (195.24475893370143, 182.25002972817677, 92.19911932587607)
-[11:09:23] [Server thread/INFO]: maycon entrou no jogo
-[11:09:23] [Netty Local Client IO #0/INFO]: Decoded Weapon Attribute registry in 3 string chunks
-[11:09:23] [Render thread/INFO]: Started 6 worker threads
-[11:09:23] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
-[11:09:23] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
-[11:09:23] [Render thread/INFO]: Loaded 19 singularities from the server
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@236dd92e=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:infinity_boots_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@51c71d43=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:hoeofthe_green_earth_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@79cb04c6=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:infinity_helmet_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@1d907f1e=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:longbowofthe_heavens_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@7543cc33=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:infinity_ingot_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@65a8b295=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:infinity_leggings_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@4180978a=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:infinity_catalyst_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@6b9f00b9=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:neutron_collector_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@212b98fb=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:endest_pearl_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@19550a0e=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:neutronium_compressor_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@1320eb1b=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:world_breaker_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@7813b13a=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:swordofthe_cosmos_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@452636b3=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:natures_ruin_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@218fe939=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:cosmic_meatballs_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@288202d9=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:ultimate_stew_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@2fe05a4b=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritialiteextended:infinity_trident_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@69e6980f=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:infinity_chestplate_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@3d0dd8f5=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:skullfire_sword_jei
-[11:09:23] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@749250ec=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:planet_eater_jei
-[11:09:24] [Render thread/INFO]: Started wikis recipes collecting...
-[11:09:24] [Render thread/INFO]: Wiki recipes collecting completed in : 66 ms
-[11:09:24] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
-[11:09:24] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
-[11:09:24] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
-[11:09:24] [Render thread/INFO]: Starting JEI...
-[11:09:24] [Render thread/INFO]: Registering item subtypes...
-[11:09:24] [Render thread/INFO]: Registering item subtypes: mekanism:jei_plugin took 19.24 milliseconds
-[11:09:24] [Render thread/INFO]: Registering item subtypes took 27.77 ms
-[11:09:24] [Render thread/INFO]: Registering fluid subtypes...
-[11:09:24] [Render thread/INFO]: Registering fluid subtypes took 1.437 ms
-[11:09:24] [Render thread/INFO]: Registering ingredients...
-[11:09:24] [Render thread/WARN]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. Blocos de operador
-[11:09:24] [Render thread/INFO]: Registering ingredients: jei:minecraft took 246.5 milliseconds
-[11:09:24] [Render thread/INFO]: Registering ingredients took 248.5 ms
-[11:09:24] [Render thread/INFO]: Registering extra ingredients...
-[11:09:24] [Render thread/INFO]: Registering extra ingredients took 317.6 ?s
-[11:09:24] [Render thread/INFO]: Registering search ingredient aliases...
-[11:09:24] [Render thread/INFO]: Registering search ingredient aliases took 374.5 ?s
-[11:09:24] [Render thread/INFO]: Registering categories...
-[11:09:24] [Render thread/INFO]: Registering categories: jei:minecraft took 11.57 milliseconds
-[11:09:24] [Render thread/INFO]: Registering categories: mekanism:jei_plugin took 24.36 milliseconds
-[11:09:24] [Render thread/INFO]: Registering categories: create:jei_plugin took 27.83 milliseconds
-[11:09:24] [Render thread/INFO]: Registering categories took 90.06 ms
-[11:09:24] [Render thread/INFO]: Registering vanilla category extensions...
-[11:09:24] [Render thread/INFO]: Registering vanilla category extensions took 4.323 ms
-[11:09:24] [Render thread/INFO]: Registering recipe catalysts...
-[11:09:24] [Render thread/INFO]: Registering recipe catalysts took 3.997 ms
-[11:09:24] [Render thread/INFO]: Building recipe registry...
-[11:09:24] [Render thread/INFO]: Building recipe registry took 15.78 ms
-[11:09:24] [Render thread/INFO]: Registering advanced plugins...
-[11:09:24] [Render thread/INFO]: Registering advanced plugins took 338.4 ?s
-[11:09:24] [Render thread/INFO]: Registering recipes...
-[11:09:25] [Render thread/INFO]: Registering recipes: jei:minecraft took 389.8 milliseconds
-[11:09:25] [Render thread/INFO]: Registering recipes: botania:main took 12.36 milliseconds
-[11:09:25] [Render thread/INFO]: Registering recipes: mekanism:jei_plugin took 43.59 milliseconds
-[11:09:25] [Render thread/INFO]: Registering recipes: create:jei_plugin took 231.2 milliseconds
-[11:09:25] [Render thread/INFO]: Registering recipes: ars_nouveau:main took 11.33 milliseconds
-[11:09:25] [Render thread/INFO]: Registering recipes took 706.9 ms
-[11:09:25] [Render thread/INFO]: Registering recipes transfer handlers...
-[11:09:25] [Render thread/INFO]: Registering recipes transfer handlers took 11.47 ms
-[11:09:25] [Render thread/INFO]: Building runtime...
-[11:09:25] [Render thread/INFO]: Registering gui handlers...
-[11:09:25] [Render thread/INFO]: Registering gui handlers took 10.78 ms
-[11:09:25] [Render thread/INFO]: Registering Runtime...
-[11:09:25] [Render thread/INFO]: Starting JEI GUI
-[11:09:25] [Render thread/INFO]: Building ingredient list...
-[11:09:25] [Render thread/INFO]: Building ingredient list took 56.91 ms
-[11:09:25] [Render thread/INFO]: Building ingredient filter...
-[11:09:25] [Render thread/INFO]: Adding 4683 ingredients
-[11:09:26] [Render thread/INFO]: Added 4683 ingredients
-[11:09:26] [Render thread/INFO]: Building ingredient filter took 719.3 ms
-[11:09:26] [Render thread/INFO]: Registering Runtime: jei:forge_gui took 876.2 milliseconds
-[11:09:26] [Render thread/INFO]: Registering Runtime took 876.8 ms
-[11:09:26] [Render thread/INFO]: Building runtime took 894.3 ms
-[11:09:26] [Render thread/INFO]: Sending Runtime...
-[11:09:26] [Render thread/INFO]: Sending Runtime took 2.338 ms
-[11:09:26] [Render thread/INFO]: Starting JEI took 2.047 s
-[11:09:26] [Render thread/INFO]: [System] [CHAT] Uma nova versão do §eOptiFine§f está agora disponível: §e§nHD Ultra I6§r§f
-[11:09:26] [Render thread/INFO]: Loaded 6 advancements
-[11:09:26] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 342.9 ?s
-[11:09:26] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 301.0 ?s
-[11:09:26] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 271.8 ?s
-[11:09:27] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 25.90 ?s
-[11:09:27] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 22.00 ?s
-[11:09:27] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 15.20 ?s
-[11:09:27] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 310.4 ?s
-[11:09:27] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 470.7 ?s
-[11:09:27] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 299.3 ?s
-[11:09:27] [Render thread/INFO]: calculated cape performance:TEXTURE_272, middle time: 1.5
-[11:09:27] [Render thread/INFO]: can use texture size:TEXTURE_272, middle time: 0.7
-[11:09:38] [Render thread/INFO]: Loaded 11 advancements
-[11:09:44] [Render thread/INFO]: Stopping!
-[11:09:44] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
-[11:09:44] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
-[11:09:44] [Render thread/INFO]: Stopping JEI
-[11:09:44] [Render thread/INFO]: Sending Runtime Unavailable...
-[11:09:44] [Render thread/INFO]: Stopping JEI GUI
-[11:09:44] [Render thread/INFO]: Sending Runtime Unavailable took 2.161 ms
-[11:09:44] [Server thread/INFO]: maycon lost connection: Desconectado
-[11:09:44] [Server thread/INFO]: maycon saiu do jogo
-[11:09:44] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[11:09:44] [Server thread/INFO]: Stopping server
-[11:09:44] [Server thread/INFO]: Saving players
-[11:09:44] [Server thread/INFO]: Saving worlds
-[11:09:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Novo mundo]'/minecraft:overworld
-[11:09:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Novo mundo]'/minecraft:the_end
-[11:09:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Novo mundo]'/minecraft:the_nether
-[11:09:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Novo mundo]'/mahoutsukai:reality_marble
-[11:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (Novo mundo): All chunks are saved
-[11:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
-[11:09:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:32:31] [Render thread/INFO]: Loaded all shader sources.
+[21:32:33] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[21:32:33] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[21:32:33] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Alto-falantes (Realtek(R) Audio)
+[21:32:33] [Render thread/INFO]: Sound engine started
+[21:32:33] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[21:32:33] [Render thread/INFO]: [OptiFine] Animated sprites: 295
+[21:32:33] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[21:32:33] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[21:32:33] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:32:33] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[21:32:33] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:32:33] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[21:32:33] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[21:32:33] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[21:32:33] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[21:32:33] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[21:32:33] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[21:32:33] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[21:32:33] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:32:33] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[21:32:33] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[21:32:33] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[21:32:34] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[21:32:34] [Render thread/WARN]: Shader botania:film_grain_particle could not find sampler named Sampler2 in the specified shader program.
+[21:32:34] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/particles.png-atlas
+[21:32:34] [Render thread/INFO]: [OptiFine] Animated sprites: 1
+[21:32:34] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[21:32:34] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[21:32:34] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:32:34] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[21:32:34] [Render thread/INFO]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[21:32:34] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[21:32:34] [Render thread/INFO]: Created: 512x256x0 mekanism:textures/atlas/robit.png-atlas
+[21:32:34] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[21:32:34] [Render thread/INFO]: BookContentResourceListenerLoader preloaded 558 jsons
+[21:32:34] [Render thread/INFO]: Loaded 51 train hat configurations.
+[21:32:34] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[21:32:34] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[21:32:34] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[21:32:34] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[21:32:38] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[21:32:38] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
+[21:32:38] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
+[21:32:38] [Render thread/INFO]: [OptiFine] Set ForgeConfig.CLIENT.experimentalForgeLightPipelineEnabled=false
+[21:32:38] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: null
+[21:32:40] [Render thread/ERROR]: Illegal format found `{0,choice,0#Sem mods|1#1<{0} mods} carregados`
+[21:32:42] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[21:32:44] [Render thread/INFO]: example.js#5: Hello, World! (Loaded server scripts)
+[21:32:44] [Render thread/INFO]: Loaded script server_scripts:example.js in 0.008 s
+[21:32:44] [Render thread/INFO]: Loaded 1/1 KubeJS server scripts in 0.015 s with 0 errors and 0 warnings
+[21:32:44] [Render thread/INFO]: Scripts loaded
+[21:32:44] [Render thread/INFO]: Initializing recipe event...
+[21:32:44] [Render thread/INFO]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[21:32:45] [Worker-Main-7/INFO]: [minecraft:block] Found 432 tags, added 6 objects, removed 0 objects
+[21:32:45] [Render thread/INFO]: Processing recipes...
+[21:32:45] [Render thread/WARN]: Failed to parse recipe 'createdieselgenerators:basin_fermenting/golden_apple[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [ingredients:{input_fluid|input_item}[], heatRequirement:string, results:{output_fluid|output_item}[], processingTime:ticks]
+[21:32:45] [Render thread/WARN]: Failed to parse recipe 'createdieselgenerators:basin_fermenting/fermented_spider_eye[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [ingredients:{input_fluid|input_item}[], results:{output_fluid|output_item}[], heatRequirement:string, processingTime:ticks]
+[21:32:45] [Render thread/WARN]: Failed to parse recipe 'createdieselgenerators:basin_fermenting/dough[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [ingredients:{input_fluid|input_item}[], results:{output_fluid|output_item}[], heatRequirement:string, processingTime:ticks]
+[21:32:45] [Render thread/WARN]: Failed to parse recipe 'createdieselgenerators:basin_fermenting/golden_carrot[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [heatRequirement:string, results:{output_fluid|output_item}[], processingTime:ticks, ingredients:{input_fluid|input_item}[]]
+[21:32:45] [Render thread/WARN]: Failed to parse recipe 'createdieselgenerators:basin_fermenting/magma_cream[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [ingredients:{input_fluid|input_item}[], heatRequirement:string, processingTime:ticks, results:{output_fluid|output_item}[]]
+[21:32:45] [Render thread/WARN]: Failed to parse recipe 'createdieselgenerators:distillation/crude_oil[createdieselgenerators:distillation]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[21:32:45] [Render thread/WARN]: Failed to parse recipe 'createdieselgenerators:basin_fermenting/fermentable[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [heatRequirement:string, results:{output_fluid|output_item}[], ingredients:{input_fluid|input_item}[], processingTime:ticks]
+[21:32:45] [Render thread/INFO]: Found 6227 recipes in 208.6 ms
+[21:32:45] [Render thread/INFO]: Posted recipe events in 57.81 ms
+[21:32:45] [KubeJS Recipe Event Worker 0/WARN]: Error parsing recipe botania:kjs/94xr2wa1i88fyu8ka8lm6fdgp[botania:runic_altar]: {"type":"botania:runic_altar","ingredients":[{"item":"cyclic:spikes_fire"},{"item":"minecraft:obsidian"},{"item":"cyclic:spikes_fire"},{"item":"minecraft:obsidian"}],"mana":12000,"output":{"item":"minecraft:crying_obsidian"}}: Unknown item 'cyclic:spikes_fire'
+[21:32:45] [Render thread/INFO]: Loaded 19 singularity type(s) in 20 ms
+[21:32:45] [Render thread/INFO]: Registered 19 recipes in 21 ms (KubeJS mode)
+[21:32:45] [Render thread/INFO]: Added 16 recipes, removed 2 recipes, modified 0 recipes, with 1 failed recipes in 56.96 ms
+[21:32:46] [Render thread/INFO]: Loaded 3529 advancements
+[21:32:46] [Render thread/INFO]: Loaded 11 curio slots
+[21:32:46] [Render thread/INFO]: Loaded 1 curio entities
+[21:32:47] [Render thread/INFO]: Loaded cucumber-tags.json in 1 ms
+[21:32:47] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[21:32:47] [Server thread/INFO]: Generating keypair
+[21:32:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:32:47] [Server thread/INFO]: Server resource reload complete!
+[21:32:49] [Render thread/INFO]: A preparar a área de nascimento: 0%
+[21:32:49] [Render thread/INFO]: A preparar a área de nascimento: 0%
+[21:32:49] [Render thread/INFO]: A preparar a área de nascimento: 0%
+[21:32:49] [Render thread/INFO]: A preparar a área de nascimento: 0%
+[21:32:49] [Render thread/INFO]: A preparar a área de nascimento: 0%
+[21:32:50] [Render thread/INFO]: A preparar a área de nascimento: 7%
+[21:32:50] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
+[21:32:50] [Render thread/INFO]: Time elapsed: 2945 ms
+[21:32:52] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 27454 bytes (in 3 string chunks with the size of 10000)
+[21:32:52] [Server thread/INFO]: Sending reload packet to clients
+[21:32:52] [Server thread/INFO]: Changing view distance to 8, from 10
+[21:32:52] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[21:32:52] [Render thread/WARN]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[21:32:58] [Netty Local Client IO #0/INFO]: Connected to a modded server.
+[21:32:58] [Server thread/INFO]: maycon[local:E:7f1d0207] logged in with entity id 75 at (192.53331626484965, 181.0, 95.06747338030769)
+[21:32:58] [Server thread/INFO]: maycon entrou no jogo
+[21:32:58] [Render thread/INFO]: Started 6 worker threads
+[21:32:58] [Netty Local Client IO #0/INFO]: Decoded Weapon Attribute registry in 3 string chunks
+[21:32:58] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[21:32:58] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[21:32:58] [Render thread/INFO]: Loaded 19 singularities from the server
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@17cb39d2=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:world_breaker_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@5499c228=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:infinity_ingot_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@46e740ed=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:hoeofthe_green_earth_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@7a324e97=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:infinity_helmet_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@5e724538=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:swordofthe_cosmos_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@17497c34=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:natures_ruin_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@5c85f3c7=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:neutron_collector_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@4e8ca614=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:longbowofthe_heavens_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@d0701b3=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:ultimate_stew_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@65e86f97=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:skullfire_sword_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@7c85d813=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:neutronium_compressor_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@50690cf6=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:endest_pearl_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@3d9df7b1=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:cosmic_meatballs_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@482e823a=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:infinity_catalyst_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@594e4fe8=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:infinity_boots_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@1c33043d=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:infinity_leggings_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@f846eb8=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritialiteextended:infinity_trident_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@2787f8bc=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:infinity_chestplate_jei
+[21:32:58] [Render thread/WARN]: Unknown recipe category: [!!!com.mojang.logging.LogUtils$1ToString@2de4a676=>java.lang.NullPointerException:Cannot invoke "Object.toString()" because the return value of "java.util.function.Supplier.get()" is null!!!]/avaritia:planet_eater_jei
+[21:32:59] [Render thread/INFO]: Started wikis recipes collecting...
+[21:32:59] [Render thread/INFO]: Wiki recipes collecting completed in : 74 ms
+[21:32:59] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[21:32:59] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[21:32:59] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[21:32:59] [Render thread/INFO]: Starting JEI...
+[21:32:59] [Render thread/INFO]: Registering item subtypes...
+[21:32:59] [Render thread/INFO]: Registering item subtypes: mekanism:jei_plugin took 28.35 milliseconds
+[21:32:59] [Render thread/INFO]: Registering item subtypes took 34.35 ms
+[21:32:59] [Render thread/INFO]: Registering fluid subtypes...
+[21:32:59] [Render thread/INFO]: Registering fluid subtypes took 2.804 ms
+[21:32:59] [Render thread/INFO]: Registering ingredients...
+[21:32:59] [Render thread/WARN]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. Blocos de operador
+[21:32:59] [Render thread/INFO]: Registering ingredients: jei:minecraft took 251.6 milliseconds
+[21:32:59] [Render thread/INFO]: Registering ingredients took 254.0 ms
+[21:32:59] [Render thread/INFO]: Registering extra ingredients...
+[21:32:59] [Render thread/INFO]: Registering extra ingredients took 316.8 ?s
+[21:32:59] [Render thread/INFO]: Registering search ingredient aliases...
+[21:32:59] [Render thread/INFO]: Registering search ingredient aliases took 447.0 ?s
+[21:32:59] [Render thread/INFO]: Registering categories...
+[21:32:59] [Render thread/INFO]: Registering categories: jei:minecraft took 15.34 milliseconds
+[21:32:59] [Render thread/INFO]: Registering categories: mekanism:jei_plugin took 25.33 milliseconds
+[21:32:59] [Render thread/INFO]: Registering categories: create:jei_plugin took 27.89 milliseconds
+[21:32:59] [Render thread/INFO]: Registering categories took 97.84 ms
+[21:32:59] [Render thread/INFO]: Registering vanilla category extensions...
+[21:32:59] [Render thread/INFO]: Registering vanilla category extensions took 4.265 ms
+[21:32:59] [Render thread/INFO]: Registering recipe catalysts...
+[21:32:59] [Render thread/INFO]: Registering recipe catalysts took 4.113 ms
+[21:32:59] [Render thread/INFO]: Building recipe registry...
+[21:32:59] [Render thread/INFO]: Building recipe registry took 14.44 ms
+[21:32:59] [Render thread/INFO]: Registering advanced plugins...
+[21:32:59] [Render thread/INFO]: Registering advanced plugins took 314.4 ?s
+[21:32:59] [Render thread/INFO]: Registering recipes...
+[21:33:00] [Render thread/INFO]: Registering recipes: jei:minecraft took 382.2 milliseconds
+[21:33:00] [Render thread/INFO]: Registering recipes: botania:main took 12.60 milliseconds
+[21:33:00] [Render thread/INFO]: Registering recipes: mekanism:jei_plugin took 44.80 milliseconds
+[21:33:00] [Render thread/INFO]: Registering recipes: create:jei_plugin took 239.5 milliseconds
+[21:33:00] [Render thread/INFO]: Registering recipes: ars_nouveau:main took 11.11 milliseconds
+[21:33:00] [Render thread/INFO]: Registering recipes took 704.7 ms
+[21:33:00] [Render thread/INFO]: Registering recipes transfer handlers...
+[21:33:00] [Render thread/INFO]: Registering recipes transfer handlers took 8.360 ms
+[21:33:00] [Render thread/INFO]: Building runtime...
+[21:33:00] [Render thread/INFO]: Registering gui handlers...
+[21:33:00] [Render thread/INFO]: Registering gui handlers took 10.97 ms
+[21:33:00] [Render thread/INFO]: Registering Runtime...
+[21:33:00] [Render thread/INFO]: Starting JEI GUI
+[21:33:00] [Render thread/INFO]: Building ingredient list...
+[21:33:00] [Render thread/INFO]: Building ingredient list took 50.95 ms
+[21:33:00] [Render thread/INFO]: Building ingredient filter...
+[21:33:00] [Render thread/INFO]: Adding 4683 ingredients
+[21:33:01] [Render thread/INFO]: Added 4683 ingredients
+[21:33:01] [Render thread/INFO]: Building ingredient filter took 734.0 ms
+[21:33:01] [Render thread/INFO]: Registering Runtime: jei:forge_gui took 896.4 milliseconds
+[21:33:01] [Render thread/INFO]: Registering Runtime took 897.2 ms
+[21:33:01] [Render thread/INFO]: Building runtime took 914.4 ms
+[21:33:01] [Render thread/INFO]: Sending Runtime...
+[21:33:01] [Render thread/INFO]: Sending Runtime took 2.002 ms
+[21:33:01] [Render thread/INFO]: Starting JEI took 2.087 s
+[21:33:01] [Render thread/INFO]: [System] [CHAT] Uma nova versão do §eOptiFine§f está agora disponível: §e§nHD Ultra I6§r§f
+[21:33:01] [Render thread/INFO]: Loaded 11 advancements
+[21:33:01] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 497.5 ?s
+[21:33:01] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 317.2 ?s
+[21:33:01] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 284.0 ?s
+[21:33:01] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 26.40 ?s
+[21:33:01] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 20.90 ?s
+[21:33:01] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 16.00 ?s
+[21:33:01] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 311.2 ?s
+[21:33:01] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 346.5 ?s
+[21:33:01] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 299.7 ?s
+[21:33:04] [Render thread/INFO]: calculated cape performance:TEXTURE_272, middle time: 2.0
+[21:33:06] [Render thread/INFO]: can use texture size:TEXTURE_272, middle time: 0.3
+[21:33:21] [Server thread/INFO]: Saving and pausing game...
+[21:33:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Novo mundo]'/minecraft:overworld
+[21:33:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Novo mundo]'/minecraft:the_nether
+[21:33:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Novo mundo]'/mahoutsukai:reality_marble
+[21:33:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Novo mundo]'/minecraft:the_end
+[21:37:02] [Render thread/INFO]: Stopping!
+[21:37:02] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[21:37:02] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[21:37:02] [Render thread/INFO]: Stopping JEI
+[21:37:02] [Render thread/INFO]: Sending Runtime Unavailable...
+[21:37:02] [Render thread/INFO]: Stopping JEI GUI
+[21:37:02] [Render thread/INFO]: Sending Runtime Unavailable took 1.662 ms
+[21:37:02] [Server thread/INFO]: maycon lost connection: Desconectado
+[21:37:02] [Server thread/INFO]: maycon saiu do jogo
+[21:37:02] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[21:37:02] [Server thread/INFO]: Stopping server
+[21:37:02] [Server thread/INFO]: Saving players
+[21:37:02] [Server thread/INFO]: Saving worlds
+[21:37:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Novo mundo]'/minecraft:overworld
+[21:37:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Novo mundo]'/minecraft:the_nether
+[21:37:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Novo mundo]'/mahoutsukai:reality_marble
+[21:37:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Novo mundo]'/minecraft:the_end
+[21:37:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (Novo mundo): All chunks are saved
+[21:37:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:37:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[21:37:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:37:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
