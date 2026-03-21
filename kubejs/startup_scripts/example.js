@@ -85,7 +85,6 @@ event.create('roxortnite_nugget')
         tier.repairIngredient = 'kubejs:realinite';
         tier.toughness = 5.0;
         tier.knockbackResistance = 2.0;
-        
       });
     });
 
@@ -95,7 +94,7 @@ event.create('realinite_capecete', 'helmet').displayName('Realinite Helmet').rar
 event.create('realinite_peitoral', 'chestplate').displayName('Realinite Chestplate').rarity('epic').tier('realinite');
 event.create('realinite_leggings', 'leggings').displayName('Realinite Leggings').rarity('epic').tier('realinite');
 event.create('realinite_botas', 'boots').displayName('Realinite Boots').rarity('epic').tier('realinite');
-event.create('custom_sword', 'sword').tier('realinite').attackDamageBaseline(14)
+event.create('realinite_sword', 'sword').tier('realinite').attackDamageBaseline(14);
 event.create('pomagico')
 event.create('advanced_engine')
 event.create('supreme_advanced_magic')
@@ -111,17 +110,16 @@ event.create("invertnite_capecete", 'helmet').displayName('Ivertnite Helmet').ra
 event.create("invertnite_peitoral", 'chestplate').displayName('Ivertnite Chestplate').rarity('rare').tier('invertnite');
 event.create("invertnite_leggings", 'leggings').displayName('Ivertnite Leggings').rarity('rare').tier('invertnite');
 event.create("invertnite_botas", 'boots').displayName('Ivertnite Boots').rarity('rare').tier('invertnite');
-event.create("invertnite_teste" , 'sword').tier('invertnite').attackDamageBaseline(10)
-event.create("void", 'axe').attackDamageBaseline(999)
-           axe.effect("minecraft:strength", 200, 1, 1.0).rarity('legendary');
+event.create("invertnite_sword" , 'sword').tier('invertnite').attackDamageBaseline(10)
+event.create("void", 'axe').attackDamageBaseline(999);
 
-event.create("magic_food")
-    .food(food => {
-        food.hunger(10)
-        food.saturation(1.0)
-        food.effect("minecraft:strength", 200, 1, 1.0)
-    })
 
+// event.create("magic_food")
+//  .food(food => {
+//     food.hunger(10)
+//     food.saturation(1.0)
+//     food.effect("minecraft:strength", 200, 1, 1.0)
+//  })
 
 Platform.mods.kubejs.name = 'tineti'
 }
