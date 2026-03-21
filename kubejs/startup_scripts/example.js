@@ -63,6 +63,28 @@ event.create('roxortnite_nugget')
       }); 
     });
 
+    ItemEvents.toolTierRegistry((event) => {
+      event.add("roxortnite", tier => {
+        tier.uses = 25000;
+        tier.speed = 27;
+        tier.attackDamageBonus = 43;
+        tier.level = 6;
+        tier.enchantmentValue = 35;
+        }); 
+      });
+
+      ItemEvents.armorTierRegistry((event) => {
+        event.add("roxortnite", tier => {  
+          tier.durabilityMultiplier = 5000;
+          tier.slotProtections = [50, 60, 75, 40]; 
+          tier.enchantmentValue = 40;
+          tier.equipSound = 'minecraft:item.armor.equip_netherite';
+          tier.repairIngredient = 'kubejs:roxortnite';
+          tier.toughness = 10.0;
+          tier.knockbackResistance = 8;
+        });
+      });
+
     ItemEvents.armorTierRegistry((event) => {
       event.add("invertnite", tier => {  
         tier.durabilityMultiplier = 300;
@@ -95,6 +117,16 @@ event.create('realinite_peitoral', 'chestplate').displayName('Realinite Chestpla
 event.create('realinite_leggings', 'leggings').displayName('Realinite Leggings').rarity('epic').tier('realinite');
 event.create('realinite_botas', 'boots').displayName('Realinite Boots').rarity('epic').tier('realinite');
 event.create('realinite_sword', 'sword').tier('realinite').attackDamageBaseline(14);
+event.create("invertnite_capecete", 'helmet').displayName('Ivertnite Helmet').rarity('rare').tier('invertnite');
+event.create("invertnite_peitoral", 'chestplate').displayName('Ivertnite Chestplate').rarity('rare').tier('invertnite');
+event.create("invertnite_leggings", 'leggings').displayName('Ivertnite Leggings').rarity('rare').tier('invertnite');
+event.create("invertnite_botas", 'boots').displayName('Ivertnite Boots').rarity('rare').tier('invertnite');
+event.create("invertnite_sword" , 'sword').tier('invertnite').attackDamageBaseline(10)
+event.create("roxortnite_capecete", 'helmet').displayName('Roxortnite Helmet').rarity('epic').tier('roxortnite');
+event.create("roxortnite_peitoral", 'chestplate').displayName('Roxortnite Chestplate').rarity('epic').tier('roxortnite');
+event.create("roxortnite_leggings", 'leggings').displayName('Roxortnite Leggings').rarity('epic').tier('roxortnite');
+event.create("roxortnite_botas", 'boots').displayName('Roxortnite Boots').rarity('epic').tier('roxortnite');
+event.create("roxortnite_sword" , 'sword').tier('roxortnite').attackDamageBaseline(43)
 event.create('pomagico')
 event.create('advanced_engine')
 event.create('supreme_advanced_magic')
@@ -105,15 +137,6 @@ event.create('singularity')
 event.create('divine_currency')
 event.create('test_1_gift')
 event.create('iuminati_test_2')
-event.create('wrought_axe_in_hand', 'axe')
-event.create("invertnite_capecete", 'helmet').displayName('Ivertnite Helmet').rarity('rare').tier('invertnite');
-event.create("invertnite_peitoral", 'chestplate').displayName('Ivertnite Chestplate').rarity('rare').tier('invertnite');
-event.create("invertnite_leggings", 'leggings').displayName('Ivertnite Leggings').rarity('rare').tier('invertnite');
-event.create("invertnite_botas", 'boots').displayName('Ivertnite Boots').rarity('rare').tier('invertnite');
-event.create("invertnite_sword" , 'sword').tier('invertnite').attackDamageBaseline(10)
-event.create("void", 'axe').attackDamageBaseline(999);
-
-
 // event.create("magic_food")
 //  .food(food => {
 //     food.hunger(10)
