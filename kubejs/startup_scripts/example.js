@@ -35,11 +35,11 @@ StartupEvents.registry('block', event => {
 
 StartupEvents.registry('item', event => {
 event.create('invertnite')
-event.create('invertinete_nugget')
 event.create('realinite')
 event.create('roxortnite')
-event.create('roxortnite_nugget')
 event.create('realinite_nugget')
+event.create('invertinete_nugget')
+event.create('roxortnite_nugget')
 });
 
 
@@ -96,7 +96,6 @@ event.create('realinite_peitoral', 'chestplate').displayName('Realinite Chestpla
 event.create('realinite_leggings', 'leggings').displayName('Realinite Leggings').rarity('epic').tier('realinite');
 event.create('realinite_botas', 'boots').displayName('Realinite Boots').rarity('epic').tier('realinite');
 event.create('custom_sword', 'sword').tier('realinite').attackDamageBaseline(14)
-
 event.create('pomagico')
 event.create('advanced_engine')
 event.create('supreme_advanced_magic')
@@ -108,16 +107,24 @@ event.create('divine_currency')
 event.create('test_1_gift')
 event.create('iuminati_test_2')
 event.create('wrought_axe_in_hand', 'axe')
-
 event.create("invertnite_capecete", 'helmet').displayName('Ivertnite Helmet').rarity('rare').tier('invertnite');
 event.create("invertnite_peitoral", 'chestplate').displayName('Ivertnite Chestplate').rarity('rare').tier('invertnite');
 event.create("invertnite_leggings", 'leggings').displayName('Ivertnite Leggings').rarity('rare').tier('invertnite');
 event.create("invertnite_botas", 'boots').displayName('Ivertnite Boots').rarity('rare').tier('invertnite');
 event.create("invertnite_teste" , 'sword').tier('invertnite').attackDamageBaseline(10)
-event.create("void", 'axe').attackDamageBaseline(99999999999999999999999999999999999999999999999999999999999999999999999999999999)
- }
-);
+event.create("void", 'axe').attackDamageBaseline(999)
+           axe.effect("minecraft:strength", 200, 1, 1.0).rarity('legendary');
+
+event.create("magic_food")
+    .food(food => {
+        food.hunger(10)
+        food.saturation(1.0)
+        food.effect("minecraft:strength", 200, 1, 1.0)
+    })
+
 
 Platform.mods.kubejs.name = 'tineti'
+}
+ );
  // ivertnite => realinite => roxortnite
  
