@@ -43,8 +43,8 @@ event.create('realinite_nugget')
 });
 
 
-ItemEvents.toolTierRegistry((event) => {
-  event.add("realinite", tier => {
+ ItemEvents.toolTierRegistry((event) => {
+   event.add("realinite", tier => {
     tier.uses = 8000;
     tier.speed = 11;
     tier.attackDamageBonus = 10;
@@ -52,6 +52,29 @@ ItemEvents.toolTierRegistry((event) => {
     tier.enchantmentValue = 18;
     }); 
   }); 
+
+   ItemEvents.toolTierRegistry((event) => {
+     event.add("invertnite", tier => {
+      tier.uses = 4000;
+      tier.speed = 9;
+      tier.attackDamageBonus = 7;
+      tier.level = 3;
+      tier.enchantmentValue = 16;
+      }); 
+    });
+
+    ItemEvents.armorTierRegistry((event) => {
+      event.add("invertnite", tier => {  
+        tier.durabilityMultiplier = 200;
+        tier.slotProtections = [10, 20, 25, 10]; 
+        tier.enchantmentValue = 15;
+        tier.equipSound = 'minecraft:item.armor.equip_diamond';
+        tier.repairIngredient = 'kubejs:invertnite';
+        tier.toughness = 3.0;
+        tier.knockbackResistance = 1.0;
+      });
+    });
+    
 
   ItemEvents.armorTierRegistry((event) => { 
     event.add("realinite", tier => {
@@ -78,6 +101,7 @@ event.create('realinite_peitoral', 'chestplate').displayName('Realinite Chestpla
 event.create('realinite_leggings', 'leggings').displayName('Realinite Leggings').rarity('epic').tier('realinite');
 event.create('realinite_botas', 'boots').displayName('Realinite Boots').rarity('epic').tier('realinite');
 event.create('custom_sword', 'sword').tier('realinite').attackDamageBaseline(14)
+
 event.create('pomagico')
 event.create('advanced_engine')
 event.create('supreme_advanced_magic')
@@ -89,6 +113,12 @@ event.create('divine_currency')
 event.create('test_1_gift')
 event.create('iuminati_test_2')
 event.create('wrought_axe_in_hand', 'axe')
+
+event.create("ivertnite_capecete", 'helmet').displayName('Ivertnite Helmet').rarity('rare').tier('invertnite');
+event.create("ivertnite_peitoral", 'chestplate').displayName('Ivertnite Chestplate').rarity('rare').tier('invertnite');
+event.create("ivertnite_leggings", 'leggings').displayName('Ivertnite Leggings').rarity('rare').tier('invertnite');
+event.create("ivertnite_botas", 'boots').displayName('Ivertnite Boots').rarity('rare').tier('invertnite');
+event.create("teste" , 'sword').tier('invertnite').attackDamageBaseline(10)
  }
 );
 

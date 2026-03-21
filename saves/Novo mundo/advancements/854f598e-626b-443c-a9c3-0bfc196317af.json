@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2026-03-21 02:26:05 -0300",
       "minecraft:spider": "2026-03-21 02:20:42 -0300",
       "minecraft:creeper": "2026-03-18 10:29:46 -0300",
       "minecraft:zombie": "2026-03-21 02:20:41 -0300"
@@ -88,6 +89,30 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2026-03-21 02:20:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2026-03-21 02:26:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2026-03-21 02:26:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-03-21 02:26:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2026-03-21 02:26:16 -0300"
     },
     "done": true
   },

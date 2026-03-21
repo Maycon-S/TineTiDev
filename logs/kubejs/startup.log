@@ -1,14 +1,15 @@
-[02:24:10] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[02:24:10] [INIT] Loaded plugins:
-[02:24:10] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[02:24:10] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[02:24:10] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[02:24:10] [INIT] - pie.ilikepiefoo.AdditionsPlugin
-[02:24:10] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
-[02:24:10] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
-[02:24:10] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[02:24:10] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
-[02:24:10] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[02:24:10] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[02:24:10] [INFO] Loaded script startup_scripts:example.js in 0.086 s
-[02:24:10] [INFO] Loaded 1/1 KubeJS startup scripts in 0.449 s with 0 errors and 0 warnings
+[13:56:21] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[13:56:21] [INIT] Loaded plugins:
+[13:56:21] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[13:56:21] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[13:56:21] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[13:56:21] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[13:56:21] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[13:56:21] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[13:56:21] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[13:56:21] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
+[13:56:21] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[13:56:22] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[13:56:22] [INFO] Loaded script startup_scripts:example.js in 0.092 s
+[13:56:22] [INFO] Loaded 1/1 KubeJS startup scripts in 0.47 s with 0 errors and 0 warnings
+[13:56:22] [ERROR] ! example.js#121: Error in 'StartupEvents.registry': ReferenceError: "teste" is not defined.
