@@ -114,10 +114,10 @@ event.create('test_1_gift')
 event.create('iuminati_test_2')
 event.create('wrought_axe_in_hand', 'axe')
 
-event.create("ivertnite_capecete", 'helmet').displayName('Ivertnite Helmet').rarity('rare').tier('invertnite');
-event.create("ivertnite_peitoral", 'chestplate').displayName('Ivertnite Chestplate').rarity('rare').tier('invertnite');
-event.create("ivertnite_leggings", 'leggings').displayName('Ivertnite Leggings').rarity('rare').tier('invertnite');
-event.create("ivertnite_botas", 'boots').displayName('Ivertnite Boots').rarity('rare').tier('invertnite');
+event.create("invertnite_capecete", 'helmet').displayName('Ivertnite Helmet').rarity('rare').tier('invertnite');
+event.create("invertnite_peitoral", 'chestplate').displayName('Ivertnite Chestplate').rarity('rare').tier('invertnite');
+event.create("invertnite_leggings", 'leggings').displayName('Ivertnite Leggings').rarity('rare').tier('invertnite');
+event.create("invertnite_botas", 'boots').displayName('Ivertnite Boots').rarity('rare').tier('invertnite');
 event.create("teste" , 'sword').tier('invertnite').attackDamageBaseline(10)
  }
 );
