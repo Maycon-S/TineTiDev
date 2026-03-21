@@ -45,9 +45,9 @@ event.create('realinite_nugget')
 
  ItemEvents.toolTierRegistry((event) => {
    event.add("realinite", tier => {
-    tier.uses = 8000;
-    tier.speed = 11;
-    tier.attackDamageBonus = 10;
+    tier.uses = 12000;
+    tier.speed = 14;
+    tier.attackDamageBonus = 15;
     tier.level = 4;
     tier.enchantmentValue = 18;
     }); 
@@ -55,9 +55,9 @@ event.create('realinite_nugget')
 
    ItemEvents.toolTierRegistry((event) => {
      event.add("invertnite", tier => {
-      tier.uses = 4000;
-      tier.speed = 9;
-      tier.attackDamageBonus = 7;
+      tier.uses = 6000;
+      tier.speed = 11;
+      tier.attackDamageBonus = 12;
       tier.level = 3;
       tier.enchantmentValue = 16;
       }); 
@@ -65,7 +65,7 @@ event.create('realinite_nugget')
 
     ItemEvents.armorTierRegistry((event) => {
       event.add("invertnite", tier => {  
-        tier.durabilityMultiplier = 200;
+        tier.durabilityMultiplier = 300;
         tier.slotProtections = [10, 20, 25, 10]; 
         tier.enchantmentValue = 15;
         tier.equipSound = 'minecraft:item.armor.equip_diamond';
@@ -78,7 +78,7 @@ event.create('realinite_nugget')
 
   ItemEvents.armorTierRegistry((event) => { 
     event.add("realinite", tier => {
-        tier.durabilityMultiplier = 400;
+        tier.durabilityMultiplier = 600;
         tier.slotProtections = [15, 25, 30, 15]; 
         tier.enchantmentValue = 22;
         tier.equipSound = 'minecraft:item.armor.equip_netherite';
@@ -89,13 +89,8 @@ event.create('realinite_nugget')
       });
     });
 
-ItemEvents.modification(event => { 
-event.modify('custom_sword', item => {
-  item.enchantmentValue = 30
-})
-})
 
- StartupEvents.registry('item', event => {
+StartupEvents.registry('item', event => {
 event.create('realinite_capecete', 'helmet').displayName('Realinite Helmet').rarity('epic').tier('realinite');
 event.create('realinite_peitoral', 'chestplate').displayName('Realinite Chestplate').rarity('epic').tier('realinite');
 event.create('realinite_leggings', 'leggings').displayName('Realinite Leggings').rarity('epic').tier('realinite');
@@ -118,7 +113,8 @@ event.create("invertnite_capecete", 'helmet').displayName('Ivertnite Helmet').ra
 event.create("invertnite_peitoral", 'chestplate').displayName('Ivertnite Chestplate').rarity('rare').tier('invertnite');
 event.create("invertnite_leggings", 'leggings').displayName('Ivertnite Leggings').rarity('rare').tier('invertnite');
 event.create("invertnite_botas", 'boots').displayName('Ivertnite Boots').rarity('rare').tier('invertnite');
-event.create("teste" , 'sword').tier('invertnite').attackDamageBaseline(10)
+event.create("invertnite_teste" , 'sword').tier('invertnite').attackDamageBaseline(10)
+event.create("void", 'axe').attackDamageBaseline(99999999999999999999999999999999999999999999999999999999999999999999999999999999)
  }
 );
 
