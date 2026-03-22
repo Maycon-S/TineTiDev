@@ -1172,6 +1172,313 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 306770,
+          "name": "Patchouli",
+          "author": "Vazkii",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/patchouli",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 821136,
+          "pictures": [],
+          "lanName": "patchouli",
+          "version": {
+            "id": 7731017,
+            "name": "1.20.1-85-FORGE",
+            "updateDate": 1773004124000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "d4614507d6e4c7cb464bba5eca891978272062ef",
+              "size": 642732,
+              "path": "mods/Patchouli-1.20.1-85-FORGE.jar",
+              "url": "/mods/306770/7731017/Patchouli-1.20.1-85-FORGE.jar"
+            },
+            "installed": 10460,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 1030,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1754168400000,
+          "update": 1754168400000,
+          "downloadALL": 6518697,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 309927,
+          "name": "Curios API (ForgeNeoForge)",
+          "author": "TheIllusiveC4",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/curios",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 781711,
+          "pictures": [],
+          "lanName": "curios",
+          "version": {
+            "id": 6418456,
+            "name": "curios-forge-5.14.1+1.20.1",
+            "updateDate": 1744549770000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              }
+            ],
+            "metadata": {
+              "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+              "size": 398066,
+              "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+              "url": "/mods/309927/6418456/curios-forge-5.14.1+1.20.1.jar"
+            },
+            "installed": 1929076,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 343,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1771362000000,
+          "update": 1771362000000,
+          "downloadALL": 12702811,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 225643,
+          "name": "Botania",
+          "author": "Vazkii",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/botania",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1,
+              "name": "magic",
+              "shortName": "magic",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 821218,
+          "pictures": [],
+          "lanName": "botania",
+          "version": {
+            "id": 7649894,
+            "name": "1.20.1-451-FORGE",
+            "updateDate": 1771524479000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "6edbc705ccb1ca075c8155f99144646a8168e8ee",
+              "size": 12201393,
+              "path": "mods/Botania-1.20.1-451-FORGE.jar",
+              "url": "/mods/225643/7649894/Botania-1.20.1-451-FORGE.jar"
+            },
+            "installed": 4687,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 7423,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 176,
+              "name": "Patchouli",
+              "gameEntityId": 306770,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 9,
+              "name": "Curios API (ForgeNeoForge)",
+              "gameEntityId": 309927,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1771448400000,
+          "update": 1771448400000,
+          "downloadALL": 5792764,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 399558,
+          "name": "Construction Wand",
+          "author": "thetadev",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/construction-wand",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            }
+          ],
+          "picture": 821213,
+          "pictures": [],
+          "lanName": "construction-wand",
+          "version": {
+            "id": 4684054,
+            "name": "constructionwand-1.20.1-2.11",
+            "updateDate": 1691254934000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              }
+            ],
+            "metadata": {
+              "sha1": "80bd5223cd8984dc1038cb9f2d1cb6b97f31998a",
+              "size": 210312,
+              "path": "mods/constructionwand-1.20.1-2.11.jar",
+              "url": "/mods/399558/4684054/constructionwand-1.20.1-2.11.jar"
+            },
+            "installed": 223286,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 509,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 47,
+            "name": "1.20.2"
+          },
+          "updated": 1697922000000,
+          "update": 1697922000000,
+          "downloadALL": 1757313,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
         }
       ],
       "resourcePacks": [],

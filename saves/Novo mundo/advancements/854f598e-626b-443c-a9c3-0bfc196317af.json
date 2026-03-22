@@ -375,5 +375,95 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window_pane": {
+    "criteria": {
+      "has_ingredient": "2026-03-22 12:43:15 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_helmet": {
+    "criteria": {
+      "has_prev_tier": "2026-03-22 12:47:49 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_leggings": {
+    "criteria": {
+      "has_prev_tier": "2026-03-22 12:47:50 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_boots": {
+    "criteria": {
+      "has_prev_tier": "2026-03-22 12:47:50 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_chestplate": {
+    "criteria": {
+      "has_prev_tier": "2026-03-22 12:47:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2026-03-22 15:08:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 15:09:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-03-22 15:09:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 15:09:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 15:09:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 15:09:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 15:09:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 15:09:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 15:09:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 15:09:02 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
