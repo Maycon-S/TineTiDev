@@ -46,7 +46,7 @@ event.create('roxortnite_nugget')
  ItemEvents.toolTierRegistry((event) => {
    event.add("realinite", tier => {
     tier.uses = 12000;
-    tier.speed = 14;
+    tier.speed = 15;
     tier.attackDamageBonus = 15;
     tier.level = 4;
     tier.enchantmentValue = 18;
@@ -56,7 +56,7 @@ event.create('roxortnite_nugget')
    ItemEvents.toolTierRegistry((event) => {
      event.add("invertnite", tier => {
       tier.uses = 6000;
-      tier.speed = 11;
+      tier.speed = 12;
       tier.attackDamageBonus = 12;
       tier.level = 3;
       tier.enchantmentValue = 16;
@@ -66,8 +66,8 @@ event.create('roxortnite_nugget')
     ItemEvents.toolTierRegistry((event) => {
       event.add("roxortnite", tier => {
         tier.uses = 25000;
-        tier.speed = 27;
-        tier.attackDamageBonus = 43;
+        tier.speed = 30;
+        tier.attackDamageBonus = 45;
         tier.level = 6;
         tier.enchantmentValue = 35;
         }); 
