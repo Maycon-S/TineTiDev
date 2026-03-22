@@ -137,9 +137,6 @@ event.create('supreme_advanced_engine')
 event.create('supreme_advanced_alchemy_of_machines')
 event.create('star')
 event.create('singularity')
-event.create('divine_currency')
-event.create('test_1_gift')
-event.create('iuminati_test_2')
 
 // event.create("magic_food")
 //  .food(food => {

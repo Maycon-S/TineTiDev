@@ -1,15 +1,15 @@
-[21:22:44] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[21:22:44] [INIT] Loaded plugins:
-[21:22:44] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[21:22:44] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[21:22:44] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[21:22:44] [INIT] - pie.ilikepiefoo.AdditionsPlugin
-[21:22:44] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
-[21:22:44] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
-[21:22:44] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[21:22:44] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
-[21:22:44] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[21:22:44] [INFO] example.js#5: Hello, World! (Loaded client scripts)
-[21:22:44] [INFO] Loaded script client_scripts:example.js in 0.0 s
-[21:22:44] [INFO] Loaded 1/1 KubeJS client scripts in 0.008 s with 0 errors and 0 warnings
-[21:22:44] [INFO] Client resource reload complete!
+[21:49:23] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[21:49:23] [INIT] Loaded plugins:
+[21:49:23] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[21:49:23] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[21:49:23] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[21:49:23] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[21:49:23] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[21:49:23] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[21:49:23] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[21:49:23] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
+[21:49:23] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[21:49:23] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[21:49:23] [INFO] Loaded script client_scripts:example.js in 0.0 s
+[21:49:23] [INFO] Loaded 1/1 KubeJS client scripts in 0.024 s with 0 errors and 0 warnings
+[21:49:27] [INFO] Client resource reload complete!
