@@ -1,4 +1,10 @@
 {
+  "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stone_cutterslab": {
+    "criteria": {
+      "has_journal": "2026-03-22 16:28:35 -0300"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/dull_trinket": {
     "criteria": {
       "has_journal": "2026-03-22 16:28:36 -0300"
@@ -512,12 +518,6 @@
   "ars_nouveau:recipes/misc/wixie_hat": {
     "criteria": {
       "has_journal": "2026-03-22 16:28:36 -0300"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stone_cutterslab": {
-    "criteria": {
-      "has_journal": "2026-03-22 16:28:35 -0300"
     },
     "done": true
   },
@@ -1670,6 +1670,30 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2026-03-22 16:28:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_hills": "2026-03-22 19:47:28 -0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-03-22 19:48:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2026-03-22 19:59:23 -0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2026-03-22 19:59:23 -0300"
     },
     "done": true
   },

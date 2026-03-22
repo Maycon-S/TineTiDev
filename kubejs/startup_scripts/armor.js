@@ -1,10 +1,10 @@
  ItemEvents.toolTierRegistry((event) => {
    event.add("realinite", tier => {
-    tier.uses = 12000;
-    tier.speed = 15;
-    tier.attackDamageBonus = 15;
-    tier.level = 4;
-    tier.enchantmentValue = 18;
+    tier.uses = 12000; // durabilidade muito alta, permitindo que as ferramentas sejam usadas por um longo período antes de se desgastarem.
+    tier.speed = 15; // velocidade de mineração rápida, permitindo que os jogadores minerem blocos mais rapidamente do que com materiais comuns.
+    tier.attackDamageBonus = 15; // bônus de dano de ataque significativo, tornando as ferramentas eficazes para combate além de mineração.
+    tier.level = 4; // nível de mineração avançado, permitindo que as ferramentas minerem blocos que exigem níveis mais altos, como obsidiana.
+    tier.enchantmentValue = 18; // valor de encantamento decente, permitindo que as ferramentas sejam encantadas com uma variedade de encantamentos úteis, mas não tão alto quanto os materiais mais poderosos, mantendo um equilíbrio.
     }); 
   }); 
 
@@ -20,7 +20,7 @@
 
     ItemEvents.toolTierRegistry((event) => {
       event.add("dimensionite", tier => {
-        tier.uses = 25000;
+        tier.uses = 25000; 
         tier.speed = 30;
         tier.attackDamageBonus = 45;
         tier.level = 6;
@@ -30,13 +30,13 @@
 
       ItemEvents.armorTierRegistry((event) => {
         event.add("dimensionite", tier => {  
-          tier.durabilityMultiplier = 5000;
-          tier.slotProtections = [50, 60, 75, 40]; 
-          tier.enchantmentValue = 40;
-          tier.equipSound = 'minecraft:item.armor.equip_netherite';
-          tier.repairIngredient = 'kubejs:dimensionite';
-          tier.toughness = 10.0;
-          tier.knockbackResistance = 8;
+          tier.durabilityMultiplier = 5000; // durabilidade extremamente alta, tornando a armadura muito resistente ao desgaste.
+          tier.slotProtections = [999, 999, 999, 999]; // proteção extremamente alta para cada peça de armadura, tornando-a quase indestrutível.
+          tier.enchantmentValue = 40; // valor de encantamento muito alto, permitindo encantamentos poderosos.
+          tier.equipSound = 'minecraft:item.armor.equip_netherite'; //  som de equipar a armadura, usando o som do Netherite para dar uma sensação de poder.
+          tier.repairIngredient = 'kubejs:dimensionite'; // item usado para reparar a armadura.
+          tier.toughness = 999.0; // resistência a danos muito alta, quase imune a ataques.
+          tier.knockbackResistance = 99; // resistência a knockback muito alta, quase imune a empurrões.
         });
       });
 
@@ -47,7 +47,7 @@
         tier.enchantmentValue = 15;
         tier.equipSound = 'minecraft:item.armor.equip_diamond';
         tier.repairIngredient = 'kubejs:invertnite';
-        tier.toughness = 3.0;
+        tier.toughness = 20.0;
         tier.knockbackResistance = 1.0;
       });
     });
@@ -60,7 +60,7 @@
         tier.enchantmentValue = 22;
         tier.equipSound = 'minecraft:item.armor.equip_netherite';
         tier.repairIngredient = 'kubejs:realinite';
-        tier.toughness = 5.0;
+        tier.toughness = 10.0;
         tier.knockbackResistance = 2.0;
       });
     });

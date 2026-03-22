@@ -1,15 +1,15 @@
-[16:26:45] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[16:26:45] [INIT] Loaded plugins:
-[16:26:45] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[16:26:45] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[16:26:45] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[16:26:45] [INIT] - pie.ilikepiefoo.AdditionsPlugin
-[16:26:45] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
-[16:26:45] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
-[16:26:45] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[16:26:45] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
-[16:26:45] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[16:26:46] [INFO] Loaded script startup_scripts:armor.js in 0.114 s
-[16:26:46] [INFO] Loaded script startup_scripts:block.js in 0.003 s
-[16:26:46] [INFO] Loaded script startup_scripts:itens.js in 0.002 s
-[16:26:46] [INFO] Loaded 3/3 KubeJS startup scripts in 0.593 s with 0 errors and 0 warnings
+[20:05:23] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[20:05:23] [INIT] Loaded plugins:
+[20:05:23] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[20:05:23] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[20:05:23] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[20:05:23] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[20:05:23] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[20:05:23] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[20:05:23] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[20:05:23] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
+[20:05:23] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[20:05:23] [INFO] Loaded script startup_scripts:armor.js in 0.105 s
+[20:05:23] [INFO] Loaded script startup_scripts:block.js in 0.005 s
+[20:05:23] [INFO] Loaded script startup_scripts:itens.js in 0.001 s
+[20:05:23] [INFO] Loaded 3/3 KubeJS startup scripts in 0.534 s with 0 errors and 0 warnings
