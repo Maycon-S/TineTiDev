@@ -11,13 +11,6 @@ relics = true
 #Set this to true to invert the Ring of Magnetization's controls (from shift to stop to shift to work)
 invertMagnetRing = false
 
-[rannuncarpus]
-	#List of item registry names that will be ignored by rannuncarpuses when placing blocks.
-	itemBlacklist = []
-	#List of mod names for rannuncarpuses to ignore.
-	#Ignores Storage Drawers by default due to crashes with placing drawer blocks without player involvement.
-	modBlacklist = ["storagedrawers"]
-
 [blockBreakingParticles]
 	#Set this to false to remove the block breaking particles from the flowers and other items in the mod.
 	enabled = true
@@ -48,4 +41,11 @@ invertMagnetRing = false
 	#Values below 4 (1024 block spacing) are not recommended due to Nether portal collisions.
 	#Range: 1 ~ 512
 	islandScaleMultiplier = 8
+
+[rannuncarpus]
+	#List of item registry names that will be ignored by rannuncarpuses when placing blocks.
+	itemBlacklist = []
+	#List of mod names for rannuncarpuses to ignore.
+	#Ignores Storage Drawers by default due to crashes with placing drawer blocks without player involvement.
+	modBlacklist = ["storagedrawers"]
 
