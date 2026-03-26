@@ -65,7 +65,7 @@
       });
     });
 
- // amor
+
 StartupEvents.registry('item', event => {
 event.create('realinite_capecete', 'helmet').displayName('Realinite Helmet').rarity('epic').tier('realinite');
 event.create('realinite_peitoral', 'chestplate').displayName('Realinite Chestplate').rarity('epic').tier('realinite');
@@ -85,16 +85,20 @@ event.create("dimensionite_leggings", 'leggings').displayName('Dimensionite Legg
 event.create("dimensionite_botas", 'boots').displayName('Dimensionite Boots').rarity('epic').tier('dimensionite');
 });
 
-// items
+
 StartupEvents.registry('item', event => {
 
- // realinite sitens
- event.create('realinite_sword', 'sword').tier('realinite').attackDamageBaseline(14);
 
- //  invertnite itens
+ event.create('realinite_sword', 'sword').tier('realinite').attackDamageBaseline(14);
+ event.create('realinite_pickaxe', 'pickaxe').tier('realinite').attackDamageBaseline(5);
+ event.create('realinite_axe', 'axe').tier('realinite').attackDamageBaseline(9);
+ event.create('realinite_shovel', 'shovel').tier('realinite').attackDamageBaseline(3);
+ event.create('realinite_hoe', 'hoe').tier('realinite').attackDamageBaseline(1);
+
+
  event.create("invertnite_sword" , 'sword').tier('invertnite').attackDamageBaseline(10)
 
- // dimensionite itens
+ 
  event.create("dimensionite_sword" , 'sword').tier('dimensionite').attackDamageBaseline(43)
 
 });
