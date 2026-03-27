@@ -1,30 +1,30 @@
-[14:20:26] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[14:20:26] [INIT] Loaded plugins:
-[14:20:26] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[14:20:26] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[14:20:26] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[14:20:26] [INIT] - pie.ilikepiefoo.AdditionsPlugin
-[14:20:26] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
-[14:20:26] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
-[14:20:26] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[14:20:26] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
-[14:20:26] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[14:20:26] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[14:20:26] [INFO] Loaded script server_scripts:example.js in 0.005 s
-[14:20:26] [INFO] Loaded 1/1 KubeJS server scripts in 0.016 s with 0 errors and 0 warnings
-[14:20:26] [INFO] Scripts loaded
-[14:20:26] [INFO] Initializing recipe event...
-[14:20:27] [INFO] [minecraft:block] Found 456 tags, added 6 objects, removed 0 objects
-[14:20:27] [INFO] Processing recipes...
-[14:20:27] [WARN] Failed to parse recipe 'createdieselgenerators:basin_fermenting/golden_apple[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [processingTime:ticks, ingredients:{input_fluid|input_item}[], results:{output_fluid|output_item}[], heatRequirement:string]
-[14:20:27] [WARN] Failed to parse recipe 'createdieselgenerators:basin_fermenting/fermented_spider_eye[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [ingredients:{input_fluid|input_item}[], processingTime:ticks, results:{output_fluid|output_item}[], heatRequirement:string]
-[14:20:27] [WARN] Failed to parse recipe 'createdieselgenerators:basin_fermenting/dough[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [processingTime:ticks, heatRequirement:string, ingredients:{input_fluid|input_item}[], results:{output_fluid|output_item}[]]
-[14:20:27] [WARN] Failed to parse recipe 'createdieselgenerators:basin_fermenting/golden_carrot[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [processingTime:ticks, heatRequirement:string, ingredients:{input_fluid|input_item}[], results:{output_fluid|output_item}[]]
-[14:20:27] [WARN] Failed to parse recipe 'createdieselgenerators:basin_fermenting/magma_cream[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [ingredients:{input_fluid|input_item}[], processingTime:ticks, results:{output_fluid|output_item}[], heatRequirement:string]
-[14:20:27] [WARN] Failed to parse recipe 'createdieselgenerators:distillation/crude_oil[createdieselgenerators:distillation]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
-[14:20:27] [WARN] Failed to parse recipe 'createdieselgenerators:basin_fermenting/fermentable[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [processingTime:ticks, ingredients:{input_fluid|input_item}[], heatRequirement:string, results:{output_fluid|output_item}[]]
-[14:20:27] [INFO] Found 6237 recipes in 118.2 ms
-[14:20:27] [INFO] Posted recipe events in 56.67 ms
-[14:20:27] [WARN] Error parsing recipe botania:kjs/94xr2wa1i88fyu8ka8lm6fdgp[botania:runic_altar]: {"type":"botania:runic_altar","ingredients":[{"item":"cyclic:spikes_fire"},{"item":"minecraft:obsidian"},{"item":"cyclic:spikes_fire"},{"item":"minecraft:obsidian"}],"mana":12000,"output":{"item":"minecraft:crying_obsidian"}}: Unknown item 'cyclic:spikes_fire'
-[14:20:27] [INFO] Added 16 recipes, removed 2 recipes, modified 0 recipes, with 1 failed recipes in 45.57 ms
-[14:20:29] [INFO] Server resource reload complete!
+[14:49:42] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[14:49:42] [INIT] Loaded plugins:
+[14:49:42] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:49:42] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[14:49:42] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[14:49:42] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[14:49:42] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[14:49:42] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[14:49:42] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[14:49:42] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
+[14:49:42] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[14:49:42] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[14:49:42] [INFO] Loaded script server_scripts:example.js in 0.006 s
+[14:49:42] [INFO] Loaded 1/1 KubeJS server scripts in 0.014 s with 0 errors and 0 warnings
+[14:49:42] [INFO] Scripts loaded
+[14:49:42] [INFO] Initializing recipe event...
+[14:49:43] [INFO] [minecraft:block] Found 456 tags, added 6 objects, removed 0 objects
+[14:49:43] [INFO] Processing recipes...
+[14:49:43] [WARN] Failed to parse recipe 'createdieselgenerators:basin_fermenting/golden_apple[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [heatRequirement:string, results:{output_fluid|output_item}[], ingredients:{input_fluid|input_item}[], processingTime:ticks]
+[14:49:43] [WARN] Failed to parse recipe 'createdieselgenerators:basin_fermenting/fermented_spider_eye[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [ingredients:{input_fluid|input_item}[], results:{output_fluid|output_item}[], heatRequirement:string, processingTime:ticks]
+[14:49:43] [WARN] Failed to parse recipe 'createdieselgenerators:basin_fermenting/dough[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [results:{output_fluid|output_item}[], ingredients:{input_fluid|input_item}[], heatRequirement:string, processingTime:ticks]
+[14:49:43] [WARN] Failed to parse recipe 'createdieselgenerators:basin_fermenting/golden_carrot[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [results:{output_fluid|output_item}[], heatRequirement:string, ingredients:{input_fluid|input_item}[], processingTime:ticks]
+[14:49:43] [WARN] Failed to parse recipe 'createdieselgenerators:basin_fermenting/magma_cream[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [results:{output_fluid|output_item}[], heatRequirement:string, ingredients:{input_fluid|input_item}[], processingTime:ticks]
+[14:49:43] [WARN] Failed to parse recipe 'createdieselgenerators:distillation/crude_oil[createdieselgenerators:distillation]'! Falling back to vanilla: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+[14:49:43] [WARN] Failed to parse recipe 'createdieselgenerators:basin_fermenting/fermentable[createdieselgenerators:basin_fermenting]'! Falling back to vanilla: Recipe component key 'heatRequirement' not found! Valid keys: [results:{output_fluid|output_item}[], ingredients:{input_fluid|input_item}[], heatRequirement:string, processingTime:ticks]
+[14:49:43] [INFO] Found 6237 recipes in 106.9 ms
+[14:49:43] [INFO] Posted recipe events in 49.59 ms
+[14:49:43] [WARN] Error parsing recipe botania:kjs/94xr2wa1i88fyu8ka8lm6fdgp[botania:runic_altar]: {"type":"botania:runic_altar","ingredients":[{"item":"cyclic:spikes_fire"},{"item":"minecraft:obsidian"},{"item":"cyclic:spikes_fire"},{"item":"minecraft:obsidian"}],"mana":12000,"output":{"item":"minecraft:crying_obsidian"}}: Unknown item 'cyclic:spikes_fire'
+[14:49:43] [INFO] Added 16 recipes, removed 2 recipes, modified 0 recipes, with 1 failed recipes in 38.38 ms
+[14:49:45] [INFO] Server resource reload complete!

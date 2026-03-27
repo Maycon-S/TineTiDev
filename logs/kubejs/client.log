@@ -1,24 +1,15 @@
-[14:19:47] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[14:19:47] [INIT] Loaded plugins:
-[14:19:47] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[14:19:47] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[14:19:47] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[14:19:47] [INIT] - pie.ilikepiefoo.AdditionsPlugin
-[14:19:47] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
-[14:19:47] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
-[14:19:47] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[14:19:47] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
-[14:19:47] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[14:19:47] [INFO] example.js#5: Hello, World! (Loaded client scripts)
-[14:19:47] [ERROR] ! example.js#7: Tried to register event handler 'ItemEvents.toolTierRegistry' for invalid script type CLIENT! Valid script types: [STARTUP]
-[14:19:47] [ERROR] ! example.js#17: Tried to register event handler 'ItemEvents.toolTierRegistry' for invalid script type CLIENT! Valid script types: [STARTUP]
-[14:19:47] [ERROR] ! example.js#27: Tried to register event handler 'ItemEvents.armorTierRegistry' for invalid script type CLIENT! Valid script types: [STARTUP]
-[14:19:47] [ERROR] ! example.js#39: Tried to register event handler 'ItemEvents.armorTierRegistry' for invalid script type CLIENT! Valid script types: [STARTUP]
-[14:19:47] [ERROR] ! example.js#54: Tried to register event handler 'StartupEvents.registry' for invalid script type CLIENT! Valid script types: [STARTUP]
-[14:19:47] [ERROR] ! example.js#69: Tried to register event handler 'StartupEvents.registry' for invalid script type CLIENT! Valid script types: [STARTUP]
-[14:19:47] [ERROR] ! example.js#87: Tried to register event handler 'ItemEvents.toolTierRegistry' for invalid script type CLIENT! Valid script types: [STARTUP]
-[14:19:47] [ERROR] ! example.js#98: Tried to register event handler 'ItemEvents.armorTierRegistry' for invalid script type CLIENT! Valid script types: [STARTUP]
-[14:19:47] [ERROR] ! example.js#111: Tried to register event handler 'StartupEvents.registry' for invalid script type CLIENT! Valid script types: [STARTUP]
-[14:19:47] [INFO] Loaded script client_scripts:example.js in 0.008 s
-[14:19:47] [INFO] Loaded 1/1 KubeJS client scripts in 0.022 s with 0 errors and 0 warnings
-[14:19:51] [INFO] Client resource reload complete!
+[14:49:07] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[14:49:07] [INIT] Loaded plugins:
+[14:49:07] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:49:07] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[14:49:07] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[14:49:07] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[14:49:07] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[14:49:07] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[14:49:07] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[14:49:07] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
+[14:49:07] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[14:49:07] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[14:49:07] [INFO] Loaded script client_scripts:example.js in 0.0 s
+[14:49:07] [INFO] Loaded 1/1 KubeJS client scripts in 0.02 s with 0 errors and 0 warnings
+[14:49:11] [INFO] Client resource reload complete!

@@ -1,16 +1,15 @@
-[14:19:47] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[14:19:47] [INIT] Loaded plugins:
-[14:19:47] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[14:19:47] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[14:19:47] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[14:19:47] [INIT] - pie.ilikepiefoo.AdditionsPlugin
-[14:19:47] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
-[14:19:47] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
-[14:19:47] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[14:19:47] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
-[14:19:47] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[14:19:47] [INFO] Loaded script startup_scripts:armor.js in 0.074 s
-[14:19:47] [INFO] Loaded script startup_scripts:block.js in 0.002 s
-[14:19:47] [INFO] Loaded script startup_scripts:itens.js in 0.001 s
-[14:19:47] [INFO] Loaded script startup_scripts:teste.js in 0.001 s
-[14:19:47] [INFO] Loaded 4/4 KubeJS startup scripts in 0.455 s with 0 errors and 0 warnings
+[14:49:07] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[14:49:07] [INIT] Loaded plugins:
+[14:49:07] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:49:07] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[14:49:07] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[14:49:07] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[14:49:07] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[14:49:07] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[14:49:07] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[14:49:07] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
+[14:49:07] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[14:49:07] [INFO] Loaded script startup_scripts:armor.js in 0.065 s
+[14:49:07] [INFO] Loaded script startup_scripts:block.js in 0.002 s
+[14:49:07] [INFO] Loaded script startup_scripts:itens.js in 0.001 s
+[14:49:07] [INFO] Loaded 3/3 KubeJS startup scripts in 0.405 s with 0 errors and 0 warnings
