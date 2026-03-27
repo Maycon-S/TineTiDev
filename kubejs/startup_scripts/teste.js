@@ -12,14 +12,13 @@ ItemEvents.toolTierRegistry(event => {
 // Tier de armaduras
 ItemEvents.armorTierRegistry(event => { 
   event.add("realinite", tier => {
-    tier.durabilityMultiplier = 9999; // durabilidade absurda
-    // Proteção por peça: [capacete, peitoral, calças, botas]
+    tier.durabilityMultiplier = 999; 
     tier.slotProtections = [5, 12, 9, 5]; 
     tier.enchantmentValue = 50;
     tier.equipSound = 'minecraft:item.armor.equip_netherite';
     tier.repairIngredient = 'kubejs:realinite';
-    tier.toughness = 20.0; // muito acima da netherite
-    tier.knockbackResistance = 1.0; // máximo permitido
+    tier.toughness = 20.0; 
+    tier.knockbackResistance = 1.0;
   });
 });
 
