@@ -1,0 +1,56 @@
+// Tier de ferramentas
+ItemEvents.toolTierRegistry(event => {
+  event.add("realinite", tier => {
+    tier.uses = 12000; 
+    tier.speed = 15; 
+    tier.attackDamageBonus = 20; 
+    tier.level = 4; 
+    tier.enchantmentValue = 30; 
+  });
+});
+
+// Tier de armaduras
+ItemEvents.armorTierRegistry(event => { 
+  event.add("realinite", tier => {
+    tier.durabilityMultiplier = 9999; // durabilidade absurda
+    // Proteção por peça: [capacete, peitoral, calças, botas]
+    tier.slotProtections = [5, 12, 9, 5]; 
+    tier.enchantmentValue = 50;
+    tier.equipSound = 'minecraft:item.armor.equip_netherite';
+    tier.repairIngredient = 'kubejs:realinite';
+    tier.toughness = 20.0; // muito acima da netherite
+    tier.knockbackResistance = 1.0; // máximo permitido
+  });
+});
+
+// Registro dos itens
+StartupEvents.registry('item', event => {
+  event.create('realinite_capecete', 'helmet')
+    .displayName('Realinite Helmet')
+    .rarity('epic')
+    .tier('realinite');
+
+  event.create('realinite_peitoral', 'chestplate')
+    .displayName('Realinite Chestplate')
+    .rarity('epic')
+    .tier('realinite');
+
+  event.create('realinite_leggings', 'leggings')
+    .displayName('Realinite Leggings')
+    .rarity('epic')
+    .tier('realinite');
+
+  event.create('realinite_botas', 'boots')
+    .displayName('Realinite Boots')
+    .rarity('epic')
+    .tier('realinite');
+});
+
+PlayerEvents.hurt(event => {
+  if (event.player.hasItem('kubejs:realinite_capecete') ||
+      event.player.hasItem('kubejs:realinite_peitoral') ||
+      event.player.hasItem('kubejs:realinite_leggings') ||
+      event.player.hasItem('kubejs:realinite_botas')) {
+    event.cancel(); // jogador não toma dano
+  }
+});
