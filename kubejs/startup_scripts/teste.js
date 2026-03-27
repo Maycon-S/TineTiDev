@@ -45,12 +45,3 @@ StartupEvents.registry('item', event => {
     .rarity('epic')
     .tier('realinite');
 });
-
-PlayerEvents.hurt(event => {
-  if (event.player.hasItem('kubejs:realinite_capecete') ||
-      event.player.hasItem('kubejs:realinite_peitoral') ||
-      event.player.hasItem('kubejs:realinite_leggings') ||
-      event.player.hasItem('kubejs:realinite_botas')) {
-    event.cancel(); // jogador não toma dano
-  }
-});

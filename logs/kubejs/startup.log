@@ -1,17 +1,17 @@
-[12:56:08] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[12:56:08] [INIT] Loaded plugins:
-[12:56:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[12:56:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[12:56:08] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[12:56:08] [INIT] - pie.ilikepiefoo.AdditionsPlugin
-[12:56:08] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
-[12:56:08] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
-[12:56:08] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[12:56:08] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
-[12:56:08] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[12:56:09] [INFO] Loaded script startup_scripts:armor.js in 0.05 s
-[12:56:09] [INFO] Loaded script startup_scripts:block.js in 0.013 s
-[12:56:09] [INFO] Loaded script startup_scripts:itens.js in 0.001 s
-[12:56:09] [ERROR] ! teste.js#49: Unknown event 'PlayerEvents.damage'!
-[12:56:09] [INFO] Loaded script startup_scripts:teste.js in 0.003 s
-[12:56:09] [INFO] Loaded 4/4 KubeJS startup scripts in 0.401 s with 1 errors and 0 warnings
+[12:57:11] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[12:57:11] [INIT] Loaded plugins:
+[12:57:11] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[12:57:11] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[12:57:11] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[12:57:11] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[12:57:11] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[12:57:11] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[12:57:11] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[12:57:11] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
+[12:57:11] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[12:57:12] [INFO] Loaded script startup_scripts:armor.js in 0.061 s
+[12:57:12] [INFO] Loaded script startup_scripts:block.js in 0.015 s
+[12:57:12] [INFO] Loaded script startup_scripts:itens.js in 0.001 s
+[12:57:12] [ERROR] ! teste.js#49: Unknown event 'PlayerEvents.hurt'!
+[12:57:12] [INFO] Loaded script startup_scripts:teste.js in 0.004 s
+[12:57:12] [INFO] Loaded 4/4 KubeJS startup scripts in 0.389 s with 1 errors and 0 warnings
