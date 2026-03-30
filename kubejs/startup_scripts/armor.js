@@ -90,11 +90,23 @@ StartupEvents.registry('item', event => {
 
 
  event.create('realinite_sword', 'sword').tier('realinite').attackDamageBaseline(14);
+ event.create('realinite_pickaxe', 'pickaxe').tier('realinite').attackDamageBaseline(5);
+ event.create('realinite_axe', 'axe').tier('realinite').attackDamageBaseline(10);
+ event.create('realinite_shovel', 'shovel').tier('realinite').attackDamageBaseline(3);
+ event.create('realinite_hoe', 'hoe').tier('realinite').attackDamageBaseline(0);
 
 
  event.create("invertnite_sword" , 'sword').tier('invertnite').attackDamageBaseline(10)
+ event.create("invertnite_pickaxe", 'pickaxe').tier('invertnite').attackDamageBaseline(4)
+ event.create("invertnite_axe", 'axe').tier('invertnite').attackDamageBaseline(8)
+ event.create("invertnite_shovel", 'shovel').tier('invertnite').attackDamageBaseline(2)
+ event.create("invertnite_hoe", 'hoe').tier('invertnite').attackDamageBaseline(0)
 
  
  event.create("dimensionite_sword" , 'sword').tier('dimensionite').attackDamageBaseline(43)
+ event.create("dimensionite_pickaxe", 'pickaxe').tier('dimensionite').attackDamageBaseline(15) 
+ event.create("dimensionite_axe", 'axe').tier('dimensionite').attackDamageBaseline(30)
+ event.create("dimensionite_shovel", 'shovel').tier('dimensionite').attackDamageBaseline(10)
+ event.create("dimensionite_hoe", 'hoe').tier('dimensionite').attackDamageBaseline(0)
 
 });
