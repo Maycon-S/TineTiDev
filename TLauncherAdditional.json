@@ -1479,6 +1479,373 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 419699,
+          "name": "Architectury API",
+          "author": "shedaniel",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 787812,
+          "pictures": [],
+          "lanName": "architectury-forge",
+          "version": {
+            "id": 5137938,
+            "name": "architectury-9.2.14-forge",
+            "updateDate": 1708942739000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              }
+            ],
+            "metadata": {
+              "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+              "size": 580602,
+              "path": "mods/architectury-9.2.14-forge.jar",
+              "url": "/mods/419699/5137938/architectury-9.2.14-forge.jar"
+            },
+            "installed": 3005025,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 78,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1761339600000,
+          "update": 1761339600000,
+          "downloadALL": 10229406,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238086,
+          "name": "KubeJS",
+          "author": "LatvianModder",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/kubejs",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 885770,
+          "pictures": [],
+          "lanName": "kubejs",
+          "version": {
+            "id": 5853326,
+            "name": "kubejs-forge-2001.6.5-build.16",
+            "updateDate": 1730096433000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "93fcf0eacc5dc08a4f719eaaed1dc93f0dc80f66",
+              "size": 1654660,
+              "path": "mods/kubejs-forge-2001.6.5-build.16.jar",
+              "url": "/mods/238086/5853326/kubejs-forge-2001.6.5-build.16.jar"
+            },
+            "installed": 260960,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 4,
+          "downloadMonth": 12,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 422,
+              "name": "Architectury API",
+              "gameEntityId": 419699,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 423,
+              "name": "Rhino",
+              "gameEntityId": 416294,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1762549200000,
+          "update": 1762549200000,
+          "downloadALL": 430683,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 416294,
+          "name": "Rhino",
+          "author": "latvianmodder",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/rhino",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 891117,
+          "pictures": [],
+          "lanName": "rhino",
+          "version": {
+            "id": 6186971,
+            "name": "rhino-forge-2001.2.3-build.10",
+            "updateDate": 1739395607000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1",
+              "size": 1798244,
+              "path": "mods/rhino-forge-2001.2.3-build.10.jar",
+              "url": "/mods/416294/6186971/rhino-forge-2001.2.3-build.10.jar"
+            },
+            "installed": 249405,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 4,
+          "downloadMonth": 9,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 63,
+            "name": "1.21.8"
+          },
+          "updated": 1760302800000,
+          "update": 1760302800000,
+          "downloadALL": 419093,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 594387,
+          "name": "KubeJS Additions",
+          "author": "ilikepiefoo2",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/kubejs-additions",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 20,
+              "name": "technology_item_fluid_energy_transport",
+              "shortName": "fluid",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 800752,
+          "pictures": [
+            747117,
+            747118
+          ],
+          "lanName": "kubejs-additions",
+          "version": {
+            "id": 6302185,
+            "name": "kubejsadditions-forge-4.3.4",
+            "updateDate": 1741933562000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "c2720e589a292d5d168ef71a57f5dc3436db96b1",
+              "size": 321976,
+              "path": "mods/kubejsadditions-forge-4.3.4.jar",
+              "url": "/mods/594387/6302185/kubejsadditions-forge-4.3.4.jar"
+            },
+            "installed": 646,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 422,
+              "name": "Architectury API",
+              "gameEntityId": 419699,
+              "dependencyType": "required",
+              "available": false
+            },
+            {
+              "gameType": "mod",
+              "id": 1687,
+              "name": "KubeJS",
+              "gameEntityId": 238086,
+              "dependencyType": "required",
+              "available": false
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1741899600000,
+          "update": 1741899600000,
+          "downloadALL": 3319,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 955720,
+          "name": "Kubejs Extended Crafting",
+          "author": "angry_thompson4574314 angry_thompson4574314",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/kubejs-extended-crafting",
+          "favorite": false,
+          "categories": [],
+          "picture": 848940,
+          "pictures": [],
+          "lanName": "kubejs-extended-crafting",
+          "version": {
+            "id": 4999728,
+            "name": "kubejs_extended_crafting-2001.5",
+            "updateDate": 1704122191000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "46246d32976b1b10c76bc70f44b5f9a62ad9e91e",
+              "size": 8616,
+              "path": "mods/kubejs_extended_crafting-2001.5.jar",
+              "url": "/mods/955720/4999728/kubejs_extended_crafting-2001.5.jar"
+            },
+            "installed": 395,
+            "available": false,
+            "remove": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1704056400000,
+          "update": 1704056400000,
+          "downloadALL": 389,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],

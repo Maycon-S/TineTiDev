@@ -44,23 +44,12 @@ StartupEvents.registry('block', event => {
   event.create('teste').blockEntity (entityInfo => {
     entityInfo.inventory (9, 6)
     entityInfo.rightClickOpensInventory()
-    })
-  });
+  })
+});
 
-  StartupEvents.registry('block', event => {
-  event.create('meu_bloco_customizado')
-    .blockEntity(builder => {
-      // Executa código a cada tick (20 vezes por segundo)
-      builder.ticker((level, pos, state, be) => {
-        if (!level.clientSide && level.time % 20 == 0) {
-            console.info("Estou tickando no servidor!");
-        }
-      })
-      // Adiciona um inventário com 9 slots
-      .itemHandler(9)
-      // Define valores padrões para dados NBT persistentes
-      .defaultValues(tag => {
-        tag.progress = 0
-      })
-    })
-})
+StartupEvents.registry('block', event => {
+  event.create('tt').blockEntity (entityInfo => {
+    entityInfo.inventory (9, 6)
+    entityInfo.rightClickOpensInventory()
+  })
+});
