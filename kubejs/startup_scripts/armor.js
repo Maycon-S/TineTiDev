@@ -89,11 +89,11 @@ event.create("dimensionite_botas", 'boots').displayName('Dimensionite Boots').ra
 StartupEvents.registry('item', event => {
 
 
- event.create('realinite_sword', 'sword').tier('realinite').attackDamageBaseline(14);
- event.create('realinite_pickaxe', 'pickaxe').tier('realinite').attackDamageBaseline(5);
- event.create('realinite_axe', 'axe').tier('realinite').attackDamageBaseline(10);
- event.create('realinite_shovel', 'shovel').tier('realinite').attackDamageBaseline(3);
- event.create('realinite_hoe', 'hoe').tier('realinite').attackDamageBaseline(0);
+ event.create('realinite_sword', 'sword').tier('realinite').attackDamageBaseline(14)
+ event.create('realinite_pickaxe', 'pickaxe').tier('realinite').attackDamageBaseline(5)
+ event.create('realinite_axe', 'axe').tier('realinite').attackDamageBaseline(10)
+ event.create('realinite_shovel', 'shovel').tier('realinite').attackDamageBaseline(3)
+ event.create('realinite_hoe', 'hoe').tier('realinite').attackDamageBaseline(0)
 
 
  event.create("invertnite_sword" , 'sword').tier('invertnite').attackDamageBaseline(10)
