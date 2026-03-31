@@ -53,3 +53,13 @@ StartupEvents.registry('block', event => {
     entityInfo.rightClickOpensInventory()
   })
 });
+
+ // entityInfo.inventory.insertItem('minecraft:apple', false)  // Insere uma maçã no inventário do bloco, permitindo que o bloco armazene itens e interaja com eles de maneira dinâmica.
+ // entityInfo.clientTick(20, 0, entity => { // Define um comportamento que ocorre a cada 20 ticks (1 segundo) no lado do cliente, permitindo criar efeitos visuais ou interações específicas.
+ // entity.level.addParticle('minecraft:campfire_cosy_smoke', true, entity.x + 0.5, entity.y + 1.05, entity.z + 0.5, 0, 0.3, 0) // Adiciona partículas de fumaça aconchegante de fogueira ao redor do bloco, criando um efeito visual interessante.
+ // entityInfo.serverTick (20, 0, entity => { // Define um comportamento que ocorre a cada 20 ticks (1 segundo) no lado do servidor, permitindo criar lógicas de jogo ou interações específicas.
+ // entity.rightClickOpensInventory() // Permite que os jogadores abram o inventário do bloco ao clicar com o botão direito do mouse, facilitando a interação com o bloco.
+ // entiry.function() // Define uma função personalizada para a entidade do bloco, permitindo criar comportamentos específicos ou interações personalizadas.
+ // entityInfo.blockEntityType('minecraft:furnace') // Define o tipo de entidade do bloco como uma fornalha, permitindo que o bloco tenha as funcionalidades e comportamentos associados a esse tipo de entidade.
+ // entityInfo.blockEntityType('minecraft:chest') // Define o tipo de entidade do bloco como um baú, permitindo que o bloco tenha as funcionalidades e comportamentos associados a esse tipo de entidade.
+ // entityInfo.blockEntityType('minecraft:hopper') // Define o tipo de entidade do bloco como um funil, permitindo que o bloco tenha as funcionalidades e comportamentos associados a esse tipo de entidade.
