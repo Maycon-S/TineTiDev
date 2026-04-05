@@ -1,17 +1,16 @@
-[16:21:39] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[16:21:39] [INIT] Loaded plugins:
-[16:21:39] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[16:21:39] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[16:21:39] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[16:21:39] [INIT] - pie.ilikepiefoo.AdditionsPlugin
-[16:21:39] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
-[16:21:39] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
-[16:21:39] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[16:21:39] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
-[16:21:39] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
-[16:21:39] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[16:21:40] [INFO] Loaded script startup_scripts:armor.js in 0.081 s
-[16:21:40] [INFO] Loaded script startup_scripts:block.js in 0.006 s
-[16:21:40] [INFO] Loaded script startup_scripts:itens.js in 0.001 s
-[16:21:40] [INFO] Loaded 3/3 KubeJS startup scripts in 0.448 s with 0 errors and 0 warnings
-[16:21:40] [ERROR] ! block.js#47: Error in 'StartupEvents.registry': TypeError: Cannot find function insertItem in object BlockEntityInfo[kubejs:teste].
+[14:47:57] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[14:47:57] [INIT] Loaded plugins:
+[14:47:57] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:47:57] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[14:47:57] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[14:47:57] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[14:47:57] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[14:47:57] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[14:47:57] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[14:47:57] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
+[14:47:57] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
+[14:47:57] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[14:47:58] [INFO] Loaded script startup_scripts:armor.js in 0.12 s
+[14:47:58] [INFO] Loaded script startup_scripts:block.js in 0.005 s
+[14:47:58] [INFO] Loaded script startup_scripts:itens.js in 0.001 s
+[14:47:58] [INFO] Loaded 3/3 KubeJS startup scripts in 0.582 s with 0 errors and 0 warnings
