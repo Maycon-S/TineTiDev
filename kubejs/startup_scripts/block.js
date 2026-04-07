@@ -66,6 +66,7 @@ StartupEvents.registry('block', event => {
     })
     entityInfo.blockEntityType('minecraft:chest')
   })
+});
 
 
  // entityInfo.inventory.insertItem('minecraft:apple', false)  // Insere uma maçã no inventário do bloco, permitindo que o bloco armazene itens e interaja com eles de maneira dinâmica.
