@@ -54,6 +54,18 @@ StartupEvents.registry('block', event => {
   })
 });
 
+StartupEvents.registry('block', event => {
+  event.create('ttt').blockEntity (entityInfo => {
+    entityInfo.inventory (9, 6)
+    entityInfo.rightClickOpensInventory()
+    entityInfo.clientTick(20, 0, entity => {
+      entity.level.addParticle('minecraft:campfire_cosy_smoke', true, entity.x + 0.5, entity.y + 1.05, entity.z + 0.5, 0, 0.3, 0)
+    })
+    entityInfo.serverTick (20, 0, entity => {
+      entity.inventory.insertItem('minecraft:apple', false)
+    })
+    entityInfo.blockEntityType('minecraft:chest')
+  })
 
 
  // entityInfo.inventory.insertItem('minecraft:apple', false)  // Insere uma maçã no inventário do bloco, permitindo que o bloco armazene itens e interaja com eles de maneira dinâmica.
