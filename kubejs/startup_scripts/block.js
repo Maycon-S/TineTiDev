@@ -68,6 +68,10 @@ StartupEvents.registry('block', event => {
   })
 });
 
+serverTick(20, 0, event => {
+  // Lógica a ser executada a cada 20 ticks (1 segundo) no lado do servidor
+})
+
 
  // entityInfo.inventory.insertItem('minecraft:apple', false)  // Insere uma maçã no inventário do bloco, permitindo que o bloco armazene itens e interaja com eles de maneira dinâmica.
  // entityInfo.clientTick(20, 0, entity => { // Define um comportamento que ocorre a cada 20 ticks (1 segundo) no lado do cliente, permitindo criar efeitos visuais ou interações específicas.
