@@ -68,11 +68,6 @@ StartupEvents.registry('block', event => {
   })
 });
 
-serverTick(20, 0, event => {
-  // Lógica a ser executada a cada 20 ticks (1 segundo) no lado do servidor
-})
-
-
  // entityInfo.inventory.insertItem('minecraft:apple', false)  // Insere uma maçã no inventário do bloco, permitindo que o bloco armazene itens e interaja com eles de maneira dinâmica.
  // entityInfo.clientTick(20, 0, entity => { // Define um comportamento que ocorre a cada 20 ticks (1 segundo) no lado do cliente, permitindo criar efeitos visuais ou interações específicas.
  // entity.level.addParticle('minecraft:campfire_cosy_smoke', true, entity.x + 0.5, entity.y + 1.05, entity.z + 0.5, 0, 0.3, 0) // Adiciona partículas de fumaça aconchegante de fogueira ao redor do bloco, criando um efeito visual interessante.
@@ -90,3 +85,18 @@ serverTick(20, 0, event => {
  // entityInfo.blockEntityType('minecraft:beacon') // Define o tipo de entidade do bloco como um farol, permitindo que o bloco tenha as funcionalidades e comportamentos associados a esse tipo de entidade.
  // entityInfo.blockEntityType('minecraft:shulker_box') // Define o tipo de entidade do bloco como
   // uma caixa de shulker, permitindo que o bloco tenha as funcionalidades e comportamentos associados a esse tipo de entidade.
+
+  StartupEvents.registry('block', event => {
+    event.create('machine_block').blockEntity (entityInfo => {
+      entityInfo.inventory (9, 6)
+      entityInfo.rightClickOpensInventory()
+      entityInfo.clientTick(20, 0, entity => { 
+        entity.level.addParticle('minecraft:campfire_cosy_smoke', true, entity.x + 0.5, entity.y + 1.05, entity.z + 0.5, 0, 0.3, 0)
+      })
+      entityInfo.serverTick (20, 0, entity => {
+        entity.inventory.insertItem('minecraft:apple', false)
+      })    
+    })
+  });
+
+  

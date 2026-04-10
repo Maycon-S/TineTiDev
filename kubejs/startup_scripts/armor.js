@@ -109,4 +109,10 @@ StartupEvents.registry('item', event => {
  event.create("dimensionite_shovel", 'shovel').tier('dimensionite').attackDamageBaseline(10)
  event.create("dimensionite_hoe", 'hoe').tier('dimensionite').attackDamageBaseline(0)
 
+ event.create("void_sword" , 'sword').attackDamageBaseline(9999999).rarity('epic').enchantable(false).fireResistant()
+ event.create("void_pickaxe", 'pickaxe').attackDamageBaseline(9999999).rarity('epic').enchantable(false).fireResistant()
+ event.create("void_axe", 'axe').attackDamageBaseline(9999999).rarity('epic').enchantable(false).fireResistant()
+ event.create("void_shovel", 'shovel').attackDamageBaseline(9999999).rarity('epic').enchantable(false).fireResistant()
+ event.create("void_hoe", 'hoe').attackDamageBaseline(9999999).rarity('epic').enchantable(false).fireResistant()
+
 });
