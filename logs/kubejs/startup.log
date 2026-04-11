@@ -1,17 +1,16 @@
-[15:53:59] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[15:53:59] [INIT] Loaded plugins:
-[15:53:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[15:53:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[15:53:59] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[15:53:59] [INIT] - pie.ilikepiefoo.AdditionsPlugin
-[15:53:59] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
-[15:53:59] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
-[15:53:59] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[15:53:59] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
-[15:53:59] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
-[15:53:59] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[15:53:59] [INFO] Loaded script startup_scripts:armor.js in 0.084 s
-[15:53:59] [INFO] Loaded script startup_scripts:block.js in 0.003 s
-[15:53:59] [INFO] Loaded script startup_scripts:itens.js in 0.001 s
-[15:53:59] [INFO] Loaded 3/3 KubeJS startup scripts in 0.501 s with 0 errors and 0 warnings
-[15:54:00] [ERROR] ! armor.js#112: Error in 'StartupEvents.registry': TypeError: Cannot find function enchantable in object SwordItemBuilder[kubejs:void_sword].
+[19:54:45] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[19:54:45] [INIT] Loaded plugins:
+[19:54:45] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[19:54:45] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[19:54:45] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[19:54:45] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[19:54:45] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[19:54:45] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[19:54:45] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[19:54:45] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
+[19:54:45] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
+[19:54:45] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[19:54:46] [INFO] Loaded script startup_scripts:armor.js in 0.092 s
+[19:54:46] [INFO] Loaded script startup_scripts:block.js in 0.005 s
+[19:54:46] [INFO] Loaded script startup_scripts:itens.js in 0.001 s
+[19:54:46] [INFO] Loaded 3/3 KubeJS startup scripts in 0.486 s with 0 errors and 0 warnings
