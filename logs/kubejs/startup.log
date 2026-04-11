@@ -1,16 +1,17 @@
-[14:47:57] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[14:47:57] [INIT] Loaded plugins:
-[14:47:57] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[14:47:57] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[14:47:57] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[14:47:57] [INIT] - pie.ilikepiefoo.AdditionsPlugin
-[14:47:57] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
-[14:47:57] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
-[14:47:57] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[14:47:57] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
-[14:47:57] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
-[14:47:57] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[14:47:58] [INFO] Loaded script startup_scripts:armor.js in 0.12 s
-[14:47:58] [INFO] Loaded script startup_scripts:block.js in 0.005 s
-[14:47:58] [INFO] Loaded script startup_scripts:itens.js in 0.001 s
-[14:47:58] [INFO] Loaded 3/3 KubeJS startup scripts in 0.582 s with 0 errors and 0 warnings
+[15:53:59] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[15:53:59] [INIT] Loaded plugins:
+[15:53:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[15:53:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[15:53:59] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[15:53:59] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[15:53:59] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[15:53:59] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[15:53:59] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[15:53:59] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
+[15:53:59] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
+[15:53:59] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[15:53:59] [INFO] Loaded script startup_scripts:armor.js in 0.084 s
+[15:53:59] [INFO] Loaded script startup_scripts:block.js in 0.003 s
+[15:53:59] [INFO] Loaded script startup_scripts:itens.js in 0.001 s
+[15:53:59] [INFO] Loaded 3/3 KubeJS startup scripts in 0.501 s with 0 errors and 0 warnings
+[15:54:00] [ERROR] ! armor.js#112: Error in 'StartupEvents.registry': TypeError: Cannot find function enchantable in object SwordItemBuilder[kubejs:void_sword].
