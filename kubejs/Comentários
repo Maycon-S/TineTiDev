@@ -42,3 +42,5 @@
  //   .requiresTool(true) // Necessário ferramenta
  //   .tagBlock('minecraft:mineable/pickaxe') // Pode ser minerado com picareta
  //   .tagBlock('minecraft:needs_diamond_tool'); // Necessário ferramenta de ferro
+
+ // Essa versão e so para modificar o modpack/mod, e não para ser o mod final,
