@@ -53,3 +53,8 @@ StartupEvents.registry('block', event => {
     entityInfo.rightClickOpensInventory()
   })
 });
+
+StartupEvents.registry('block', event => {
+  event.create('ttt').blockEntity (entityInfo => {
+    entityInfo.inventory (9, 6)
+    entityInfo.rightClickOpensInventory()
