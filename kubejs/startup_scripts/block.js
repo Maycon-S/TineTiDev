@@ -39,17 +39,3 @@ entity.inventory.insertItem('minecraft:apple', false)
   })
   })
 ]); 
-
-StartupEvents.registry('block', event => {
-  event.create('test').blockEntity (entityInfo => {
-    entityInfo.inventory (9, 6)
-    entityInfo.rightClickOpensInventory()
-  })
-});
-
-StartupEvents.registry('block', event => {
-  event.create('tt').blockEntity (entityInfo => {
-    entityInfo.inventory (9, 6)
-    entityInfo.rightClickOpensInventory()
-  })
-});
