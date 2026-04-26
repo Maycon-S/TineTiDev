@@ -44,3 +44,16 @@
  //   .tagBlock('minecraft:needs_diamond_tool'); // Necessário ferramenta de ferro
 
  // Essa versão e so para modificar o modpack/mod, e não para ser o mod final,
+
+ // o mod final vai ser lançado em breve, e vai ter muito mais conteúdo, como novos blocos, itens, ferramentas, armaduras, mobs, estruturas, biomas, dimensões, e muito mais. Fiquem ligados para mais novidades!
+
+
+ // event.create('realinite_block') // Criação do bloco
+ //   .displayName('realinite block') // Nome do bloco
+ //   .soundType('gilded_blackstone') // Tipo de som
+ //   .hardness(8.0) // Dureza do bloco
+ //   .resistance(8.0) // Resistência do bloco
+ //   .requiresTool(true) // Necessário ferramenta
+ //   .tagBlock('minecraft:mineable/pickaxe') // Pode ser minerado com picareta
+ //   .tagBlock('minecraft:needs_diamond_tool'); // Necessário ferramenta de ferro
+ 

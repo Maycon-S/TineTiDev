@@ -39,3 +39,7 @@ entity.inventory.insertItem('minecraft:apple', false)
   })
   })
 ]); 
+
+StaticRanges.block = {
+  invertnite_block: {
+    min: 0, 
