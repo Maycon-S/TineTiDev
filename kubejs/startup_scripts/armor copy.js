@@ -16,7 +16,7 @@
       tier.level = 3;
       tier.enchantmentValue = 16;
       }); 
-    });
+    });ds
 
     ItemEvents.toolTierRegistry((event) => {
       event.add("dimensionite", tier => {
