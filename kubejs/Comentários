@@ -56,4 +56,10 @@
  //   .requiresTool(true) // Necessário ferramenta
  //   .tagBlock('minecraft:mineable/pickaxe') // Pode ser minerado com picareta
  //   .tagBlock('minecraft:needs_diamond_tool'); // Necessário ferramenta de ferro
+
+ // bloco de realinite, um bloco resistente e durável, que pode ser usado para construção ou decoração, e também pode ser minerado para obter o minério de realinite, que é um recurso valioso para criar ferramentas e armaduras poderosas.
+ // event.create('dimensionite_block') // Criação do bloco
+ // bloque de dimensionite, um bloco extremamente resistente e durável, que pode ser usado para construção ou decoração, e também pode ser minerado para obter o minério de dimensionite, que é um recurso valioso para criar ferramentas e armaduras extremamente poderosas, quase indestrutíveis.
+ // bloque de dimensionite, um bloco extremamente resistente e durável, que pode ser usado para construção ou decoração, e também pode ser minerado para obter o minério de dimensionite, que é um recurso valioso para criar ferramentas e armaduras extremamente poderosas, quase indestrutíveis.
+ // evente.blockEntityType('minecraft:furnace') // Define o tipo de entidade do bloco como uma fornalha, permitindo que o bloco tenha as funcionalidades e comportamentos associados a esse tipo de entidade.
  

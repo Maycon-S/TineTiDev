@@ -17,7 +17,6 @@
       tier.enchantmentValue = 16;
       }); 
     });
-       isNaN
 
     ItemEvents.toolTierRegistry((event) => {
       event.add("dimensionite", tier => {
