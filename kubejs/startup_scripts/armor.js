@@ -86,6 +86,10 @@ event.create("dimensionite_botas", 'boots').displayName('Dimensionite Boots').ra
 });
 
 
+///////
+// itens
+///////
+
 StartupEvents.registry('item', event => {
 
 

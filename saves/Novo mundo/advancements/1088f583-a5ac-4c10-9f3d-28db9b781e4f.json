@@ -455,5 +455,17 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window_pane": {
+    "criteria": {
+      "has_ingredient": "2026-07-17 11:23:16 -0300"
+    },
+    "done": true
+  },
+  "mekanism:disassembler": {
+    "criteria": {
+      "atomic_disassembler": "2026-07-17 11:23:47 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
