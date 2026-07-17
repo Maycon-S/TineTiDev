@@ -1,16 +1,16 @@
-[12:31:42] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[12:31:42] [INIT] Loaded plugins:
-[12:31:42] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[12:31:42] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[12:31:42] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[12:31:42] [INIT] - pie.ilikepiefoo.AdditionsPlugin
-[12:31:42] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
-[12:31:42] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
-[12:31:42] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[12:31:42] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
-[12:31:42] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
-[12:31:42] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[12:31:43] [INFO] Loaded script startup_scripts:armor.js in 0.077 s
-[12:31:43] [INFO] Loaded script startup_scripts:block.js in 0.004 s
-[12:31:43] [INFO] Loaded script startup_scripts:itens.js in 0.001 s
-[12:31:43] [INFO] Loaded 3/3 KubeJS startup scripts in 0.453 s with 0 errors and 0 warnings
+[13:47:58] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[13:47:58] [INIT] Loaded plugins:
+[13:47:58] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[13:47:58] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[13:47:58] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[13:47:58] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[13:47:58] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[13:47:58] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[13:47:58] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[13:47:58] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
+[13:47:58] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
+[13:47:58] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[13:47:58] [INFO] Loaded script startup_scripts:armor.js in 0.107 s
+[13:47:58] [INFO] Loaded script startup_scripts:block.js in 0.005 s
+[13:47:58] [INFO] Loaded script startup_scripts:itens.js in 0.001 s
+[13:47:58] [INFO] Loaded 3/3 KubeJS startup scripts in 0.453 s with 0 errors and 0 warnings
