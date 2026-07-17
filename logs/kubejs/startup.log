@@ -1,50 +1,16 @@
-[01:05:13] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[01:05:13] [INIT] Loaded plugins:
-[01:05:13] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[01:05:13] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[01:05:13] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[01:05:13] [INIT] - pie.ilikepiefoo.AdditionsPlugin
-[01:05:13] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
-[01:05:13] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
-[01:05:13] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[01:05:13] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
-[01:05:13] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
-[01:05:13] [INIT] - dev.bluephs.dgjs.DGJSPlugin
-[01:05:14] [INFO] Loaded script startup_scripts:armor copy.js in 0.097 s
-[01:05:14] [INFO] Loaded script startup_scripts:armor.js in 0.007 s
-[01:05:14] [INFO] Loaded script startup_scripts:block.js in 0.004 s
-[01:05:14] [INFO] Loaded script startup_scripts:itens.js in 0.001 s
-[01:05:14] [INFO] Loaded 4/4 KubeJS startup scripts in 0.5 s with 0 errors and 0 warnings
-[01:05:14] [ERROR] ! Error in 'StartupEvents.registry': Duplicate key 'kubejs:realinite_capecete' in registry 'minecraft:item'!
-[01:05:14] [ERROR] ! java.lang.IllegalArgumentException: Duplicate key 'kubejs:realinite_capecete' in registry 'minecraft:item'!
-[01:05:14] [ERROR] !   at …kubejs.registry.RegistryInfo.addBuilder(RegistryInfo.java:302)
-[01:05:14] [ERROR] !   at …kubejs.registry.RegistryEventJS.create(RegistryEventJS.java:33)
-[01:05:14] [ERROR] !   at java.lang.reflect.Method.invoke(Method.java:569)
-[01:05:14] [ERROR] !   at …rhino.MemberBox.invoke(MemberBox.java:160)
-[01:05:14] [ERROR] !   at …rhino.NativeJavaMethod.call(NativeJavaMethod.java:463)
-[01:05:14] [ERROR] !   at …rhino.Interpreter.interpretLoop(Interpreter.java:986)
-[01:05:14] [ERROR] !   at …rhino.Interpreter.interpret(Interpreter.java:370)
-[01:05:14] [ERROR] !   at …rhino.InterpretedFunction.call(InterpretedFunction.java:72)
-[01:05:14] [ERROR] !   at …rhino.Context.callSync(Context.java:1357)
-[01:05:14] [ERROR] !   at …rhino.Context.doTopCall(Context.java:1374)
-[01:05:14] [ERROR] !   at …rhino.InterpretedFunction.call(InterpretedFunction.java:70)
-[01:05:14] [ERROR] !   at …rhino.Context.callSync(Context.java:1357)
-[01:05:14] [ERROR] !   at …rhino.ArrowFunction.call(ArrowFunction.java:42)
-[01:05:14] [ERROR] !   at …rhino.Context.callSync(Context.java:1357)
-[01:05:14] [ERROR] !   at …rhino.InterfaceAdapter.invoke(InterfaceAdapter.java:125)
-[01:05:14] [ERROR] !   at …rhino.VMBridge.lambda$newInterfaceProxy$0(VMBridge.java:74)
-[01:05:14] [ERROR] !   at TRANSFORMER/jdk.proxy3/jdk.proxy3.$Proxy58.onEvent(Unknown Source)
-[01:05:14] [ERROR] !   at …kubejs.event.EventHandlerContainer.handle(EventHandlerContainer.java:39)
-[01:05:14] [ERROR] !   at …kubejs.event.EventHandler.postToHandlers(EventHandler.java:304)
-[01:05:14] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:264)
-[01:05:14] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:226)
-[01:05:14] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:205)
-[01:05:14] [ERROR] !   at …kubejs.registry.RegistryInfo.fireRegistryEvent(RegistryInfo.java:426)
-[01:05:14] [ERROR] !   at …kubejs.KubeJS.<init>(KubeJS.java:154)
-[01:05:14] [ERROR] !   at …kubejs.forge.KubeJSForge.<init>(KubeJSForge.java:51)
-[01:05:14] [ERROR] !   at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
-[01:05:14] [ERROR] !   at java.lang.reflect.Constructor.newInstance(Constructor.java:481)
-[01:05:14] [ERROR] !   at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77)
-[01:05:14] [ERROR] !   at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$5(ModContainer.java:126)
-[01:05:14] [ERROR] !   at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
-[01:05:14] [ERROR] !   at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+[14:32:05] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[14:32:05] [INIT] Loaded plugins:
+[14:32:05] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:32:05] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[14:32:05] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[14:32:05] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[14:32:05] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[14:32:05] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[14:32:05] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[14:32:05] [INIT] - com.bobvaraioa.kubejspowah.KubeJSPowahPlugin
+[14:32:05] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
+[14:32:05] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[14:32:05] [INFO] Loaded script startup_scripts:armor.js in 0.091 s
+[14:32:05] [INFO] Loaded script startup_scripts:block.js in 0.004 s
+[14:32:05] [INFO] Loaded script startup_scripts:itens.js in 0.001 s
+[14:32:05] [INFO] Loaded 3/3 KubeJS startup scripts in 0.548 s with 0 errors and 0 warnings
