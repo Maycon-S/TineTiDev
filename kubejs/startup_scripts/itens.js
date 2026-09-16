@@ -5,7 +5,7 @@ event.create('dimensionite')
 event.create('realinite_nugget')
 event.create('invertinete_nugget')
 event.create('dimensionite_nugget')
-event.create('pomagico')
+event.create('po de estelas')
 event.create('advanced_engine')
 event.create('supreme_advanced_magic')
 event.create('supreme_advanced_engine')
@@ -15,7 +15,3 @@ event.create('singularity')
 event.create('void')
     } 
   );
-
-
- 
- 

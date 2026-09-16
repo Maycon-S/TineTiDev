@@ -39,3 +39,16 @@ entity.inventory.insertItem('minecraft:apple', false)
   })
   })
 ]); 
+
+
+StartupEvents.registry('block', event => [
+event.create('fddfdfd').soundType('netherite_block').blockEntity (entityInfo => {
+entityInfo.inventory (3, 3)
+entityInfo.rightClickOpensInventory()
+entityInfo.addItemHandler(1)
+entityInfo.inputSlotIndices(0, 1, 2, 3, 4, 5, 6, 7, 8)
+entityInfo.outputSlotIndices(9)
+entityInfo.setRecipeType('minecraft:crafting')
+entityInfo.setBlock('kubejs:minha_mesa');
+  })
+]);
