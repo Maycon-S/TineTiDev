@@ -727,3 +727,4 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [18:12:49] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Moonlight Mods Dynamic Assets
 [18:12:49] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
 [18:12:49] [Render thread/INFO]: [OptiFine] Set ForgeConfig.CLIENT.experimentalForgeLightPipelineEnabled=false
+[18:13:21] [Render thread/INFO]: Stopping!
