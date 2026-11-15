@@ -14,6 +14,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2026-11-15 20:17:11 -0300",
+      "minecraft:forest": "2026-11-15 20:40:11 -0300",
       "minecraft:ocean": "2026-11-15 20:20:01 -0300",
       "minecraft:plains": "2026-11-15 20:18:38 -0300"
     },
@@ -100,6 +101,60 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2026-11-15 20:19:48 -0300"
+    },
+    "done": true
+  },
+  "confluence:recipes/shapeless/sticky_grenade": {
+    "criteria": {
+      "has_gel": "2026-11-15 20:39:44 -0300"
+    },
+    "done": true
+  },
+  "confluence:recipes/shapeless/torch_from_gel": {
+    "criteria": {
+      "has_gel": "2026-11-15 20:39:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-11-15 20:41:08 -0300"
+    },
+    "done": true
+  },
+  "confluence:achievements/new_world": {
+    "criteria": {
+      "requirement": "2026-11-15 20:40:24 -0300"
+    },
+    "done": true
+  },
+  "confluence:recipes/shapeless/sticky_dynamite": {
+    "criteria": {
+      "has_gel": "2026-11-15 20:39:44 -0300"
+    },
+    "done": true
+  },
+  "confluence:recipes/shapeless/raw_asphalt": {
+    "criteria": {
+      "has_gel": "2026-11-15 20:39:44 -0300"
+    },
+    "done": true
+  },
+  "confluence:recipes/shapeless/sticky_bomb": {
+    "criteria": {
+      "has_gel": "2026-11-15 20:39:44 -0300"
+    },
+    "done": true
+  },
+  "confluence:recipes/shapeless/sticky_dirt_bomb": {
+    "criteria": {
+      "has_gel": "2026-11-15 20:39:44 -0300"
+    },
+    "done": true
+  },
+  "confluence:achievements/matching_attire": {
+    "criteria": {
+      "never": "2026-11-15 20:40:19 -0300"
     },
     "done": true
   },

@@ -1,49 +1,11 @@
-[20:24:39] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
-[20:24:39] [INIT] Loaded plugins:
-[20:24:39] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[20:24:39] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[20:24:39] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[20:24:40] [INFO] Loaded script startup_scripts:armor.js in 0.055 s
-[20:24:40] [INFO] Loaded script startup_scripts:block.js in 0.003 s
-[20:24:40] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[20:24:40] [INFO] Loaded script startup_scripts:example.js in 0.002 s
-[20:24:40] [INFO] Loaded script startup_scripts:itens.js in 0.0 s
-[20:24:40] [INFO] Loaded script startup_scripts:teste.js in 0.0 s
-[20:24:40] [INFO] Loaded 5/5 KubeJS startup scripts in 0.373 s with 0 errors and 0 warnings
-[20:24:40] [ERROR] ! itens.js#8: Could not create ID from 'kubejs:po de estelas'!: Non [a-z0-9/._-] character in path of location: kubejs:po de estelas
-[20:24:40] [ERROR] ! net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: kubejs:po de estelas
-[20:24:40] [ERROR] !   at net.minecraft.resources.ResourceLocation.m_245185_(ResourceLocation.java:242)
-[20:24:40] [ERROR] !   at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:40)
-[20:24:40] [ERROR] !   at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:44)
-[20:24:40] [ERROR] !   at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:50)
-[20:24:40] [ERROR] !   at …kubejs.util.UtilsJS.getMCID(UtilsJS.java:428)
-[20:24:40] [ERROR] !   at …kubejs.registry.RegistryEventJS.create(RegistryEventJS.java:47)
-[20:24:40] [ERROR] !   at java.lang.reflect.Method.invoke(Unknown Source)
-[20:24:40] [ERROR] !   at …rhino.MemberBox.invoke(MemberBox.java:160)
-[20:24:40] [ERROR] !   at …rhino.NativeJavaMethod.call(NativeJavaMethod.java:463)
-[20:24:40] [ERROR] !   at …rhino.Interpreter.interpretLoop(Interpreter.java:986)
-[20:24:40] [ERROR] !   at …rhino.Interpreter.interpret(Interpreter.java:370)
-[20:24:40] [ERROR] !   at …rhino.InterpretedFunction.call(InterpretedFunction.java:72)
-[20:24:40] [ERROR] !   at …rhino.Context.callSync(Context.java:1357)
-[20:24:40] [ERROR] !   at …rhino.Context.doTopCall(Context.java:1374)
-[20:24:40] [ERROR] !   at …rhino.InterpretedFunction.call(InterpretedFunction.java:70)
-[20:24:40] [ERROR] !   at …rhino.Context.callSync(Context.java:1357)
-[20:24:40] [ERROR] !   at …rhino.ArrowFunction.call(ArrowFunction.java:42)
-[20:24:40] [ERROR] !   at …rhino.Context.callSync(Context.java:1357)
-[20:24:40] [ERROR] !   at …rhino.InterfaceAdapter.invoke(InterfaceAdapter.java:125)
-[20:24:40] [ERROR] !   at …rhino.VMBridge.lambda$newInterfaceProxy$0(VMBridge.java:74)
-[20:24:40] [ERROR] !   at TRANSFORMER/jdk.proxy3/jdk.proxy3.$Proxy50.onEvent(Unknown Source)
-[20:24:40] [ERROR] !   at …kubejs.event.EventHandlerContainer.handle(EventHandlerContainer.java:39)
-[20:24:40] [ERROR] !   at …kubejs.event.EventHandler.postToHandlers(EventHandler.java:304)
-[20:24:40] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:264)
-[20:24:40] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:226)
-[20:24:40] [ERROR] !   at …kubejs.event.EventHandler.post(EventHandler.java:205)
-[20:24:40] [ERROR] !   at …kubejs.registry.RegistryInfo.fireRegistryEvent(RegistryInfo.java:426)
-[20:24:40] [ERROR] !   at …kubejs.KubeJS.<init>(KubeJS.java:154)
-[20:24:40] [ERROR] !   at …kubejs.forge.KubeJSForge.<init>(KubeJSForge.java:51)
-[20:24:40] [ERROR] !   at java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source)
-[20:24:40] [ERROR] !   at java.lang.reflect.Constructor.newInstance(Unknown Source)
-[20:24:40] [ERROR] !   at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77)
-[20:24:40] [ERROR] !   at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$5(ModContainer.java:126)
-[20:24:40] [ERROR] !   at java.util.concurrent.CompletableFuture$AsyncRun.run(Unknown Source)
-[20:24:40] [ERROR] !   at java.util.concurrent.CompletableFuture$AsyncRun.exec(Unknown Source)
+[20:38:50] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
+[20:38:50] [INIT] Loaded plugins:
+[20:38:50] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[20:38:50] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[20:38:50] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[20:38:51] [INFO] Loaded script startup_scripts:armor.js in 0.06 s
+[20:38:51] [INFO] Loaded script startup_scripts:block.js in 0.002 s
+[20:38:51] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[20:38:51] [INFO] Loaded script startup_scripts:example.js in 0.002 s
+[20:38:51] [INFO] Loaded script startup_scripts:itens.js in 0.001 s
+[20:38:51] [INFO] Loaded 4/4 KubeJS startup scripts in 0.383 s with 0 errors and 0 warnings

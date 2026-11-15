@@ -27,15 +27,3 @@ StartupEvents.registry('block', event => {
     .tagBlock('minecraft:needs_diamond_tool');
 });
 
-StartupEvents.registry('block', event => [
-event.create('machine_block').soundType('netherite_block').blockEntity (entityInfo => { 
-entityInfo.inventory (9, 6) 
-entityInfo.rightClickOpensInventory() 
-entityInfo.clientTick(20, 0, entity => { 
-entity.level.addParticle('minecraft:campfire_cosy_smoke', true, entity.x + 0.5, entity.y + 1.05, entity.z + 0.5, 0, 0.3, 0) 
-})
-entityInfo.serverTick (20, 0, entity => {
-entity.inventory.insertItem('minecraft:apple', false)  
-  })
-  })
-]);
