@@ -1,0 +1,262 @@
+
+[Gameplay]
+	enemyDropsMoney = true
+	autoStackGelsColor = true
+	returnPotionGlassBottle = false
+	rightClickRideMinecart = true
+	#Range: > 0
+	announcementBoxDistance = 128
+	alertPlayerDungeon = false
+	ammoSlotsBlacklist = ["confluence:falling_star", "#c:seeds"]
+	terraStyleExplosion = true
+	terraStyleFireDamage = true
+	stopAskForSoftcore = false
+
+	[Gameplay.AutomaticWeaponUse]
+		autoSwingAllSwords = false
+		autoReleaseAllBows = false
+		autoFireAllGuns = false
+
+[NPC]
+	npcInvulnerableToPlayer = true
+	#Protect villagers from player-owned damage, except damage caused by creative players.
+	villagerInvulnerableToPlayer = true
+	npcAttackBlacklist = []
+	doNPCSpawning = true
+	#Range: 20 ~ 20000
+	npcSpawnInterval = 2400
+	broadcastNpcMsg = true
+	#Allow town residents to suppress natural enemy spawning.
+	townSuppressesEnemySpawning = true
+	#Apply NPC happiness multipliers to buying and selling prices.
+	npcHappinessAffectsPrices = true
+	#Allow deceased resident professions to return automatically in their region. Does not prevent first arrivals or rescues.
+	npcAutoRespawn = true
+	#Broadcast NPC death messages independently of arrival and departure messages.
+	broadcastNpcDeathMsg = true
+
+[Enemies]
+	#Enable the existing enemy faction friendly-fire protection. Does not change enemy targeting.
+	preventEnemyFriendlyFire = true
+	#Prevent enemies from hurting passive creatures (animals, water animals and ambient creatures). Players, villagers, NPCs, summons and environmental damage are unaffected.
+	preventEnemyHurtingPassiveMobs = false
+
+	[Enemies.Attributes]
+		allowsVanillaEntitiesToPerformStageAttributes = false
+		#Apply these multipliers to vanilla and other mods' hostile mobs as well. Otherwise only Confluence enemies are affected. Bosses, summons and friendly creatures are excluded.
+		enhanceAllMonster = false
+		#Maximum health multiplier. Does not refill wounded enemies when reloaded.
+		#Range: 0.0625 ~ 100.0
+		monsterAttributesMultiplierHealth = 1.0
+		#Attack damage attribute multiplier. Projectiles derived from that attribute inherit it once; independently configured projectile damage is unchanged.
+		#Range: 0.0625 ~ 100.0
+		monsterAttributesMultiplierDamage = 1.0
+		#Armor multiplier. Multiplication cannot give armor to an enemy whose armor is zero.
+		#Range: 0.0 ~ 100.0
+		monsterAttributesMultiplierArmor = 1.0
+		#Armor toughness multiplier. Zero toughness remains zero.
+		#Range: 0.0 ~ 100.0
+		monsterAttributesMultiplierArmorToughness = 1.0
+		#Movement speed attribute multiplier; does not alter AI movement implemented with fixed velocities.
+		#Range: 0.0 ~ 100.0
+		monsterAttributesMultiplierMovementSpeed = 1.0
+		#Flying speed attribute multiplier; only affects enemies that use this attribute.
+		#Range: 0.0 ~ 100.0
+		monsterAttributesMultiplierFlyingSpeed = 1.0
+		#Knockback resistance multiplier, clamped by the attribute's own allowed range.
+		#Range: 0.0 ~ 100.0
+		monsterAttributesMultiplierKnockbackResistance = 1.0
+		#Follow range attribute multiplier; existing line-of-sight and AI-specific range checks still apply.
+		#Range: 0.0 ~ 100.0
+		monsterAttributesMultiplierFollowRange = 1.0
+
+[Boss]
+
+	[Boss.Attributes]
+		#Maximum health multiplier for Confluence bosses. Reloading does not heal existing bosses.
+		#Range: 0.0625 ~ 10.0
+		bossAttributesMultiplierHealth = 1.0
+		#Damage multiplier for Confluence bosses, including contact attacks and projectiles attributed to the boss. Applied once before damage reduction.
+		#Range: 0.0625 ~ 10.0
+		bossAttributesMultiplierDamage = 1.0
+		#Armor multiplier. Zero armor remains zero.
+		#Range: 0.0 ~ 100.0
+		bossAttributesMultiplierArmor = 1.0
+		#Armor toughness multiplier. Zero toughness remains zero.
+		#Range: 0.0 ~ 100.0
+		bossAttributesMultiplierArmorToughness = 1.0
+		#Movement speed attribute multiplier; fixed AI velocities are unchanged.
+		#Range: 0.0 ~ 100.0
+		bossAttributesMultiplierMovementSpeed = 1.0
+		#Flying speed attribute multiplier; only affects bosses that use this attribute.
+		#Range: 0.0 ~ 100.0
+		bossAttributesMultiplierFlyingSpeed = 1.0
+		#Knockback resistance multiplier, clamped by the attribute's allowed range.
+		#Range: 0.0 ~ 100.0
+		bossAttributesMultiplierKnockbackResistance = 1.0
+		#Follow range attribute multiplier; line-of-sight and AI-specific range checks still apply.
+		#Range: 0.0 ~ 100.0
+		bossAttributesMultiplierFollowRange = 1.0
+
+	[Boss.Behavior]
+		#Enable additional boss behaviors from special world seeds. Does not change difficulty scaling.
+		specialSeedBossBehaviors = true
+		allowFleshBossesOutsideUnderworld = false
+		bossClearWhenNoTarget = true
+		kingSlimeLargeMinions = false
+		dragonChargePlayer = true
+
+	[Boss.Spawning]
+		eyeOfCthulhuNatureSpawning = true
+		deerclopsNatureSpawning = true
+
+[Weather]
+	doWind = true
+	windDirectionNoise = true
+	#Range: 0.0 ~ 180.0
+	windDirectionAmplitude = 90.0
+	#Range: 0.0 ~ 1.0
+	windWindyChance = 0.03999999910593033
+	#Range: 0.0 ~ 100.0
+	windSandstormForcedSpeed = 13.411199569702148
+	sandstormPushesEntities = true
+	blizzardPushesEntities = true
+
+	[Weather.LightningBolt]
+		terraStyleLightningBolt = true
+		#Range: 1 ~ 1000
+		terraStyleLightningBoltFrequencyMultiplier = 10
+		terraStyleLightningBoltNoFire = true
+
+[Recipe]
+	fletchingMenu = true
+	shimmerDecompose = true
+	shimmerDecomposeFirstTagItem = false
+	altarTips = true
+
+[Spawning]
+	spawnWithoutLight = true
+	doMeteoriteSpawning = true
+
+	[Spawning."Falling Star"]
+		doFallingStarSpawning = true
+		#Range: 20 ~ 20000
+		fallingStarInterval = 2400
+
+[PlayerDeath]
+	playerDropsMoney = true
+	showMoneyDrops = true
+	dropsTombstone = true
+	#Range: > 0
+	defaultRespawnTimeMin = 3
+	#Range: > 0
+	defaultRespawnTimeMax = 8
+	#Range: > 0
+	bossRespawnTimeMin = 9
+	#Range: > 0
+	bossRespawnTimeMax = 18
+
+[WorldRules]
+	#Allow explosions and terrain contamination when starting a machine with mixed solutions.
+	environmentalMachineMixedExplosion = true
+	instantlyHardmodeConversion = false
+	#Maintained square side length in chunks. Independent of the Terraformer.
+	#Range: 1 ~ 20
+	clentaminatorRangeChunks = 3
+	#Maintained square side length in chunks. Independent of the Clentaminator.
+	#Range: 1 ~ 20
+	terraformerRangeChunks = 5
+
+[WorldGeneration]
+	wrappedCrimsonHeart = false
+	#Whether the Drunk World (seed 5162020) raises terrain height above sea level.
+	drunkWorldRaiseSurface = true
+
+[Compatibility]
+
+	[Compatibility.ArsNouveau]
+		convertArsNouveauMana = false
+
+	[Compatibility.IronsSpell]
+		convertIronsSpellMana = false
+
+	[Compatibility.FTB]
+		ftbChunksWormholePotion = true
+
+	[Compatibility.Waystones]
+		waystonesPylonNonCost = true
+
+[GameEvent]
+
+	[GameEvent.SlimeRain]
+		#Range: 1 ~ 1024
+		slimeRainEventMaxEnemiesBase = 25
+		#Range: 1 ~ 1024
+		slimeRainEventPerPlayer = 25
+		#Range: 0.1 ~ 10.0
+		slimeRainEventSpawnIntervalFactor = 1.0
+		#Range: 1 ~ 1024
+		slimeRainEventSpawnGroupSize = 4
+		#Range: 1 ~ 1024
+		slimeRainEventKingSlimeSpawnRequiredKillCount = 150
+		#Range: 0 ~ 1024
+		slimeRainEventRequiredPlayerMaxHealth = 28
+		#Range: 0 ~ 1024
+		slimeRainEventRequiredPlayerArmor = 14
+		#Range: > 1
+		slimeRainEventFrequency = 675000
+
+	[GameEvent.BloodMoon]
+		#Allow sleeping during a blood moon. Other sleeping restrictions still apply.
+		allowSleepDuringBloodMoon = false
+		#Range: 1 ~ 1024
+		bloodMoonEventMaxEnemiesBase = 30
+		#Range: 1 ~ 1024
+		bloodMoonEventMaxEnemiesPerPlayer = 30
+		#Range: 0.1 ~ 10.0
+		bloodMoonEventSpawnEnemiesIntervalFactor = 1.5
+		#Range: 0 ~ 1024
+		bloodMoonEventRequiredPlayerMaxHealth = 24
+		#Range: 0 ~ 1024
+		bloodMoonEventRequiredPlayerArmor = 16
+		#Range: 1 ~ 1024
+		bloodMoonEventInvertChance = 14
+
+	[GameEvent.GoblinArmy]
+		#Range: 1 ~ 1024
+		goblinArmyEventMaxEnemiesBase = 30
+		#Range: 1 ~ 1024
+		goblinArmyEventMaxEnemiesPerPlayer = 30
+		#Range: 0.1 ~ 10.0
+		goblinArmyEventSpawnEnemiesIntervalFactor = 1.5
+		#Range: 0 ~ 1024
+		goblinArmyEventRequiredPlayerMaxHealth = 24
+		#Range: 0 ~ 1024
+		goblinArmyEventRequiredPlayerArmor = 16
+		#Range: 1 ~ 1024
+		goblinArmyEventInvertChance = 3
+		#Range: 1 ~ 1024
+		goblinArmyDefeatedEventInvertChance = 30
+		#Range: 1 ~ 1024
+		goblinArmyHardmodeEventInvertChance = 3
+		#Range: 1 ~ 1024
+		goblinArmyEventHardmodeDefeatedInvertChance = 60
+		#Range: 1 ~ 1024
+		goblinArmyEventRequiredKillCountBase = 80
+		#Range: 1 ~ 1024
+		goblinArmyEventRequiredKillCountPerPlayer = 40
+
+	[GameEvent.MeteorShower]
+		#Range: 2.0 ~ 4.0
+		meteorShowerEventFallingStarSpawnSpeedMultiplier = 3.0
+		#Range: > 1
+		meteorShowerEventFrequency = 10
+		#Range: > 1
+		meteorShowerEventCelebrationMK10Frequency = 5
+		#Range: 1 ~ 1024
+		meteorShowerEventMaxEnchantedNightcrawlersBase = 1
+		#Range: 1 ~ 1024
+		meteorShowerEventMaxEnchantedNightcrawlersPerPlayer = 2
+		#Range: 1 ~ 1024
+		meteorShowerEventSpawnEnchantedNightcrawlersIntervalFactor = 20
+

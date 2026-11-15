@@ -1,0 +1,29 @@
+#Enable tracking pointer
+Available = true
+#Scale of cursor
+#Range: 0.01 ~ 4.0
+Scale = 0.6
+#Max tracking quantity
+#Range: 1 ~ 400
+"Max quantity" = 10
+#Interval between world position refresh
+#Range: 1 ~ 160
+Interval = 1
+#Enable center relative icon display
+"Center relative available" = true
+#The algorithm of center rela projection
+#Allowed Values: MERCATOR, AITOFF, WINKEL_TRIPLE
+"Project algorithm" = "AITOFF"
+#Enable full track icon display
+"Track full available" = false
+#Enable longitude icon display
+"Head flat available" = false
+#Enable pointing secondary marked enemies
+"Secondary track available" = false
+#List of entity types with cursors for center relative display, separated with "|". e.g. EntityType|PointerIconType|EntityIconType(|OptionalValue)
+CenterRelativeTracking = ["minecraft:ender_dragon|normal|ender_dragon_head", "minecraft:wither|normal_white|wither_head"]
+#Secondary list of entity types with cursors for center relative display, separated with "|". e.g. EntityType|PointerIconType|EntityIconType(|OptionalValue)
+CenterRelativeTrackingSecondary = []
+#List of entity types with cursors for full track display, separated with "|"
+"entityType|type:icon(|optionalPattern)" = ["minecraft:wither|normal:point_x"]
+

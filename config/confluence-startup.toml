@@ -1,0 +1,7 @@
+brewingStandRecipe = true
+forceAllowWipItemsDisplayInCreativeModeTab = false
+
+[Paints]
+	bannedModForPaints = []
+	paintsReplaceTexture = false
+

@@ -1,0 +1,7 @@
+modifyTime = 1794784505292
+messageDigest = "$1$tur3m1an$KnGJHeaP3oAgvcldQrttG0"
+itemGroups = true
+alarmTimes = 3
+attributeReplacements = ["crit_chance = confluence_magic_lib:generic.critical_chance", "ranged_damage = confluence_magic_lib:generic.ranged_damage", "dodge_chance = confluence_magic_lib:generic.dodge_chance", "magic_damage = confluence_magic_lib:generic.magic_damage", "armor_penetration = confluence_magic_lib:generic.armor_penetration"]
+version = "1.2.12"
+

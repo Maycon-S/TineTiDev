@@ -1,108 +1,286 @@
-[18:12:04] [main/INFO]: ModLauncher running: args [--username, maycon2, --version, TineTiDev, --gameDir, C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev, --assetsDir, C:\Users\Maycon Souza\AppData\Roaming\.minecraft\assets, --assetIndex, 5, --uuid, 1088f583a5ac4c109f3d28db9b781e4f, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, modified, --width, 925, --height, 530, --launchTarget, forgeclient, --fml.forgeVersion, 47.4.10, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[18:12:04] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Microsoft; OS Windows 10 arch amd64 version 10.0
-[18:12:05] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
-[18:12:05] [main/INFO]: Trying GL version 4.6
-[18:12:05] [main/INFO]: Requested GL version 4.6 got version 4.6
-[18:12:05] [main/INFO]: OptiFineTransformationService.onLoad
-[18:12:05] [main/INFO]: OptiFine ZIP file URL: union:/C:/Users/Maycon%20Souza/AppData/Roaming/.minecraft/versions/TineTiDev/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23199!/
-[18:12:05] [main/INFO]: OptiFine ZIP file: C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods\preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
-[18:12:05] [main/INFO]: Target.PRE_CLASS is available
-[18:12:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Maycon%20Souza/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
-[18:12:05] [main/INFO]: OptiFineTransformationService.initialize
-[18:12:05] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce RTX 5050/PCIe/SSE2 GL version 4.6.0 NVIDIA 616.64, NVIDIA Corporation
-[18:12:05] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file ars_nouveau-1.20.1-4.12.6-all.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file avaritialite-forge-1.20.1-1.10.2.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file avaritialiteextended-forge-1.20.1-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file balm-forge-1.20.1-7.3.10-all.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file bettercombat-forge-1.8.6+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file Botania-1.20.1-446-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file Botania-1.20.1-451-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file cloth-config-11.1.136-forge.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file constructionwand-1.20.1-2.11.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file create-1.20.1-0.5.1.j.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file createdieselgenerators-1.20.1-1.2i.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file Cucumber-1.20.1-7.0.13.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file curios-forge-5.11.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file curios-forge-5.14.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file dg_js-1.20.1-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file dummmmmmy-1.20-2.0.9.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file ExtendedCrafting-1.20.1-6.0.7.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file jei-1.20.1-forge-15.20.0.105.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file kubejs-create-forge-2001.2.5-build.2.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file kubejs-forge-2001.6.5-build.16.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file kubejs_extended_crafting-2001.5.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file kubejsadditions-forge-4.3.3.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file kubejsadditions-forge-4.3.4.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file kubejsarsnouveau-1.2.2.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file kubejspowah-1.2.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file mahou_tsukai_combat-1.0.2-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file mahoutsukai-1.20.1-v1.34.78.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file mekamod-1.20.1-2.0.1.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file Mekanism-1.20.1-10.4.12.68.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file moonlight-1.20-2.16.28-forge.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file Patchouli-1.20.1-84-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file Patchouli-1.20.1-85-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file player-animation-lib-forge-1.0.2-rc1+1.20.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file Powah-5.0.7.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file powerful_dummy-20-0.0.9.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file rhino-forge-2001.2.3-build.10.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file rhino-forge-2001.2.3-build.6.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file targetdummy-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file tl_skin_cape_forge_1.20_1.20.1-1.32.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file waystones-forge-1.20-14.1.6.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:05] [main/INFO]: Found mod file worldedit-mod-7.2.15.jar of type MOD with provider {mods folder locator at C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev\mods}
-[18:12:06] [main/WARN]: Mod file C:\Users\Maycon Souza\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.10\fmlcore-1.20.1-47.4.10.jar is missing mods.toml file
-[18:12:06] [main/WARN]: Mod file C:\Users\Maycon Souza\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.10\javafmllanguage-1.20.1-47.4.10.jar is missing mods.toml file
-[18:12:06] [main/WARN]: Mod file C:\Users\Maycon Souza\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.10\lowcodelanguage-1.20.1-47.4.10.jar is missing mods.toml file
-[18:12:06] [main/WARN]: Mod file C:\Users\Maycon Souza\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.10\mclanguage-1.20.1-47.4.10.jar is missing mods.toml file
-[18:12:06] [main/INFO]: Found mod file fmlcore-1.20.1-47.4.10.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2b8bd14b
-[18:12:06] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.4.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2b8bd14b
-[18:12:06] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.4.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2b8bd14b
-[18:12:06] [main/INFO]: Found mod file mclanguage-1.20.1-47.4.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2b8bd14b
-[18:12:06] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2b8bd14b
-[18:12:06] [main/INFO]: Found mod file forge-1.20.1-47.4.10-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2b8bd14b
-[18:12:06] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[18:12:06] [main/INFO]: Found 9 dependencies adding them to mods collection
-[18:12:06] [main/INFO]: Found mod file MixinSquared-0.1.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@fca387
-[18:12:06] [main/INFO]: Found mod file MixinExtras-0.3.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@fca387
-[18:12:06] [main/INFO]: Found mod file kuma-api-forge-20.1.9-SNAPSHOT.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@fca387
-[18:12:06] [main/INFO]: Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@fca387
-[18:12:06] [main/INFO]: Found mod file mixinextras-forge-0.3.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@fca387
-[18:12:06] [main/INFO]: Found mod file flywheel-forge-1.20.1-0.6.11-13.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@fca387
-[18:12:06] [main/INFO]: Found mod file mixinsquared-forge-0.1.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@fca387
-[18:12:06] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.4.4.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@fca387
-[18:12:06] [main/INFO]: Found mod file Registrate-MC1.20-1.3.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@fca387
-[18:12:06] [main/INFO]: OptiFineTransformationService.transformers
-[18:12:06] [main/INFO]: Targets: 412
-[18:12:07] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
-[18:12:08] [main/INFO]: Compatibility level set to JAVA_17
-[18:12:08] [main/INFO]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[18:12:08] [main/INFO]: Launching target 'forgeclient' with arguments [--version, TineTiDev, --gameDir, C:\Users\Maycon Souza\AppData\Roaming\.minecraft\versions\TineTiDev, --assetsDir, C:\Users\Maycon Souza\AppData\Roaming\.minecraft\assets, --uuid, 1088f583a5ac4c109f3d28db9b781e4f, --username, maycon2, --assetIndex, 5, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, modified, --width, 925, --height, 530]
-[18:12:08] [main/WARN]: Reference map 'kubejspowah.refmap.json' for kubejspowah.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:12:10] [main/WARN]: Error loading class: mezz/modnametooltip/TooltipEventHandler (java.lang.ClassNotFoundException: mezz.modnametooltip.TooltipEventHandler)
-[18:12:10] [main/WARN]: Error loading class: me/shedaniel/rei/impl/client/ClientHelperImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.ClientHelperImpl)
-[18:12:10] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[18:12:16] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 157 milliseconds
-[18:12:19] [Render thread/WARN]: Assets URL 'union:/C:/Users/Maycon%20Souza/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23242!/assets/.mcassetsroot' uses unexpected schema
-[18:12:19] [Render thread/WARN]: Assets URL 'union:/C:/Users/Maycon%20Souza/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23242!/data/.mcassetsroot' uses unexpected schema
-[18:12:19] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:12:19] [Render thread/ERROR]: Failed to verify authentication
-com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
-	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[authlib-4.0.43.1.jar%23111!/:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:147) ~[authlib-4.0.43.1.jar%23111!/:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:63) ~[authlib-4.0.43.1.jar%23111!/:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:124) ~[authlib-4.0.43.1.jar%23111!/:?]
-	at net.minecraft.client.Minecraft.m_193585_(Minecraft.java:649) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.Minecraft.<init>(Minecraft.java:413) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.main.Main.main(Main.java:182) ~[TineTiDev.jar:?]
+[20:24:25] [main/INFO]: ModLauncher running: args [--username, maycon2, --version, forge-47.4.28, --gameDir, C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1), --assetsDir, C:\Users\Usuario\curseforge\minecraft\Install\assets, --assetIndex, 5, --uuid, d20862fcd3d8409ba930bf6db0e46203, --accessToken, ????????, --clientId, cf8382-5f13fd-b0f71e-ff65e5-ea97e7, --xuid, 2535455162395814, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\Usuario\curseforge\minecraft\Quickplay\8208e421-b4b2-4659-a69e-f4b25ecf925a.json, , , , --launchTarget, forgeclient, --fml.forgeVersion, 47.4.28, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[20:24:25] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[20:24:25] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[20:24:25] [main/INFO]: Trying GL version 4.6
+[20:24:25] [main/INFO]: Requested GL version 4.6 got version 4.6
+[20:24:25] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Usuario/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
+[20:24:26] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce RTX 5050/PCIe/SSE2 GL version 4.6.0 NVIDIA 621.24, NVIDIA Corporation
+[20:24:26] [main/INFO]: Found mod file Apotheosis-1.20.1-7.4.8.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods}
+[20:24:26] [main/INFO]: Found mod file ApothicAttributes-1.20.1-1.3.7.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods}
+[20:24:26] [main/INFO]: Found mod file ApothicCurios-1.20.1-1.0.3e.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods}
+[20:24:26] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods}
+[20:24:26] [main/INFO]: Found mod file ConfluenceOtherworld-forge-1.2.12-1.20.1-261114.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods}
+[20:24:26] [main/INFO]: Found mod file Cucumber-1.20.1-7.0.16.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods}
+[20:24:26] [main/INFO]: Found mod file curios-forge-5.14.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods}
+[20:24:26] [main/INFO]: Found mod file ExtendedCrafting-1.20.1-6.0.10.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods}
+[20:24:26] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.8.4.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods}
+[20:24:26] [main/INFO]: Found mod file jei-1.20.1-forge-15.56.0.205.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods}
+[20:24:26] [main/INFO]: Found mod file kubejs-forge-2001.6.5-build.26.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods}
+[20:24:26] [main/INFO]: Found mod file MesdagPortLib-neoforge1.21.1-to-forge1.20.1-1.3.2.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods}
+[20:24:26] [main/INFO]: Found mod file Patchouli-1.20.1-85-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods}
+[20:24:26] [main/INFO]: Found mod file Placebo-1.20.1-8.6.3.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods}
+[20:24:26] [main/INFO]: Found mod file rhino-forge-2001.2.3-build.10.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods}
+[20:24:26] [main/INFO]: Found mod file TerraCurio-forge-1.3.3-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods}
+[20:24:26] [main/WARN]: Mod file C:\Users\Usuario\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.28\fmlcore-1.20.1-47.4.28.jar is missing mods.toml file
+[20:24:26] [main/WARN]: Mod file C:\Users\Usuario\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.28\javafmllanguage-1.20.1-47.4.28.jar is missing mods.toml file
+[20:24:26] [main/WARN]: Mod file C:\Users\Usuario\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.28\lowcodelanguage-1.20.1-47.4.28.jar is missing mods.toml file
+[20:24:26] [main/WARN]: Mod file C:\Users\Usuario\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.28\mclanguage-1.20.1-47.4.28.jar is missing mods.toml file
+[20:24:26] [main/INFO]: Found mod file fmlcore-1.20.1-47.4.28.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2d140a7
+[20:24:26] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.4.28.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2d140a7
+[20:24:26] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.4.28.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2d140a7
+[20:24:26] [main/INFO]: Found mod file mclanguage-1.20.1-47.4.28.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2d140a7
+[20:24:26] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2d140a7
+[20:24:26] [main/INFO]: Found mod file forge-1.20.1-47.4.28-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2d140a7
+[20:24:26] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: terra_curio. Using Mod File: C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1)\mods\TerraCurio-forge-1.3.3-1.20.1.jar
+[20:24:26] [main/INFO]: Found 10 dependencies adding them to mods collection
+[20:24:26] [main/INFO]: Found mod file OpalLight-forge-1.20.1-1.3.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@281f23f2
+[20:24:26] [main/INFO]: Found mod file mixinextras-forge-0.5.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@281f23f2
+[20:24:26] [main/INFO]: Found mod file org.confluence.mod.TerraFurniture-forge-1.20.1-0.0.5+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@281f23f2
+[20:24:26] [main/INFO]: Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@281f23f2
+[20:24:26] [main/INFO]: Found mod file DataTip-forge-1.20.1-1.2.8.2-forge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@281f23f2
+[20:24:26] [main/INFO]: Found mod file MixinExtras-0.5.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@281f23f2
+[20:24:26] [main/INFO]: Found mod file org.confluence.lib.confluence_magic_lib-1.3.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@281f23f2
+[20:24:26] [main/INFO]: Found mod file TheTrackers-1.20.1-0.2.6.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@281f23f2
+[20:24:26] [main/INFO]: Found mod file ThreeDimensionParticle-forge-1.20.1-1.3.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@281f23f2
+[20:24:26] [main/INFO]: Found mod file ParticleStorm-forge-1.20.1-1.5.5.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@281f23f2
+[20:24:28] [main/INFO]: Compatibility level set to JAVA_17
+[20:24:28] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-47.4.28, --gameDir, C:\Users\Usuario\curseforge\minecraft\Instances\TineTIDev (1), --assetsDir, C:\Users\Usuario\curseforge\minecraft\Install\assets, --uuid, d20862fcd3d8409ba930bf6db0e46203, --username, maycon2, --assetIndex, 5, --accessToken, ????????, --clientId, cf8382-5f13fd-b0f71e-ff65e5-ea97e7, --xuid, 2535455162395814, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\Usuario\curseforge\minecraft\Quickplay\8208e421-b4b2-4659-a69e-f4b25ecf925a.json, , , ]
+[20:24:29] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[20:24:29] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[20:24:29] [main/WARN]: Error loading class: net/nikdo53/neobackports/registry/RegistryLookupWrapper (java.lang.ClassNotFoundException: net.nikdo53.neobackports.registry.RegistryLookupWrapper)
+[20:24:29] [main/INFO]: Patching EffectRenderingInventoryScreen#renderEffects
+[20:24:29] [main/INFO]: Patching FishingHook#catchingFish
+[20:24:30] [main/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[20:24:30] [main/WARN]: Error loading class: net/irisshaders/iris/shadows/ShadowRenderer (java.lang.ClassNotFoundException: net.irisshaders.iris.shadows.ShadowRenderer)
+[20:24:30] [main/WARN]: Error loading class: net/coderbot/iris/shadows/ShadowRenderer (java.lang.ClassNotFoundException: net.coderbot.iris.shadows.ShadowRenderer)
+[20:24:30] [main/WARN]: Error loading class: org/violetmoon/quark/content/tweaks/module/GoldToolsHaveFortuneModule (java.lang.ClassNotFoundException: org.violetmoon.quark.content.tweaks.module.GoldToolsHaveFortuneModule)
+[20:24:30] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[20:24:30] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[20:24:30] [main/WARN]: Error loading class: com/hollingsworth/arsnouveau/common/items/SpellCrossbow (java.lang.ClassNotFoundException: com.hollingsworth.arsnouveau.common.items.SpellCrossbow)
+[20:24:30] [main/WARN]: Error loading class: org/violetmoon/quark/content/client/tooltip/AttributeTooltips (java.lang.ClassNotFoundException: org.violetmoon.quark.content.client.tooltip.AttributeTooltips)
+[20:24:30] [main/WARN]: Error loading class: dev/emi/emi/EmiUtil (java.lang.ClassNotFoundException: dev.emi.emi.EmiUtil)
+[20:24:30] [main/WARN]: Error loading class: mezz/modnametooltip/TooltipEventHandler (java.lang.ClassNotFoundException: mezz.modnametooltip.TooltipEventHandler)
+[20:24:30] [main/WARN]: Error loading class: me/shedaniel/rei/impl/client/ClientHelperImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.ClientHelperImpl)
+[20:24:30] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).
+[20:24:32] [main/INFO]: BeforeConstant is searching for constants in method with descriptor (Lnet/minecraft/network/chat/Component;Z)V
+[20:24:32] [main/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[20:24:32] [main/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 0
+[20:24:32] [main/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[20:24:32] [main/INFO]:   BeforeConstant found INTEGER constant: value = 60, intValue = null
+[20:24:32] [main/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 1
+[20:24:32] [main/INFO]:       BeforeConstant found IntInsn 60
+[20:24:32] [main/INFO]: Patching EffectRenderingInventoryScreen#renderEffects
+[20:24:33] [pool-4-thread-1/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
+[20:24:34] [pool-4-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[20:24:34] [pool-4-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[20:24:34] [pool-4-thread-1/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[20:24:35] [pool-4-thread-1/INFO]: Patching FishingHook#catchingFish
+[20:24:36] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 137 milliseconds
+[20:24:36] [pool-4-thread-1/INFO]: Patching FishingHook#catchingFish
+[20:24:37] [pool-4-thread-1/INFO]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[20:24:37] [pool-4-thread-1/INFO]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[20:24:38] [Render thread/WARN]: Assets URL 'union:/C:/Users/Usuario/curseforge/minecraft/Install/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23188!/assets/.mcassetsroot' uses unexpected schema
+[20:24:38] [Render thread/WARN]: Assets URL 'union:/C:/Users/Usuario/curseforge/minecraft/Install/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23188!/data/.mcassetsroot' uses unexpected schema
+[20:24:38] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:24:38] [Render thread/INFO]: Setting user: maycon2
+[20:24:38] [Render thread/INFO]: BeforeConstant is searching for constants in method with descriptor (Lnet/minecraft/network/chat/Component;Lnet/minecraft/client/GuiMessageTag;)V
+[20:24:38] [Render thread/INFO]:   BeforeConstant found STRING constant: value = , stringValue = null
+[20:24:38] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 0
+[20:24:38] [Render thread/INFO]:       BeforeConstant found LdcInsn 
+[20:24:38] [Render thread/INFO]:   BeforeConstant found STRING constant: value = \\r, stringValue = null
+[20:24:38] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 1
+[20:24:38] [Render thread/INFO]:       BeforeConstant found LdcInsn \\r
+[20:24:38] [Render thread/INFO]:   BeforeConstant found STRING constant: value = 
+, stringValue = null
+[20:24:38] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 2
+[20:24:38] [Render thread/INFO]:       BeforeConstant found LdcInsn 
+
+[20:24:38] [Render thread/INFO]:   BeforeConstant found STRING constant: value = \\n, stringValue = null
+[20:24:38] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 3
+[20:24:38] [Render thread/INFO]:       BeforeConstant found LdcInsn \\n
+[20:24:38] [Render thread/INFO]:   BeforeConstant found CLASS constant: value = Ljava/lang/String;, typeValue = null
+[20:24:38] [Render thread/INFO]:   BeforeConstant found STRING constant: value = [{}] [CHAT] {}, stringValue = null
+[20:24:38] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 4
+[20:24:38] [Render thread/INFO]:       BeforeConstant found LdcInsn [{}] [CHAT] {}
+[20:24:38] [Render thread/INFO]:   BeforeConstant found STRING constant: value = [CHAT] {}, stringValue = null
+[20:24:38] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 5
+[20:24:38] [Render thread/INFO]:       BeforeConstant found LdcInsn [CHAT] {}
+[20:24:38] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[20:24:38] [Render thread/INFO]: Loaded client.properties
+[20:24:39] [modloading-worker-0/INFO]: Loaded common.properties
+[20:24:39] [modloading-worker-0/INFO]: Loaded dev.properties
+[20:24:39] [modloading-worker-0/INFO]: Looking for KubeJS plugins...
+[20:24:39] [modloading-worker-0/INFO]: Registered 16 content parsers
+[20:24:39] [modloading-worker-0/INFO]: DataTip loaded
+[20:24:39] [modloading-worker-0/INFO]: Found plugin source kubejs
+[20:24:39] [modloading-worker-0/INFO]: Forge mod loading, version 47.4.28, for MC 1.20.1 with MCP 20230612.114412
+[20:24:39] [modloading-worker-0/INFO]: MinecraftForge v47.4.28 Initialized
+[20:24:39] [modloading-worker-0/WARN]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
+[20:24:39] [modloading-worker-0/INFO]: Found plugin source cucumber
+[20:24:39] [modloading-worker-0/INFO]: Done in 24.96 ms
+[20:24:39] [modloading-worker-0/INFO]: Sending ConfigManager...
+[20:24:39] [modloading-worker-0/INFO]: Sending ConfigManager took 3.238 milliseconds
+[20:24:39] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[20:24:39] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[20:24:39] [modloading-worker-0/INFO]: Loading Rhino Minecraft remapper...
+[20:24:39] [modloading-worker-0/INFO]: Rhino properties loaded.
+[20:24:39] [modloading-worker-0/INFO]: Loading mappings for 1.20.1
+[20:24:39] [modloading-worker-0/INFO]: Done in 0.072 s
+[20:24:40] [modloading-worker-0/WARN]: @Inject(@At("INVOKE")) Shift.BY=5 on attributeslib.mixins.json:client.ClientPacketListenerMixin::handler$zof000$apoth_postAttrChangedEvent exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[20:24:40] [modloading-worker-0/INFO]: Loaded script startup_scripts:armor.js in 0.055 s
+[20:24:40] [modloading-worker-0/INFO]: Loaded script startup_scripts:block.js in 0.003 s
+[20:24:40] [modloading-worker-0/INFO]: example.js#5: Hello, World! (Loaded startup scripts)
+[20:24:40] [modloading-worker-0/INFO]: Loaded script startup_scripts:example.js in 0.002 s
+[20:24:40] [modloading-worker-0/INFO]: Loaded script startup_scripts:itens.js in 0.0 s
+[20:24:40] [modloading-worker-0/INFO]: Loaded script startup_scripts:teste.js in 0.0 s
+[20:24:40] [modloading-worker-0/INFO]: Loaded 5/5 KubeJS startup scripts in 0.373 s with 0 errors and 0 warnings
+[20:24:40] [modloading-worker-0/INFO]: example.js#5: Hello, World! (Loaded client scripts)
+[20:24:40] [modloading-worker-0/INFO]: Loaded script client_scripts:example.js in 0.001 s
+[20:24:40] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS client scripts in 0.017 s with 0 errors and 0 warnings
+[20:24:40] [modloading-worker-0/ERROR]: itens.js#8: Could not create ID from 'kubejs:po de estelas'!: Non [a-z0-9/._-] character in path of location: kubejs:po de estelas
+[20:24:40] [modloading-worker-0/ERROR]: net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: kubejs:po de estelas
+[20:24:40] [modloading-worker-0/ERROR]:   at net.minecraft.resources.ResourceLocation.m_245185_(ResourceLocation.java:242)
+[20:24:40] [modloading-worker-0/ERROR]:   at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:40)
+[20:24:40] [modloading-worker-0/ERROR]:   at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:44)
+[20:24:40] [modloading-worker-0/ERROR]:   at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:50)
+[20:24:40] [modloading-worker-0/ERROR]:   at …kubejs.util.UtilsJS.getMCID(UtilsJS.java:428)
+[20:24:40] [modloading-worker-0/ERROR]:   at …kubejs.registry.RegistryEventJS.create(RegistryEventJS.java:47)
+[20:24:40] [modloading-worker-0/ERROR]:   at java.lang.reflect.Method.invoke(Unknown Source)
+[20:24:40] [modloading-worker-0/ERROR]:   at …rhino.MemberBox.invoke(MemberBox.java:160)
+[20:24:40] [modloading-worker-0/ERROR]:   at …rhino.NativeJavaMethod.call(NativeJavaMethod.java:463)
+[20:24:40] [modloading-worker-0/ERROR]:   at …rhino.Interpreter.interpretLoop(Interpreter.java:986)
+[20:24:40] [modloading-worker-0/ERROR]:   at …rhino.Interpreter.interpret(Interpreter.java:370)
+[20:24:40] [modloading-worker-0/ERROR]:   at …rhino.InterpretedFunction.call(InterpretedFunction.java:72)
+[20:24:40] [modloading-worker-0/ERROR]:   at …rhino.Context.callSync(Context.java:1357)
+[20:24:40] [modloading-worker-0/ERROR]:   at …rhino.Context.doTopCall(Context.java:1374)
+[20:24:40] [modloading-worker-0/ERROR]:   at …rhino.InterpretedFunction.call(InterpretedFunction.java:70)
+[20:24:40] [modloading-worker-0/ERROR]:   at …rhino.Context.callSync(Context.java:1357)
+[20:24:40] [modloading-worker-0/ERROR]:   at …rhino.ArrowFunction.call(ArrowFunction.java:42)
+[20:24:40] [modloading-worker-0/ERROR]:   at …rhino.Context.callSync(Context.java:1357)
+[20:24:40] [modloading-worker-0/ERROR]:   at …rhino.InterfaceAdapter.invoke(InterfaceAdapter.java:125)
+[20:24:40] [modloading-worker-0/ERROR]:   at …rhino.VMBridge.lambda$newInterfaceProxy$0(VMBridge.java:74)
+[20:24:40] [modloading-worker-0/ERROR]:   at TRANSFORMER/jdk.proxy3/jdk.proxy3.$Proxy50.onEvent(Unknown Source)
+[20:24:40] [modloading-worker-0/ERROR]:   at …kubejs.event.EventHandlerContainer.handle(EventHandlerContainer.java:39)
+[20:24:40] [modloading-worker-0/ERROR]:   at …kubejs.event.EventHandler.postToHandlers(EventHandler.java:304)
+[20:24:40] [modloading-worker-0/ERROR]:   at …kubejs.event.EventHandler.post(EventHandler.java:264)
+[20:24:40] [modloading-worker-0/ERROR]:   at …kubejs.event.EventHandler.post(EventHandler.java:226)
+[20:24:40] [modloading-worker-0/ERROR]:   at …kubejs.event.EventHandler.post(EventHandler.java:205)
+[20:24:40] [modloading-worker-0/ERROR]:   at …kubejs.registry.RegistryInfo.fireRegistryEvent(RegistryInfo.java:426)
+[20:24:40] [modloading-worker-0/ERROR]:   at …kubejs.KubeJS.<init>(KubeJS.java:154)
+[20:24:40] [modloading-worker-0/ERROR]:   at …kubejs.forge.KubeJSForge.<init>(KubeJSForge.java:51)
+[20:24:40] [modloading-worker-0/ERROR]:   at java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source)
+[20:24:40] [modloading-worker-0/ERROR]:   at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[20:24:40] [modloading-worker-0/ERROR]:   at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77)
+[20:24:40] [modloading-worker-0/ERROR]:   at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$5(ModContainer.java:126)
+[20:24:40] [modloading-worker-0/ERROR]:   at java.util.concurrent.CompletableFuture$AsyncRun.run(Unknown Source)
+[20:24:40] [modloading-worker-0/ERROR]:   at java.util.concurrent.CompletableFuture$AsyncRun.exec(Unknown Source)
+[20:24:40] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:send_data_from_client
+[20:24:40] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:send_data_from_server
+[20:24:40] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:paint
+[20:24:40] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:add_stage
+[20:24:40] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:remove_stage
+[20:24:40] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:sync_stages
+[20:24:40] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:first_click
+[20:24:40] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:toast
+[20:24:40] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:reload_startup_scripts
+[20:24:40] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:display_server_errors
+[20:24:40] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:display_client_errors
+[20:24:43] [Render thread/ERROR]: Exception caught during firing event: Can't use a null-name for the registry, object air.
+	Index: 1
+	Listeners:
+		0: ASM: dev.architectury.registry.registries.forge.RegistrarManagerImpl$RegistryProviderImpl$EventListener@462a38b handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		1: net.minecraftforge.eventbus.EventBus$$Lambda$4403/0x0000029517ca2868@560e6cbe
+		2: ASM: dev.architectury.registry.registries.forge.RegistrarManagerImpl$RegistryProviderImpl$EventListener@462a38b handleEventPost(Lnet/minecraftforge/registries/RegisterEvent;)V
+java.lang.NullPointerException: Can't use a null-name for the registry, object air.
+	at MC-BOOTSTRAP/com.google.common@31.1-jre/com.google.common.base.Preconditions.checkNotNull(Preconditions.java:994)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.registries.ForgeRegistry.add(ForgeRegistry.java:369)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.registries.ForgeRegistry.add(ForgeRegistry.java:365)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.registries.ForgeRegistry.register(ForgeRegistry.java:137)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.registries.RegisterEvent.register(RegisterEvent.java:59)
+	at TRANSFORMER/kubejs@2001.6.5-build.26/dev.latvian.mods.kubejs.forge.KubeJSForge.lambda$initRegistries$5(KubeJSForge.java:70)
+	at TRANSFORMER/kubejs@2001.6.5-build.26/dev.latvian.mods.kubejs.registry.RegistryInfo.registerObjects(RegistryInfo.java:352)
+	at TRANSFORMER/kubejs@2001.6.5-build.26/dev.latvian.mods.kubejs.forge.KubeJSForge.initRegistries(KubeJSForge.java:70)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:267)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.lambda$addListener$4(EventBus.java:258)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:312)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:298)
+	at LAYER PLUGIN/javafmllanguage@1.20.1-47.4.28/net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:121)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModLoader.lambda$postEventWithWrapInModOrder$33(ModLoader.java:346)
+	at java.base/java.lang.Iterable.forEach(Unknown Source)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModLoader.postEventWithWrapInModOrder(ModLoader.java:344)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModLoader.postEventWrapContainerInModOrder(ModLoader.java:337)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.registries.GameData.postRegisterEvents(GameData.java:329)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.common.ForgeStatesProvider.lambda$new$4(ForgeStatesProvider.java:25)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModLoader.handleInlineTransition(ModLoader.java:217)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$19(ModLoader.java:209)
+	at java.base/java.util.Optional.ifPresent(Unknown Source)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:209)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$13(ModLoader.java:183)
+	at java.base/java.lang.Iterable.forEach(Unknown Source)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:183)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.client.loading.ClientModLoader.lambda$begin$1(ClientModLoader.java:66)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:86)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.client.loading.ClientModLoader.begin(ClientModLoader.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.Minecraft.<init>(Minecraft.java:459)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.main.Main.main(Main.java:182)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.28/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.28/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.28/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+
+[20:24:43] [Render thread/ERROR]: Caught exception during event RegisterEvent dispatch for modid kubejs
+java.lang.NullPointerException: Can't use a null-name for the registry, object air.
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:994) ~[guava-31.1-jre.jar%23109!/:?]
+	at net.minecraftforge.registries.ForgeRegistry.add(ForgeRegistry.java:369) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.registries.ForgeRegistry.add(ForgeRegistry.java:365) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.registries.ForgeRegistry.register(ForgeRegistry.java:137) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.registries.RegisterEvent.register(RegisterEvent.java:59) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at dev.latvian.mods.kubejs.forge.KubeJSForge.lambda$initRegistries$5(KubeJSForge.java:70) ~[kubejs-forge-2001.6.5-build.26.jar%23182!/:2001.6.5-build.26]
+	at dev.latvian.mods.kubejs.registry.RegistryInfo.registerObjects(RegistryInfo.java:352) ~[kubejs-forge-2001.6.5-build.26.jar%23182!/:2001.6.5-build.26]
+	at dev.latvian.mods.kubejs.forge.KubeJSForge.initRegistries(KubeJSForge.java:70) ~[kubejs-forge-2001.6.5-build.26.jar%23182!/:2001.6.5-build.26]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:267) ~[eventbus-6.2.33.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$4(EventBus.java:258) ~[eventbus-6.2.33.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:312) ~[eventbus-6.2.33.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:298) ~[eventbus-6.2.33.jar%2387!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:121) ~[javafmllanguage-1.20.1-47.4.28.jar%23190!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$postEventWithWrapInModOrder$33(ModLoader.java:346) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at java.lang.Iterable.forEach(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at net.minecraftforge.fml.ModLoader.postEventWithWrapInModOrder(ModLoader.java:344) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at net.minecraftforge.fml.ModLoader.postEventWrapContainerInModOrder(ModLoader.java:337) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at net.minecraftforge.registries.GameData.postRegisterEvents(GameData.java:329) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.common.ForgeStatesProvider.lambda$new$4(ForgeStatesProvider.java:25) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.fml.ModLoader.handleInlineTransition(ModLoader.java:217) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$19(ModLoader.java:209) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at java.util.Optional.ifPresent(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:209) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$13(ModLoader.java:183) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at java.lang.Iterable.forEach(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:183) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$begin$1(ClientModLoader.java:66) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:86) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.begin(ClientModLoader.java:66) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:459) ~[client-1.20.1-20230612.114412-srg.jar%23188!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:182) ~[forge-47.4.28.jar:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
-	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
-	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
-	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.10.jar:?]
-	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.4.10.jar:?]
-	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.4.10.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.28.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.4.28.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.4.28.jar:?]
 	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
@@ -111,620 +289,283 @@ com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
-	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85) ~[authlib-4.0.43.1.jar%23111!/:?]
-	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-4.0.43.1.jar%23111!/:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:122) ~[authlib-4.0.43.1.jar%23111!/:?]
-	... 20 more
-[18:12:19] [Render thread/INFO]: Setting user: maycon2
-[18:12:19] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
-[18:12:19] [Render thread/INFO]: [OptiFine] Forge version: 47.4.10
-[18:12:19] [Render thread/INFO]: [OptiFine] Forge version above 47.0.3, antialiasing disabled
-[18:12:19] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
-[18:12:19] [Render thread/INFO]: Loaded client.properties
-[18:12:19] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
-[18:12:19] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
-[18:12:19] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
-[18:12:19] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to module net.optifine
-[18:12:19] [Render thread/INFO]: [OptiFine] 
-[18:12:19] [Render thread/INFO]: [OptiFine] OptiFine_1.20.1_HD_U_I6_pre6
-[18:12:19] [Render thread/INFO]: [OptiFine] Build: 20230727-130058
-[18:12:19] [Render thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
-[18:12:19] [Render thread/INFO]: [OptiFine] Java: 17.0.15, Microsoft
-[18:12:19] [Render thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
-[18:12:19] [Render thread/INFO]: [OptiFine] LWJGL: 3.4.0 Win32 WGL Null EGL OSMesa VisualC DLL
-[18:12:19] [Render thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce RTX 5050/PCIe/SSE2, version 4.6.0 NVIDIA 616.64, NVIDIA Corporation
-[18:12:19] [Render thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
-[18:12:19] [Render thread/INFO]: [OptiFine] Maximum texture size: 32768x32768
-[18:12:19] [VersionCheck/INFO]: [OptiFine] Checking for new version
-[18:12:19] [Render thread/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 616.64
-[18:12:19] [Render thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
-[18:12:19] [Render thread/INFO]: [Shaders] Renderer: NVIDIA GeForce RTX 5050/PCIe/SSE2
-[18:12:19] [Render thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
-[18:12:19] [Render thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
-[18:12:19] [Render thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
-[18:12:19] [Render thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
-[18:12:19] [Render thread/INFO]: [Shaders] Load shaders configuration.
-[18:12:19] [Render thread/INFO]: [Shaders] Save shaders configuration.
-[18:12:19] [Render thread/INFO]: [Shaders] No shaderpack loaded.
-[18:12:19] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
-[18:12:19] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
-[18:12:20] [VersionCheck/INFO]: [OptiFine] Version found: I6
-[18:12:20] [modloading-worker-0/INFO]: Optifine detected.
-[18:12:20] [modloading-worker-0/INFO]: Loaded common.properties
-[18:12:20] [modloading-worker-0/INFO]: Loaded dev.properties
-[18:12:20] [modloading-worker-0/INFO]: Looking for KubeJS plugins...
-[18:12:20] [modloading-worker-0/INFO]: Found plugin source kubejs
-[18:12:20] [modloading-worker-0/WARN]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
-[18:12:20] [modloading-worker-0/INFO]: Found plugin source cucumber
-[18:12:20] [modloading-worker-0/INFO]: Found plugin source kubejsadditions
-[18:12:20] [modloading-worker-0/INFO]: Found plugin source kubejsarsnouveau
-[18:12:20] [modloading-worker-0/INFO]: Found plugin source kubejs_create
-[18:12:20] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
-[18:12:20] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
-[18:12:21] [modloading-worker-0/INFO]: Sending ConfigManager...
-[18:12:21] [modloading-worker-0/INFO]: Sending ConfigManager took 6.648 ms
-[18:12:21] [modloading-worker-0/INFO]: Registering C2S receiver with id powah:packet
-[18:12:21] [modloading-worker-0/INFO]: Forge mod loading, version 47.4.10, for MC 1.20.1 with MCP 20230612.114412
-[18:12:21] [modloading-worker-0/INFO]: MinecraftForge v47.4.10 Initialized
-[18:12:21] [modloading-worker-0/INFO]: Found plugin source kubejspowah
-[18:12:21] [modloading-worker-0/INFO]: Found plugin source kubejs_extended_crafting
-[18:12:21] [modloading-worker-0/INFO]: Found plugin source dg_js
-[18:12:21] [modloading-worker-0/INFO]: Done in 632.6 ms
-[18:12:21] [modloading-worker-0/INFO]: Loading Rhino Minecraft remapper...
-[18:12:21] [modloading-worker-0/INFO]: Rhino properties loaded.
-[18:12:21] [modloading-worker-0/INFO]: Loading mappings for 1.20.1
-[18:12:21] [modloading-worker-0/INFO]: Done in 0,072 s
-[18:12:21] [modloading-worker-0/INFO]: Loaded script startup_scripts:armor.js in 0.103 s
-[18:12:21] [modloading-worker-0/INFO]: Loaded script startup_scripts:block.js in 0.004 s
-[18:12:21] [modloading-worker-0/INFO]: Loaded script startup_scripts:itens.js in 0.001 s
-[18:12:21] [modloading-worker-0/INFO]: Loaded script startup_scripts:teste.js in 0.001 s
-[18:12:21] [modloading-worker-0/INFO]: Loaded 4/4 KubeJS startup scripts in 0.458 s with 0 errors and 0 warnings
-[18:12:21] [modloading-worker-0/INFO]: example.js#5: Hello, World! (Loaded client scripts)
-[18:12:21] [modloading-worker-0/INFO]: Loaded script client_scripts:example.js in 0.002 s
-[18:12:21] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS client scripts in 0.023 s with 0 errors and 0 warnings
-[18:12:22] [modloading-worker-0/ERROR]: block.js#48: Error in 'StartupEvents.registry': TypeError: Cannot find function addItemHandler in object BlockEntityInfo[kubejs:fddfdfd].
-[18:12:22] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:send_data_from_client
-[18:12:22] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:send_data_from_server
-[18:12:22] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:paint
-[18:12:22] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:add_stage
-[18:12:22] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:remove_stage
-[18:12:22] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:sync_stages
-[18:12:22] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:first_click
-[18:12:22] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:toast
-[18:12:22] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:reload_startup_scripts
-[18:12:22] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:display_server_errors
-[18:12:22] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:display_client_errors
-[18:12:24] [Render thread/INFO]: Initialized block sets in 14ms
-[18:12:25] [Render thread/INFO]: Reloading ResourceManager: vanilla, mod_resources, Moonlight Mods Dynamic Assets, KubeJS Resource Pack [assets]
-[18:12:25] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Moonlight Mods Dynamic Assets
-[18:12:25] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Moonlight Mods Dynamic Assets
-[18:12:25] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Moonlight Mods Dynamic Assets
-[18:12:25] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Moonlight Mods Dynamic Assets
-[18:12:25] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[18:12:25] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[18:12:25] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[18:12:25] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[18:12:25] [Worker-Main-1/INFO]: Starting runtime resource generation for pack type CLIENT_RESOURCES with generators from mods [moonlight]: [net.mehvahdjukaar.moonlight.core.MoonlightClient$MLDynamicClientResources@7f689e7f]
-[18:12:25] [Worker-Main-1/INFO]: Generating runtime assets for pack Moonlight Mods Dynamic Assets (moonlight)
-[18:12:25] [Render thread/INFO]: Client resource reload complete!
-[18:12:25] [Worker-Main-1/INFO]: Generated runtime CLIENT_RESOURCES for pack Moonlight Mods Dynamic Assets (moonlight) in: 5 ms (multithreaded)
-[18:12:25] [Worker-Main-1/INFO]: Finished runtime resources generation for 1 packs in a total of 6 ms
-[18:12:25] [Render thread/INFO]: [OptiFine] *** Reflector Forge ***
-[18:12:26] [Render thread/INFO]: [OptiFine] *** Reflector Vanilla ***
-[18:12:26] [Thread-5/ERROR]: OpenGL API ERROR: 1282 (GL_INVALID_OPERATION error generated. Texture name does not refer to a texture object generated by OpenGL.)
-java.lang.Exception: Stack trace
-	at com.mojang.blaze3d.platform.GlDebug.m_84038_(GlDebug.java:180) ~[?:?]
-	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:46) ~[lwjgl-opengl-3.3.1.jar%23147!/:build 7]
-[18:12:26] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
-[18:12:26] [Render thread/INFO]: [OptiFine] Resource packs: mod_resources, Moonlight Mods Dynamic Assets
-[18:12:26] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[18:12:26] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Moonlight Mods Dynamic Assets
-[18:12:26] [Thread-5/ERROR]: OpenGL API ERROR: 1282 (GL_INVALID_OPERATION error generated. Texture name does not refer to a texture object generated by OpenGL.)
-java.lang.Exception: Stack trace
-	at com.mojang.blaze3d.platform.GlDebug.m_84038_(GlDebug.java:180) ~[?:?]
-	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:46) ~[lwjgl-opengl-3.3.1.jar%23147!/:build 7]
-[18:12:26] [Worker-Main-7/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
-[18:12:26] [Worker-Main-5/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/decorated_pot.png
-[18:12:26] [Worker-Main-9/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/signs.png
-[18:12:26] [Worker-Main-1/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/armor_trims.png
-[18:12:26] [Worker-Main-6/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/chest.png
-[18:12:26] [Worker-Main-4/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/shield_patterns.png
-[18:12:26] [Worker-Main-12/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/banner_patterns.png
-[18:12:26] [Worker-Main-6/INFO]: [OptiFine] Multitexture: false
-[18:12:26] [Worker-Main-1/INFO]: [OptiFine] Multitexture: false
-[18:12:26] [Worker-Main-5/INFO]: [OptiFine] Multitexture: false
-[18:12:26] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
-[18:12:26] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
-[18:12:26] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
-[18:12:26] [Worker-Main-8/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/beds.png
-[18:12:26] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
-[18:12:26] [Worker-Main-6/INFO]: [OptiFine] Sprite size: 64
-[18:12:26] [Worker-Main-6/INFO]: [OptiFine] Mipmap levels: 6
-[18:12:26] [Worker-Main-1/INFO]: [OptiFine] Mipmap levels: 4
-[18:12:26] [Worker-Main-9/INFO]: [OptiFine] Sprite size: 64
-[18:12:26] [Worker-Main-9/INFO]: [OptiFine] Mipmap levels: 6
-[18:12:26] [Worker-Main-5/INFO]: [OptiFine] Mipmap levels: 4
-[18:12:26] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
-[18:12:26] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
-[18:12:26] [Worker-Main-9/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[18:12:26] [Worker-Main-6/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[18:12:26] [Worker-Main-8/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[18:12:26] [Worker-Main-10/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/blocks.png
-[18:12:26] [Worker-Main-10/INFO]: [OptiFine] Multitexture: false
-[18:12:26] [Worker-Main-4/INFO]: [OptiFine] Sprite size: 64
-[18:12:26] [Worker-Main-4/INFO]: [OptiFine] Mipmap levels: 6
-[18:12:26] [Worker-Main-5/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/shulker_boxes.png
-[18:12:26] [Worker-Main-5/INFO]: [OptiFine] Multitexture: false
-[18:12:26] [Worker-Main-12/INFO]: [OptiFine] Sprite size: 64
-[18:12:26] [Worker-Main-12/INFO]: [OptiFine] Mipmap levels: 6
-[18:12:26] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[18:12:26] [Worker-Main-5/INFO]: [OptiFine] Sprite size: 64
-[18:12:26] [Worker-Main-5/INFO]: [OptiFine] Mipmap levels: 6
-[18:12:26] [Worker-Main-12/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[18:12:26] [Worker-Main-5/INFO]: [OptiFine] Scaled too small texture: minecraft:missingno, 16 -> 64
-[18:12:26] [Worker-Main-8/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[18:12:26] [Worker-Main-4/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[18:12:26] [Worker-Main-6/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[18:12:26] [Worker-Main-12/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[18:12:26] [Worker-Main-5/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[18:12:26] [Worker-Main-9/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
-[18:12:26] [Worker-Main-6/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/paintings.png
-[18:12:26] [Worker-Main-6/INFO]: [OptiFine] Multitexture: false
-[18:12:26] [Worker-Main-11/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/particles.png
-[18:12:26] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
-[18:12:26] [Worker-Main-5/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/mob_effects.png
-[18:12:26] [Worker-Main-5/INFO]: [OptiFine] Multitexture: false
-[18:12:26] [Worker-Main-8/INFO]: [OptiFine] Pre-stitch: moonlight:textures/atlas/map_markers.png
-[18:12:26] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
-[18:12:26] [Worker-Main-4/INFO]: [OptiFine] Pre-stitch: jei:textures/atlas/gui.png
-[18:12:26] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
-[18:12:26] [Worker-Main-12/INFO]: [OptiFine] Pre-stitch: mekanism:textures/atlas/robit.png
-[18:12:26] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
-[18:12:26] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: jei:icons/recipe_transfer, 7 -> 14
-[18:12:26] [Worker-Main-4/INFO]: [OptiFine] Scaled non power of 2: jei:brewing_stand_arrow, 7 -> 14
-[18:12:26] [Worker-Main-8/INFO]: Version 10.4.12 initializing...
-[18:12:26] [Worker-Main-11/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_2, 3 -> 9
-[18:12:26] [Worker-Main-11/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_1, 3 -> 9
-[18:12:26] [Worker-Main-11/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_0, 3 -> 9
-[18:12:26] [Worker-Main-11/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_11, 3 -> 9
-[18:12:26] [Worker-Main-11/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_10, 3 -> 9
-[18:12:26] [Worker-Main-11/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_6, 3 -> 9
-[18:12:26] [Worker-Main-12/INFO]: HELLO FROM COMMON SETUP
-[18:12:26] [Worker-Main-11/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_5, 3 -> 9
-[18:12:26] [Worker-Main-11/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_4, 3 -> 9
-[18:12:26] [Worker-Main-11/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_3, 3 -> 9
-[18:12:26] [Worker-Main-11/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_9, 3 -> 9
-[18:12:26] [Worker-Main-11/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_8, 3 -> 9
-[18:12:26] [Worker-Main-11/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_7, 3 -> 9
-[18:12:26] [Worker-Main-1/INFO]: ConstructionWand says hello - may the odds be ever in your favor.
-[18:12:26] [Worker-Main-1/INFO]: Botania integration added
-[18:12:26] [Forge Version Check/INFO]: [moonlight] Starting version check at https://api.modrinth.com/updates/moonlight/forge_updates.json
-[18:12:26] [Worker-Main-8/INFO]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[18:12:26] [Worker-Main-8/INFO]: Mod loaded.
-[18:12:26] [Worker-Main-10/WARN]: [OptiFine] Unknown resource pack type: Moonlight Mods Dynamic Assets
-[18:12:26] [Worker-Main-10/INFO]: [OptiFine] Multipass connected textures: false
-[18:12:26] [Worker-Main-6/ERROR]: Failed to load model mahoutsukai:models/item/proximity_projection_keys2.json
-com.google.gson.JsonParseException: Composite model requires a "children" element with at least one element.
-	at net.minecraftforge.client.model.CompositeModel$Loader.read(CompositeModel.java:420) ~[forge-1.20.1-47.4.10-universal.jar%23247!/:?]
-	at net.minecraftforge.client.model.CompositeModel$Loader.read(CompositeModel.java:403) ~[forge-1.20.1-47.4.10-universal.jar%23247!/:?]
-	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserializeGeometry(ExtendedBlockModelDeserializer.java:105) ~[forge-1.20.1-47.4.10-universal.jar%23247!/:?]
-	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserialize(ExtendedBlockModelDeserializer.java:55) ~[forge-1.20.1-47.4.10-universal.jar%23247!/:?]
-	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserialize(ExtendedBlockModelDeserializer.java:38) ~[forge-1.20.1-47.4.10-universal.jar%23247!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.block.model.BlockModel.m_111461_(BlockModel.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.resources.model.ModelManager.m_246478_(ModelManager.java:110) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[18:12:27] [Worker-Main-10/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[18:12:27] [Worker-Main-10/INFO]: [OptiFine] Multipass connected textures: false
-[18:12:27] [Worker-Main-12/INFO]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@607079c6]
-[18:12:27] [Worker-Main-12/INFO]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
-[18:12:27] [Render thread/INFO]: Initialized color sets in 38ms
-[18:12:27] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
-[18:12:27] [Forge Version Check/INFO]: [moonlight] Found status: OUTDATED Current: 1.20-2.16.28 Target: 1.20-2.16.35-forge
-[18:12:27] [Forge Version Check/INFO]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[18:12:27] [Worker-Main-6/INFO]: HELLO FROM CLIENT SETUP
-[18:12:27] [Worker-Main-5/INFO]: Initialized HolidayManager.
-[18:12:27] [Forge Version Check/INFO]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[18:12:27] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[18:12:27] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
-[18:12:27] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 47.4.10 Target: null
-[18:12:28] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=1,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=0,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=3,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=10,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=11,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=9,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=2,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=7,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=4,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=8,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=14,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=12,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=13,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=13,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=3,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=14,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=11,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=2,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=5,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=15,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=9,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=15,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=6,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=12,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=8,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=0,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=7,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=4,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=5,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=6,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=east,floor=true,level=10,roof=true'
-[18:12:28] [Worker-Main-4/WARN]: Exception loading blockstate definition: 'ars_nouveau:blockstates/magelight_torch.json' missing model for variant: 'ars_nouveau:magelight_torch#facing=north,floor=true,level=1,roof=true'
-[18:12:28] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
-[18:12:28] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
-[18:12:29] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
-[18:12:29] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
-[18:12:29] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
-[18:12:29] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
-[18:12:30] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
-[18:12:30] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
-[18:12:30] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
-[18:12:30] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
-[18:12:30] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
-[18:12:31] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
-[18:12:31] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
-[18:12:31] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
-[18:12:31] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
-[18:12:31] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
-[18:12:32] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
-[18:12:32] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
-[18:12:32] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
-[18:12:32] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
-[18:12:32] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
-[18:12:33] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
-[18:12:33] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
-[18:12:33] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
-[18:12:33] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
-[18:12:33] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
-[18:12:33] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
-[18:12:34] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
-[18:12:34] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
-[18:12:34] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
-[18:12:34] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
-[18:12:34] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
-[18:12:35] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
-[18:12:35] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
-[18:12:35] [Worker-Main-10/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
-[18:12:35] [Worker-Main-10/INFO]: [OptiFine] Multipass connected textures: false
-[18:12:35] [Worker-Main-10/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
-[18:12:39] [Worker-Main-10/INFO]: [OptiFine] Mipmap levels: 4
-[18:12:39] [Worker-Main-4/ERROR]: Unable to parse metadata from avaritia:item/mask
-com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13861_(GsonHelper.java:593) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13859_(GsonHelper.java:601) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.ResourceMetadata.m_215580_(ResourceMetadata.java:25) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.FallbackResourceManager.m_246183_(FallbackResourceManager.java:227) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.FallbackResourceManager.m_244902_(FallbackResourceManager.java:221) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.Resource.m_215509_(Resource.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.texture.SpriteLoader.m_245083_(SpriteLoader.java:228) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.texture.atlas.SpriteSource$Output.m_261059_(SpriteSource.java:22) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
-	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:569) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%23107!/:?]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	... 16 more
-[18:12:39] [Worker-Main-9/ERROR]: Unable to parse metadata from avaritia:item/pull_1_mask
-com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13861_(GsonHelper.java:593) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13859_(GsonHelper.java:601) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.ResourceMetadata.m_215580_(ResourceMetadata.java:25) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.FallbackResourceManager.m_246183_(FallbackResourceManager.java:227) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.FallbackResourceManager.m_244902_(FallbackResourceManager.java:221) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.Resource.m_215509_(Resource.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.texture.SpriteLoader.m_245083_(SpriteLoader.java:228) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.texture.atlas.SpriteSource$Output.m_261059_(SpriteSource.java:22) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
-	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:569) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%23107!/:?]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	... 16 more
-[18:12:39] [Worker-Main-4/ERROR]: Unable to parse metadata from avaritia:item/pull_0_mask
-com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13861_(GsonHelper.java:593) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13859_(GsonHelper.java:601) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.ResourceMetadata.m_215580_(ResourceMetadata.java:25) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.FallbackResourceManager.m_246183_(FallbackResourceManager.java:227) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.FallbackResourceManager.m_244902_(FallbackResourceManager.java:221) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.Resource.m_215509_(Resource.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.texture.SpriteLoader.m_245083_(SpriteLoader.java:228) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.texture.atlas.SpriteSource$Output.m_261059_(SpriteSource.java:22) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
-	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:569) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%23107!/:?]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	... 16 more
-[18:12:39] [Worker-Main-5/WARN]: Unused frames in sprite kubejs:item/singularity: [3, 4, 5]
-[18:12:39] [Worker-Main-10/WARN]: Unused frames in sprite avaritia:block/extreme_side: [8]
-[18:12:39] [Worker-Main-12/ERROR]: Unable to parse metadata from avaritia:item/pull_0
-com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13861_(GsonHelper.java:593) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13859_(GsonHelper.java:601) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.ResourceMetadata.m_215580_(ResourceMetadata.java:25) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.FallbackResourceManager.m_246183_(FallbackResourceManager.java:227) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.FallbackResourceManager.m_244902_(FallbackResourceManager.java:221) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.Resource.m_215509_(Resource.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.texture.SpriteLoader.m_245083_(SpriteLoader.java:228) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.texture.atlas.SpriteSource$Output.m_261059_(SpriteSource.java:22) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
-	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:569) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%23107!/:?]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	... 16 more
-[18:12:39] [Worker-Main-9/ERROR]: Unable to parse metadata from avaritia:item/pull_1
-com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13861_(GsonHelper.java:593) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13859_(GsonHelper.java:601) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.ResourceMetadata.m_215580_(ResourceMetadata.java:25) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.FallbackResourceManager.m_246183_(FallbackResourceManager.java:227) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.FallbackResourceManager.m_244902_(FallbackResourceManager.java:221) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.Resource.m_215509_(Resource.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.texture.SpriteLoader.m_245083_(SpriteLoader.java:228) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.texture.atlas.SpriteSource$Output.m_261059_(SpriteSource.java:22) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
-	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:569) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%23107!/:?]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	... 16 more
-[18:12:39] [Worker-Main-10/ERROR]: Unable to parse metadata from avaritia:item/pull_2
-com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13861_(GsonHelper.java:593) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13859_(GsonHelper.java:601) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.ResourceMetadata.m_215580_(ResourceMetadata.java:25) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.FallbackResourceManager.m_246183_(FallbackResourceManager.java:227) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.FallbackResourceManager.m_244902_(FallbackResourceManager.java:221) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.Resource.m_215509_(Resource.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.texture.SpriteLoader.m_245083_(SpriteLoader.java:228) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.texture.atlas.SpriteSource$Output.m_261059_(SpriteSource.java:22) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
-	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:569) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%23107!/:?]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	... 16 more
-[18:12:39] [Worker-Main-2/ERROR]: Unable to parse metadata from avaritia:item/idle_mask
-com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13861_(GsonHelper.java:593) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13859_(GsonHelper.java:601) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.ResourceMetadata.m_215580_(ResourceMetadata.java:25) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.FallbackResourceManager.m_246183_(FallbackResourceManager.java:227) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.FallbackResourceManager.m_244902_(FallbackResourceManager.java:221) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.Resource.m_215509_(Resource.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.texture.SpriteLoader.m_245083_(SpriteLoader.java:228) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.texture.atlas.SpriteSource$Output.m_261059_(SpriteSource.java:22) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
-	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:569) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%23107!/:?]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	... 16 more
-[18:12:39] [Worker-Main-1/WARN]: Invalid frame index on sprite kubejs:item/po_de_estelas frame 8: 8
-[18:12:39] [Worker-Main-10/WARN]: Unused frames in sprite avaritia:item/infinity_ingot: [0, 1, 2, 3, 4]
-[18:12:39] [Worker-Main-5/ERROR]: Unable to parse metadata from avaritia:item/pull_2_mask
-com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13861_(GsonHelper.java:593) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.util.GsonHelper.m_13859_(GsonHelper.java:601) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.ResourceMetadata.m_215580_(ResourceMetadata.java:25) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.FallbackResourceManager.m_246183_(FallbackResourceManager.java:227) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.FallbackResourceManager.m_244902_(FallbackResourceManager.java:221) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.server.packs.resources.Resource.m_215509_(Resource.java:55) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.texture.SpriteLoader.m_245083_(SpriteLoader.java:228) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at net.minecraft.client.renderer.texture.atlas.SpriteSource$Output.m_261059_(SpriteSource.java:22) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 35 column 6 path $.animation.frames[30]
-	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:569) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar%23107!/:?]
-	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%23107!/:?]
-	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23242!/:?]
-	... 16 more
-[18:12:39] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: mahoutsukai:block/runes, 199 -> 208
-[18:12:39] [Worker-Main-5/INFO]: [OptiFine] Scaled non power of 2: createdieselgenerators:block/canister, 24 -> 32
-[18:12:41] [Worker-Main-5/WARN]: Missing textures in model createdieselgenerators:gasoline#level=5:
-    minecraft:textures/atlas/blocks.png:createdieselgenerators:fluid/gasoline_still
-[18:12:41] [Worker-Main-5/WARN]: Missing textures in model createdieselgenerators:crude_oil#level=14:
-    minecraft:textures/atlas/blocks.png:createdieselgenerators:fluid/crude_oil_still
-[18:12:41] [Worker-Main-5/WARN]: Missing textures in model createdieselgenerators:diesel#level=14:
-    minecraft:textures/atlas/blocks.png:createdieselgenerators:fluid/diesel_still
-[18:12:41] [Worker-Main-5/WARN]: Missing textures in model createdieselgenerators:biodiesel#level=3:
-    minecraft:textures/atlas/blocks.png:createdieselgenerators:fluid/biodiesel_still
-[18:12:41] [Worker-Main-5/WARN]: Missing textures in model createdieselgenerators:plant_oil#level=15:
-    minecraft:textures/atlas/blocks.png:createdieselgenerators:fluid/plant_oil_still
-[18:12:41] [Worker-Main-5/WARN]: Missing textures in model createdieselgenerators:ethanol#level=0:
-    minecraft:textures/atlas/blocks.png:createdieselgenerators:fluid/ethanol_still
-[18:12:41] [Worker-Main-5/WARN]: Missing textures in model kubejs:fddfdfd#inventory:
-    minecraft:textures/atlas/blocks.png:kubejs:block/fddfdfd
-[18:12:41] [Worker-Main-5/WARN]: Missing textures in model kubejs:machine_block#:
-    minecraft:textures/atlas/blocks.png:kubejs:block/machine_block
-[18:12:41] [Worker-Main-5/WARN]: Missing textures in model ars_nouveau:redstone_relay#facing=east,power=8:
-    minecraft:textures/atlas/blocks.png:ars_nouveau:blocks/agronomic_sourcelink
-[18:12:41] [Worker-Main-5/WARN]: Missing textures in model kubejs:po de estelas#inventory:
-    minecraft:textures/atlas/blocks.png:kubejs:item/po de estelas
-[18:12:41] [Worker-Main-5/WARN]: Missing textures in model kubejs:machine_block#inventory:
-    minecraft:textures/atlas/blocks.png:kubejs:block/machine_block
-[18:12:41] [Worker-Main-5/WARN]: Missing textures in model kubejs:fddfdfd#:
-    minecraft:textures/atlas/blocks.png:kubejs:block/fddfdfd
-[18:12:42] [Render thread/INFO]: Loaded all shader sources.
-[18:12:42] [Worker-Main-10/ERROR]: Startup script errors:
-1) block.js#48: Error in 'StartupEvents.registry': TypeError: Cannot find function addItemHandler in object BlockEntityInfo[kubejs:fddfdfd].
-[18:12:44] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
-[18:12:44] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
-[18:12:44] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Fones de ouvido (3- Fuxi-H3 )
-[18:12:44] [Render thread/INFO]: Sound engine started
-[18:12:45] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/blocks.png-atlas
-[18:12:45] [Render thread/INFO]: [OptiFine] Animated sprites: 305
-[18:12:45] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[18:12:45] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[18:12:45] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[18:12:45] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[18:12:45] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[18:12:45] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[18:12:45] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[18:12:45] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[18:12:45] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[18:12:45] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[18:12:45] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[18:12:45] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[18:12:45] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[18:12:45] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[18:12:45] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[18:12:45] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[18:12:45] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
-[18:12:45] [Render thread/WARN]: Shader moonlight:text_alpha_color could not find sampler named Sampler2 in the specified shader program.
-[18:12:45] [Render thread/WARN]: Shader moonlight:text_alpha_color could not find uniform named IViewRotMat in the specified shader program.
-[18:12:45] [Render thread/WARN]: Shader botania:film_grain_particle could not find sampler named Sampler2 in the specified shader program.
-[18:12:45] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/particles.png-atlas
-[18:12:45] [Render thread/INFO]: [OptiFine] Animated sprites: 1
-[18:12:45] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[18:12:45] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[18:12:45] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/mob_effects.png-atlas
-[18:12:45] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[18:12:45] [Render thread/INFO]: Created: 256x256x0 moonlight:textures/atlas/map_markers.png-atlas
-[18:12:45] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[18:12:45] [Render thread/INFO]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
-[18:12:45] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[18:12:45] [Render thread/INFO]: Created: 512x256x0 mekanism:textures/atlas/robit.png-atlas
-[18:12:45] [Render thread/INFO]: [OptiFine] Animated sprites: 0
-[18:12:45] [Render thread/INFO]: BookContentResourceListenerLoader preloaded 558 jsons
-[18:12:45] [Render thread/INFO]: Loaded 51 train hat configurations.
-[18:12:45] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
-[18:12:45] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[18:12:45] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Moonlight Mods Dynamic Assets
-[18:12:45] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[18:12:45] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Moonlight Mods Dynamic Assets
-[18:12:45] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[18:12:45] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Moonlight Mods Dynamic Assets
-[18:12:49] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Moonlight Mods Dynamic Assets
-[18:12:49] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[18:12:49] [Render thread/WARN]: [OptiFine] Unknown resource pack type: net.minecraftforge.resource.DelegatingPackResources: mod_resources
-[18:12:49] [Render thread/WARN]: [OptiFine] Unknown resource pack type: Moonlight Mods Dynamic Assets
-[18:12:49] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
-[18:12:49] [Render thread/INFO]: [OptiFine] Set ForgeConfig.CLIENT.experimentalForgeLightPipelineEnabled=false
-[18:13:21] [Render thread/INFO]: Stopping!
+[20:24:43] [Render thread/ERROR]: Exception caught during firing event: Registry Object not present: confluence:falling_star
+	Index: 9
+	Listeners:
+		0: net.minecraftforge.eventbus.EventBus$$Lambda$4403/0x0000029517ca2868@1ba44388
+		1: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@3fd703ff handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		2: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@43fc21cd handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		3: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@8c5871b handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		4: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@1e4ecf6b handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		5: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@b84bc39 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		6: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@3a1c71bd handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		7: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@38a37d1a handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		8: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@61f5bd36 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		9: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@567ae0b handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		10: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@844d55d handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		11: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@ce03bae handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		12: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@1defd53d handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		13: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@4838c523 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		14: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@221de8a2 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		15: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@4353a365 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		16: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@1790cb9e handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		17: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@429dbe31 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		18: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@27288bcc handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		19: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@7a2548c6 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		20: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@58eae2c handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		21: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@72d0764e handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		22: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@344cab07 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		23: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@c3738c2 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		24: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@5d72aed0 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		25: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@602d2c1a handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		26: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@3a125500 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		27: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@fd69ba8 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		28: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@5632d6c3 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		29: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@1f611123 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		30: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@49c37d2 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		31: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@5779cdfa handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		32: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@1767f538 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		33: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@16a91f49 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		34: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@41c3bd42 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		35: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@721dd82f handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		36: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@384ad767 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		37: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@67d77269 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		38: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@13ab9aa4 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+		39: ASM: net.minecraftforge.registries.DeferredRegister$EventDispatcher@68b89547 handleEvent(Lnet/minecraftforge/registries/RegisterEvent;)V
+java.lang.NullPointerException: Registry Object not present: confluence:falling_star
+	at java.base/java.util.Objects.requireNonNull(Unknown Source)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.registries.RegistryObject.get(RegistryObject.java:180)
+	at TRANSFORMER/portlib@1.3.2/org.mesdag.portlib.registries.PortRegistryEntry.get(PortRegistryEntry.java:45)
+	at TRANSFORMER/confluence@1.2.12/org.confluence.mod.common.init.ModVillagers.lambda$static$5(ModVillagers.java:31)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.registries.DeferredRegister.lambda$addEntries$1(DeferredRegister.java:386)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.registries.RegisterEvent.register(RegisterEvent.java:59)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.registries.DeferredRegister.addEntries(DeferredRegister.java:386)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.registries.DeferredRegister$EventDispatcher.handleEvent(DeferredRegister.java:328)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.registries.__EventDispatcher_handleEvent_RegisterEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:55)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:312)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:298)
+	at LAYER PLUGIN/javafmllanguage@1.20.1-47.4.28/net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:121)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModLoader.lambda$postEventWithWrapInModOrder$33(ModLoader.java:346)
+	at java.base/java.lang.Iterable.forEach(Unknown Source)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModLoader.postEventWithWrapInModOrder(ModLoader.java:344)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModLoader.postEventWrapContainerInModOrder(ModLoader.java:337)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.registries.GameData.postRegisterEvents(GameData.java:329)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.common.ForgeStatesProvider.lambda$new$4(ForgeStatesProvider.java:25)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModLoader.handleInlineTransition(ModLoader.java:217)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$19(ModLoader.java:209)
+	at java.base/java.util.Optional.ifPresent(Unknown Source)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:209)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$13(ModLoader.java:183)
+	at java.base/java.lang.Iterable.forEach(Unknown Source)
+	at LAYER PLUGIN/fmlcore@1.20.1-47.4.28/net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:183)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.client.loading.ClientModLoader.lambda$begin$1(ClientModLoader.java:66)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:86)
+	at TRANSFORMER/forge@47.4.28/net.minecraftforge.client.loading.ClientModLoader.begin(ClientModLoader.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.Minecraft.<init>(Minecraft.java:459)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.main.Main.main(Main.java:182)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.28/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.28/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99)
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.4.28/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+
+[20:24:43] [Render thread/ERROR]: Caught exception during event RegisterEvent dispatch for modid confluence
+java.lang.NullPointerException: Registry Object not present: confluence:falling_star
+	at java.util.Objects.requireNonNull(Unknown Source) ~[?:?]
+	at net.minecraftforge.registries.RegistryObject.get(RegistryObject.java:180) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at org.mesdag.portlib.registries.PortRegistryEntry.get(PortRegistryEntry.java:45) ~[MesdagPortLib-neoforge1.21.1-to-forge1.20.1-1.3.2.jar%23183!/:?]
+	at org.confluence.mod.common.init.ModVillagers.lambda$static$5(ModVillagers.java:31) ~[ConfluenceOtherworld-forge-1.2.12-1.20.1-261114.jar%23176!/:?]
+	at net.minecraftforge.registries.DeferredRegister.lambda$addEntries$1(DeferredRegister.java:386) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.registries.RegisterEvent.register(RegisterEvent.java:59) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.registries.DeferredRegister.addEntries(DeferredRegister.java:386) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.registries.DeferredRegister$EventDispatcher.handleEvent(DeferredRegister.java:328) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.registries.__EventDispatcher_handleEvent_RegisterEvent.invoke(.dynamic) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:55) ~[eventbus-6.2.33.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:312) ~[eventbus-6.2.33.jar%2387!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:298) ~[eventbus-6.2.33.jar%2387!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:121) ~[javafmllanguage-1.20.1-47.4.28.jar%23190!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$postEventWithWrapInModOrder$33(ModLoader.java:346) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at java.lang.Iterable.forEach(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at net.minecraftforge.fml.ModLoader.postEventWithWrapInModOrder(ModLoader.java:344) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at net.minecraftforge.fml.ModLoader.postEventWrapContainerInModOrder(ModLoader.java:337) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at net.minecraftforge.registries.GameData.postRegisterEvents(GameData.java:329) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.common.ForgeStatesProvider.lambda$new$4(ForgeStatesProvider.java:25) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.fml.ModLoader.handleInlineTransition(ModLoader.java:217) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$19(ModLoader.java:209) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at java.util.Optional.ifPresent(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:209) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$13(ModLoader.java:183) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at java.lang.Iterable.forEach(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:183) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$begin$1(ClientModLoader.java:66) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:86) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.begin(ClientModLoader.java:66) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:459) ~[client-1.20.1-20230612.114412-srg.jar%23188!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:182) ~[forge-47.4.28.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.28.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.4.28.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.4.28.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[20:24:43] [Render thread/FATAL]: Failed to register some entries, see suppressed exceptions for details
+java.lang.RuntimeException: null
+	at net.minecraftforge.registries.GameData.postRegisterEvents(GameData.java:315) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.common.ForgeStatesProvider.lambda$new$4(ForgeStatesProvider.java:25) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.fml.ModLoader.handleInlineTransition(ModLoader.java:217) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$19(ModLoader.java:209) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at java.util.Optional.ifPresent(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:209) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$13(ModLoader.java:183) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at java.lang.Iterable.forEach(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:183) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$begin$1(ClientModLoader.java:66) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:86) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.begin(ClientModLoader.java:66) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:459) ~[client-1.20.1-20230612.114412-srg.jar%23188!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:182) ~[forge-47.4.28.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.28.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.4.28.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.4.28.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+	Suppressed: net.minecraftforge.fml.ModLoadingException: KubeJS (kubejs) encountered an error during the common_setup event phase
+§7java.lang.NullPointerException: Can't use a null-name for the registry, object air.
+		at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:125) ~[javafmllanguage-1.20.1-47.4.28.jar%23190!/:?]
+		at net.minecraftforge.fml.ModLoader.lambda$postEventWithWrapInModOrder$33(ModLoader.java:346) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at java.lang.Iterable.forEach(Unknown Source) ~[?:?]
+		at net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at net.minecraftforge.fml.ModLoader.postEventWithWrapInModOrder(ModLoader.java:344) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at net.minecraftforge.fml.ModLoader.postEventWrapContainerInModOrder(ModLoader.java:337) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at net.minecraftforge.registries.GameData.postRegisterEvents(GameData.java:329) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraftforge.common.ForgeStatesProvider.lambda$new$4(ForgeStatesProvider.java:25) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraftforge.fml.ModLoader.handleInlineTransition(ModLoader.java:217) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$19(ModLoader.java:209) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at java.util.Optional.ifPresent(Unknown Source) ~[?:?]
+		at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:209) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$13(ModLoader.java:183) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at java.lang.Iterable.forEach(Unknown Source) ~[?:?]
+		at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:183) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at net.minecraftforge.client.loading.ClientModLoader.lambda$begin$1(ClientModLoader.java:66) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:86) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraftforge.client.loading.ClientModLoader.begin(ClientModLoader.java:66) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraft.client.Minecraft.<init>(Minecraft.java:459) ~[client-1.20.1-20230612.114412-srg.jar%23188!/:?]
+		at net.minecraft.client.main.Main.main(Main.java:182) ~[forge-47.4.28.jar:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+		at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+		at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+		at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.28.jar:?]
+		at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.4.28.jar:?]
+		at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.4.28.jar:?]
+		at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+		at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+		at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+		at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+		at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+		at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+		at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+		at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+	Caused by: java.lang.NullPointerException: Can't use a null-name for the registry, object air.
+		at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:994) ~[guava-31.1-jre.jar%23109!/:?]
+		at net.minecraftforge.registries.ForgeRegistry.add(ForgeRegistry.java:369) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraftforge.registries.ForgeRegistry.add(ForgeRegistry.java:365) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraftforge.registries.ForgeRegistry.register(ForgeRegistry.java:137) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraftforge.registries.RegisterEvent.register(RegisterEvent.java:59) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at dev.latvian.mods.kubejs.forge.KubeJSForge.lambda$initRegistries$5(KubeJSForge.java:70) ~[kubejs-forge-2001.6.5-build.26.jar%23182!/:2001.6.5-build.26]
+		at dev.latvian.mods.kubejs.registry.RegistryInfo.registerObjects(RegistryInfo.java:352) ~[kubejs-forge-2001.6.5-build.26.jar%23182!/:2001.6.5-build.26]
+		at dev.latvian.mods.kubejs.forge.KubeJSForge.initRegistries(KubeJSForge.java:70) ~[kubejs-forge-2001.6.5-build.26.jar%23182!/:2001.6.5-build.26]
+		at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:267) ~[eventbus-6.2.33.jar%2387!/:?]
+		at net.minecraftforge.eventbus.EventBus.lambda$addListener$4(EventBus.java:258) ~[eventbus-6.2.33.jar%2387!/:?]
+		at net.minecraftforge.eventbus.EventBus.post(EventBus.java:312) ~[eventbus-6.2.33.jar%2387!/:?]
+		at net.minecraftforge.eventbus.EventBus.post(EventBus.java:298) ~[eventbus-6.2.33.jar%2387!/:?]
+		at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:121) ~[javafmllanguage-1.20.1-47.4.28.jar%23190!/:?]
+		... 34 more
+	Suppressed: net.minecraftforge.fml.ModLoadingException: Confluence (confluence) encountered an error during the common_setup event phase
+§7java.lang.NullPointerException: Registry Object not present: confluence:falling_star
+		at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:125) ~[javafmllanguage-1.20.1-47.4.28.jar%23190!/:?]
+		at net.minecraftforge.fml.ModLoader.lambda$postEventWithWrapInModOrder$33(ModLoader.java:346) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at java.lang.Iterable.forEach(Unknown Source) ~[?:?]
+		at net.minecraftforge.fml.ModList.forEachModInOrder(ModList.java:227) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at net.minecraftforge.fml.ModLoader.postEventWithWrapInModOrder(ModLoader.java:344) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at net.minecraftforge.fml.ModLoader.postEventWrapContainerInModOrder(ModLoader.java:337) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at net.minecraftforge.registries.GameData.postRegisterEvents(GameData.java:329) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraftforge.common.ForgeStatesProvider.lambda$new$4(ForgeStatesProvider.java:25) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraftforge.fml.ModLoader.handleInlineTransition(ModLoader.java:217) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$19(ModLoader.java:209) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at java.util.Optional.ifPresent(Unknown Source) ~[?:?]
+		at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:209) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$13(ModLoader.java:183) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at java.lang.Iterable.forEach(Unknown Source) ~[?:?]
+		at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:183) ~[fmlcore-1.20.1-47.4.28.jar%23189!/:?]
+		at net.minecraftforge.client.loading.ClientModLoader.lambda$begin$1(ClientModLoader.java:66) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:86) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraftforge.client.loading.ClientModLoader.begin(ClientModLoader.java:66) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraft.client.Minecraft.<init>(Minecraft.java:459) ~[client-1.20.1-20230612.114412-srg.jar%23188!/:?]
+		at net.minecraft.client.main.Main.main(Main.java:182) ~[forge-47.4.28.jar:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+		at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+		at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+		at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+		at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.28.jar:?]
+		at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.4.28.jar:?]
+		at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.4.28.jar:?]
+		at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+		at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+		at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+		at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+		at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+		at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+		at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+		at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+	Caused by: java.lang.NullPointerException: Registry Object not present: confluence:falling_star
+		at java.util.Objects.requireNonNull(Unknown Source) ~[?:?]
+		at net.minecraftforge.registries.RegistryObject.get(RegistryObject.java:180) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at org.mesdag.portlib.registries.PortRegistryEntry.get(PortRegistryEntry.java:45) ~[MesdagPortLib-neoforge1.21.1-to-forge1.20.1-1.3.2.jar%23183!/:?]
+		at org.confluence.mod.common.init.ModVillagers.lambda$static$5(ModVillagers.java:31) ~[ConfluenceOtherworld-forge-1.2.12-1.20.1-261114.jar%23176!/:?]
+		at net.minecraftforge.registries.DeferredRegister.lambda$addEntries$1(DeferredRegister.java:386) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraftforge.registries.RegisterEvent.register(RegisterEvent.java:59) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraftforge.registries.DeferredRegister.addEntries(DeferredRegister.java:386) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraftforge.registries.DeferredRegister$EventDispatcher.handleEvent(DeferredRegister.java:328) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraftforge.registries.__EventDispatcher_handleEvent_RegisterEvent.invoke(.dynamic) ~[forge-1.20.1-47.4.28-universal.jar%23193!/:?]
+		at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:55) ~[eventbus-6.2.33.jar%2387!/:?]
+		at net.minecraftforge.eventbus.EventBus.post(EventBus.java:312) ~[eventbus-6.2.33.jar%2387!/:?]
+		at net.minecraftforge.eventbus.EventBus.post(EventBus.java:298) ~[eventbus-6.2.33.jar%2387!/:?]
+		at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:121) ~[javafmllanguage-1.20.1-47.4.28.jar%23190!/:?]
+		... 34 more
+[20:24:43] [Render thread/FATAL]: Detected errors during registry event dispatch, rolling back to VANILLA state
+[20:24:44] [Render thread/FATAL]: Detected errors during registry event dispatch, roll back to VANILLA complete
+[20:24:44] [Render thread/FATAL]: Preparing crash report with UUID 5508112f-f7d1-4291-a0bd-7d372c2a35fd
+[20:24:44] [Render thread/FATAL]: Preparing crash report with UUID 42a0835a-7a20-4dad-985c-db15f71f8b7a

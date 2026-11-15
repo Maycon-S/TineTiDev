@@ -1,0 +1,119 @@
+
+[GUI]
+	achievementToast = true
+	#Range: 0 ~ 1000
+	customTitle = 71
+
+	[GUI.ItemTooltips]
+		#Show weapon / soul skill damage and cooldown with base stats, excluding player equipment and effects. Disabled by default to show the final values with player bonuses and cooldown reductions.
+		weaponTooltipBaseStats = false
+		#Allowed Values: NEVER, EVERYWHERE, TRADE_SCREEN
+		sellPriceDisplay = "EVERYWHERE"
+
+	[GUI.Soulcerer]
+		#Draw the dynamic background of the Soul Skill Overview screen. Disable to keep only the widgets.
+		soulcererBackgroundEnabled = true
+		#Range: 0 ~ 360
+		soulcererBackgroundHue = 270
+		#Range: 0 ~ 255
+		soulcererBackgroundContrast = 255
+		soulcererBackgroundTree = true
+		soulcererBackgroundMagic = true
+
+[HUD]
+	leftEffectIcon = true
+	#Range: -256 ~ 256
+	extraInventoryButtonOffsetX = 0
+	#Range: -256 ~ 256
+	extraInventoryButtonOffsetY = 0
+
+	[HUD.Boss]
+		#Allowed Values: VANILLA, STATIC, DYNAMIC
+		bossBarStyle = "STATIC"
+		#Show exact health values on custom boss bars.
+		bossBarNumbersVisible = true
+
+	[HUD.Health]
+		terraStyleHealth = true
+		#Allowed Values: LEGACY, OVERLAY
+		healthStyle = "OVERLAY"
+		#Range: -256 ~ 256
+		healthOffsetX = 0
+		#Range: -256 ~ 256
+		healthOffsetY = 0
+
+	[HUD.Food]
+		terraStyleFood = true
+		#Allowed Values: LEGACY, OVERLAY
+		foodStyle = "OVERLAY"
+
+	[HUD.Mana]
+		#Allowed Values: LEGACY, OVERLAY
+		manaStyle = "OVERLAY"
+		#Range: -256 ~ 256
+		manaOffsetX = 0
+		#Range: -256 ~ 256
+		manaOffsetY = 0
+
+	[HUD.Armor]
+		terraStyleArmor = true
+		#Allowed Values: LEGACY_HORIZONTAL, LEGACY_DIAGONAL, LEGACY_VERTICAL, OVERLAY
+		armorStyle = "OVERLAY"
+
+	[HUD.Crosshair]
+		crosshairAnimation = true
+		crosshairAnimationBlacklist = []
+		bowCrosshairAnimation = true
+		crossbowCrosshairAnimation = true
+		gunCrosshairAnimation = true
+		repeaterCrosshairAnimation = true
+
+	[HUD.HitMarker]
+		hitMarker = true
+		hitMarkerBlacklist = []
+		hitMarkerMelee = true
+		hitMarkerRanged = true
+		hitMarkerMagic = true
+		hitMarkerSummon = true
+		hitMarkerOther = true
+
+[Entity]
+	#Replace spiders and sand poachers with non-spider models. Requires a game restart.
+	enableNonSpiderModel = false
+	#Mute every Warden sound: footsteps, heartbeat, roars, sonic boom and so on. Client-side only, disabled by default.
+	muteWardenSound = false
+	bloodyEffect = true
+	#Allowed Values: OFF, CONFLUENCE, CONFLUENCE_VANILLA, ALL
+	goreEffect = "CONFLUENCE_VANILLA"
+	#Allowed Values: PARTICLE, VIRTUAL, OFF
+	damageIndicator = "VIRTUAL"
+	#Allowed Values: PARTICLE, VIRTUAL, OFF
+	healIndicator = "VIRTUAL"
+
+[Biome]
+	#Range: 0 ~ 100
+	minEctoMistEffectRadius = 10
+
+	[Biome."The Hallow"]
+		#Range: 0 ~ 20
+		rainbowCount = 3
+		rainbowGradient = false
+
+[WeaponInput]
+	#Allowed Values: LEFT, RIGHT
+	staffUseButton = "RIGHT"
+	#Allowed Values: LEFT, RIGHT
+	whipUseButton = "LEFT"
+	#Allowed Values: LEFT, RIGHT
+	yoyoUseButton = "LEFT"
+	#Allowed Values: LEFT, RIGHT
+	gunUseButton = "LEFT"
+	#Allowed Values: LEFT, RIGHT
+	flailUseButton = "LEFT"
+
+[Weather]
+	#Range: 0 ~ 100
+	showWindParticles = 90
+	windSlantsRainClouds = true
+	blizzardAmbience = true
+
