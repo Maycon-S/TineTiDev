@@ -13,5 +13,6 @@ event.create('supreme_advanced_alchemy_of_machines')
 event.create('star')
 event.create('singularity')
 event.create('void')
+event.create('teste')
   } 
 );

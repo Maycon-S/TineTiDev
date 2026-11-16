@@ -266,5 +266,17 @@
     },
     "done": true
   },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2026-11-16 20:28:52 -0300"
+    },
+    "done": true
+  },
+  "confluence:achievements/you_can_do_it": {
+    "criteria": {
+      "never": "2026-11-16 20:36:14 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

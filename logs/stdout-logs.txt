@@ -1,672 +1,684 @@
-[STDOUT]   <log4j:Event logger="cpw.mods.modlauncher.Launcher" timestamp="1794787369614" level="INFO" thread="main">
-    <log4j:Message><![CDATA[ModLauncher running: args [--username, maycon2, --version, forge-47.4.28, --gameDir, C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev, --assetsDir, C:\Users\Usuario\curseforge\minecraft\Install\assets, --assetIndex, 5, --uuid, d20862fcd3d8409ba930bf6db0e46203, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, cf8382-5f13fd-b0f71e-ff65e5-ea97e7, --xuid, 2535455162395814, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\Usuario\curseforge\minecraft\Quickplay\87174e36-ea15-43eb-8776-120ae3733387.json, , , , --launchTarget, forgeclient, --fml.forgeVersion, 47.4.28, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="cpw.mods.modlauncher.Launcher" timestamp="1794872602828" level="INFO" thread="main">
+    <log4j:Message><![CDATA[ModLauncher running: args [--username, maycon2, --version, forge-47.4.28, --gameDir, C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev, --assetsDir, C:\Users\Usuario\curseforge\minecraft\Install\assets, --assetIndex, 5, --uuid, d20862fcd3d8409ba930bf6db0e46203, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, 35e1c3-964f7a-a9e19f-348fef-eb06ff, --xuid, 2535455162395814, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\Usuario\curseforge\minecraft\Quickplay\87174e36-ea15-43eb-8776-120ae3733387.json, , , , --launchTarget, forgeclient, --fml.forgeVersion, 47.4.28, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="cpw.mods.modlauncher.Launcher" timestamp="1794787369623" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="cpw.mods.modlauncher.Launcher" timestamp="1794872602836" level="INFO" thread="main">
     <log4j:Message><![CDATA[ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.ImmediateWindowHandler" timestamp="1794787370253" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.ImmediateWindowHandler" timestamp="1794872603553" level="INFO" thread="main">
     <log4j:Message><![CDATA[Loading ImmediateWindowProvider fmlearlywindow]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="EARLYDISPLAY" timestamp="1794787370328" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="EARLYDISPLAY" timestamp="1794872603684" level="INFO" thread="main">
     <log4j:Message><![CDATA[Trying GL version 4.6]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="EARLYDISPLAY" timestamp="1794787370536" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="EARLYDISPLAY" timestamp="1794872603975" level="INFO" thread="main">
     <log4j:Message><![CDATA[Requested GL version 4.6 got version 4.6]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787370665" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872604115" level="INFO" thread="main">
     <log4j:Message><![CDATA[SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Usuario/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="EARLYDISPLAY" timestamp="1794787370842" level="INFO" thread="pool-2-thread-1">
+[STDOUT]   <log4j:Event logger="EARLYDISPLAY" timestamp="1794872604181" level="INFO" thread="pool-2-thread-1">
     <log4j:Message><![CDATA[GL info: NVIDIA GeForce RTX 5050/PCIe/SSE2 GL version 4.6.0 NVIDIA 621.24, NVIDIA Corporation]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370976" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604453" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file Apotheosis-1.20.1-7.4.8.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370977" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604453" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file ApothicAttributes-1.20.1-1.3.7.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370977" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604453" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file ApothicCurios-1.20.1-1.0.3e.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370977" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604454" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370977" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604454" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file cc-tweaked-1.20.1-forge-1.113.1.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370977" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604454" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file ConfluenceOtherworld-forge-1.2.12-1.20.1-261114.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370978" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604454" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file Cucumber-1.20.1-7.0.16.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370978" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604454" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file curios-forge-5.14.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370978" level="INFO" thread="main">
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604454" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file easyrecipes-1.20.1-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370978" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604454" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file ExtendedCrafting-1.20.1-6.0.10.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370978" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604454" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file geckolib-forge-1.20.1-4.8.4.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370978" level="INFO" thread="main">
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604454" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file jei-1.20.1-forge-15.56.0.205.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370978" level="INFO" thread="main">
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604455" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file kjscc-2002-1.0.2-beta.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370978" level="INFO" thread="main">
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604455" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file kubejs-forge-2001.6.5-build.26.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370979" level="INFO" thread="main">
+  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604455" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file kubejsadditions-forge-4.3.4.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370979" level="INFO" thread="main">
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604455" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file kubejsoffline-5.2.0.27.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370980" level="INFO" thread="main">
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604455" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file MesdagPortLib-neoforge1.21.1-to-forge1.20.1-1.3.2.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370980" level="INFO" thread="main">
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604455" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file Patchouli-1.20.1-85-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370980" level="INFO" thread="main">
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604455" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file Placebo-1.20.1-8.6.3.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370981" level="INFO" thread="main">
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604456" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file pmmo-1.20.1-1.7.43.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370981" level="INFO" thread="main">
+  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604456" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file pufferfishskillsjs-1.3.0.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370981" level="INFO" thread="main">
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604456" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file puffish_skills-0.19.2-1.20-forge.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370981" level="INFO" thread="main">
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604456" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file rhino-forge-2001.2.3-build.10.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787370981" level="INFO" thread="main">
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604456" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found mod file TerraCurio-forge-1.3.3-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods}]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModFileParser" timestamp="1794787371204" level="WARN" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModFileParser" timestamp="1794872604678" level="WARN" thread="main">
     <log4j:Message><![CDATA[Mod file C:\Users\Usuario\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.28\fmlcore-1.20.1-47.4.28.jar is missing mods.toml file]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModFileParser" timestamp="1794787371210" level="WARN" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModFileParser" timestamp="1794872604683" level="WARN" thread="main">
     <log4j:Message><![CDATA[Mod file C:\Users\Usuario\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.28\javafmllanguage-1.20.1-47.4.28.jar is missing mods.toml file]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModFileParser" timestamp="1794787371218" level="WARN" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModFileParser" timestamp="1794872604689" level="WARN" thread="main">
     <log4j:Message><![CDATA[Mod file C:\Users\Usuario\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.28\lowcodelanguage-1.20.1-47.4.28.jar is missing mods.toml file]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModFileParser" timestamp="1794787371224" level="WARN" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModFileParser" timestamp="1794872604694" level="WARN" thread="main">
     <log4j:Message><![CDATA[Mod file C:\Users\Usuario\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.28\mclanguage-1.20.1-47.4.28.jar is missing mods.toml file]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371232" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file fmlcore-1.20.1-47.4.28.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@21ae6e73]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604705" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file fmlcore-1.20.1-47.4.28.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@47dd778]]></log4j:Message>
+  </log4j:Event>
+  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604705" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file javafmllanguage-1.20.1-47.4.28.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@47dd778]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371232" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file javafmllanguage-1.20.1-47.4.28.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@21ae6e73]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604705" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file lowcodelanguage-1.20.1-47.4.28.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@47dd778]]></log4j:Message>
+  </log4j:Event>
+  <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604705" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file mclanguage-1.20.1-47.4.28.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@47dd778]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371233" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file lowcodelanguage-1.20.1-47.4.28.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@21ae6e73]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604706" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@47dd778]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371233" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file mclanguage-1.20.1-47.4.28.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@21ae6e73]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872604706" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file forge-1.20.1-47.4.28-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@47dd778]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371233" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@21ae6e73]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371233" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file forge-1.20.1-47.4.28-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@21ae6e73]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraftforge.jarjar.selection.JarSelector" timestamp="1794787371607" level="WARN" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.jarjar.selection.JarSelector" timestamp="1794872605154" level="WARN" thread="main">
     <log4j:Message><![CDATA[Attempted to select a dependency jar for JarJar which was passed in as source: terra_curio. Using Mod File: C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\mods\TerraCurio-forge-1.3.3-1.20.1.jar]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator" timestamp="1794787371607" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator" timestamp="1794872605155" level="INFO" thread="main">
     <log4j:Message><![CDATA[Found 13 dependencies adding them to mods collection]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371608" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file mixinextras-forge-0.2.0-rc.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@769d513]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872605155" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file mixinextras-forge-0.2.0-rc.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e4fa1da]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371608" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file MixinExtras-0.5.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@769d513]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872605155" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file MixinExtras-0.5.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e4fa1da]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371608" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file jzlib-1.1.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@769d513]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872605155" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file jzlib-1.1.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e4fa1da]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371608" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file org.confluence.lib.confluence_magic_lib-1.3.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@769d513]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872605155" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file org.confluence.lib.confluence_magic_lib-1.3.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e4fa1da]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371609" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file TheTrackers-1.20.1-0.2.6.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@769d513]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872605155" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file TheTrackers-1.20.1-0.2.6.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e4fa1da]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371609" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file ThreeDimensionParticle-forge-1.20.1-1.3.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@769d513]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872605157" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file ThreeDimensionParticle-forge-1.20.1-1.3.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e4fa1da]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371609" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file ParticleStorm-forge-1.20.1-1.5.5.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@769d513]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872605157" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file ParticleStorm-forge-1.20.1-1.5.5.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e4fa1da]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371609" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file OpalLight-forge-1.20.1-1.3.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@769d513]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872605157" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file OpalLight-forge-1.20.1-1.3.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e4fa1da]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371609" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file mixinextras-forge-0.5.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@769d513]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872605157" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file mixinextras-forge-0.5.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e4fa1da]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371609" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file org.confluence.mod.TerraFurniture-forge-1.20.1-0.0.5+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@769d513]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872605157" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file org.confluence.mod.TerraFurniture-forge-1.20.1-0.0.5+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e4fa1da]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371609" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@769d513]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872605157" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e4fa1da]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371609" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file DataTip-forge-1.20.1-1.2.8.2-forge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@769d513]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872605157" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file DataTip-forge-1.20.1-1.2.8.2-forge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e4fa1da]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794787371610" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Found mod file cobalt-0.9.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@769d513]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer" timestamp="1794872605158" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Found mod file cobalt-0.9.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e4fa1da]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787373726" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872607460" level="INFO" thread="main">
     <log4j:Message><![CDATA[Compatibility level set to JAVA_17]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787373756" level="ERROR" thread="main">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872607496" level="ERROR" thread="main">
     <log4j:Message><![CDATA[Mixin config kubejsoffline.mixins.json does not specify "minVersion" property]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787373757" level="ERROR" thread="main">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872607498" level="ERROR" thread="main">
     <log4j:Message><![CDATA[Mixin config kubejsoffline-common.mixins.json does not specify "minVersion" property]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="cpw.mods.modlauncher.LaunchServiceHandler" timestamp="1794787373761" level="INFO" thread="main">
-    <log4j:Message><![CDATA[Launching target 'forgeclient' with arguments [--version, forge-47.4.28, --gameDir, C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev, --assetsDir, C:\Users\Usuario\curseforge\minecraft\Install\assets, --uuid, d20862fcd3d8409ba930bf6db0e46203, --username, maycon2, --assetIndex, 5, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, cf8382-5f13fd-b0f71e-ff65e5-ea97e7, --xuid, 2535455162395814, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\Usuario\curseforge\minecraft\Quickplay\87174e36-ea15-43eb-8776-120ae3733387.json, , , ]]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="cpw.mods.modlauncher.LaunchServiceHandler" timestamp="1794872607502" level="INFO" thread="main">
+    <log4j:Message><![CDATA[Launching target 'forgeclient' with arguments [--version, forge-47.4.28, --gameDir, C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev, --assetsDir, C:\Users\Usuario\curseforge\minecraft\Install\assets, --uuid, d20862fcd3d8409ba930bf6db0e46203, --username, maycon2, --assetIndex, 5, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, 35e1c3-964f7a-a9e19f-348fef-eb06ff, --xuid, 2535455162395814, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\Usuario\curseforge\minecraft\Quickplay\87174e36-ea15-43eb-8776-120ae3733387.json, , , ]]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787373884" level="WARN" thread="main">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872607654" level="WARN" thread="main">
     <log4j:Message><![CDATA[Reference map 'kubejsoffline-forge-refmap.json' for kubejsoffline.mixins.json could not be read. If this is a development environment you can ignore this message]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.placebo" timestamp="1794787374576" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.placebo" timestamp="1794872608422" level="INFO" thread="main">
     <log4j:Message><![CDATA[Patching IForgeItemStack#getEnchantmentLevel]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.placebo" timestamp="1794787374584" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.placebo" timestamp="1794872608432" level="INFO" thread="main">
     <log4j:Message><![CDATA[Patching IForgeItemStack#getEnchantmentLevel]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787374671" level="WARN" thread="main">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872608518" level="WARN" thread="main">
     <log4j:Message><![CDATA[Error loading class: net/nikdo53/neobackports/registry/RegistryLookupWrapper (java.lang.ClassNotFoundException: net.nikdo53.neobackports.registry.RegistryLookupWrapper)]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.attributeslib" timestamp="1794787374704" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.attributeslib" timestamp="1794872608550" level="INFO" thread="main">
     <log4j:Message><![CDATA[Patching EffectRenderingInventoryScreen#renderEffects]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794787374935" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794872608831" level="INFO" thread="main">
     <log4j:Message><![CDATA[Patching FishingHook#catchingFish]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794787375002" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794872608916" level="INFO" thread="main">
     <log4j:Message><![CDATA[Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787375104" level="WARN" thread="main">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872609060" level="WARN" thread="main">
     <log4j:Message><![CDATA[Error loading class: net/irisshaders/iris/shadows/ShadowRenderer (java.lang.ClassNotFoundException: net.irisshaders.iris.shadows.ShadowRenderer)]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787375105" level="WARN" thread="main">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872609062" level="WARN" thread="main">
     <log4j:Message><![CDATA[Error loading class: net/coderbot/iris/shadows/ShadowRenderer (java.lang.ClassNotFoundException: net.coderbot.iris.shadows.ShadowRenderer)]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787375227" level="WARN" thread="main">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872609268" level="WARN" thread="main">
     <log4j:Message><![CDATA[Error loading class: org/violetmoon/quark/content/tweaks/module/GoldToolsHaveFortuneModule (java.lang.ClassNotFoundException: org.violetmoon.quark.content.tweaks.module.GoldToolsHaveFortuneModule)]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.placebo" timestamp="1794787375228" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.placebo" timestamp="1794872609271" level="INFO" thread="main">
     <log4j:Message><![CDATA[Patching IForgeItemStack#getEnchantmentLevel]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.placebo" timestamp="1794787375229" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.placebo" timestamp="1794872609272" level="INFO" thread="main">
     <log4j:Message><![CDATA[Patching IForgeItemStack#getEnchantmentLevel]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787375233" level="WARN" thread="main">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872609278" level="WARN" thread="main">
     <log4j:Message><![CDATA[Error loading class: com/hollingsworth/arsnouveau/common/items/SpellCrossbow (java.lang.ClassNotFoundException: com.hollingsworth.arsnouveau.common.items.SpellCrossbow)]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787375237" level="WARN" thread="main">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872609285" level="WARN" thread="main">
     <log4j:Message><![CDATA[Error loading class: org/violetmoon/quark/content/client/tooltip/AttributeTooltips (java.lang.ClassNotFoundException: org.violetmoon.quark.content.client.tooltip.AttributeTooltips)]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787375306" level="WARN" thread="main">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872609363" level="WARN" thread="main">
     <log4j:Message><![CDATA[Error loading class: dev/emi/emi/EmiUtil (java.lang.ClassNotFoundException: dev.emi.emi.EmiUtil)]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787375307" level="WARN" thread="main">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872609364" level="WARN" thread="main">
     <log4j:Message><![CDATA[Error loading class: mezz/modnametooltip/TooltipEventHandler (java.lang.ClassNotFoundException: mezz.modnametooltip.TooltipEventHandler)]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787375309" level="WARN" thread="main">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872609366" level="WARN" thread="main">
     <log4j:Message><![CDATA[Error loading class: me/shedaniel/rei/impl/client/ClientHelperImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.ClientHelperImpl)]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="MixinExtras|Service" timestamp="1794787375466" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="MixinExtras|Service" timestamp="1794872609501" level="INFO" thread="main">
     <log4j:Message><![CDATA[Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).]]></log4j:Message>
   </log4j:Event>
 
 [STDOUT] Completely ignored arguments: [, , ]
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787377137" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872611538" level="INFO" thread="main">
     <log4j:Message><![CDATA[BeforeConstant is searching for constants in method with descriptor (Lnet/minecraft/network/chat/Component;Z)V]]></log4j:Message>
   </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787377139" level="INFO" thread="main">
+  <log4j:Event logger="mixin" timestamp="1794872611539" level="INFO" thread="main">
     <log4j:Message><![CDATA[  BeforeConstant found INTEGER constant: value = 0, intValue = null]]></log4j:Message>
   </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787377139" level="INFO" thread="main">
+  <log4j:Event logger="mixin" timestamp="1794872611539" level="INFO" thread="main">
     <log4j:Message><![CDATA[    BeforeConstant found a matching constant TYPE at ordinal 0]]></log4j:Message>
   </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787377139" level="INFO" thread="main">
+  <log4j:Event logger="mixin" timestamp="1794872611539" level="INFO" thread="main">
     <log4j:Message><![CDATA[      BeforeConstant found Insn [ICONST_0] ]]></log4j:Message>
   </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787377139" level="INFO" thread="main">
+  <log4j:Event logger="mixin" timestamp="1794872611539" level="INFO" thread="main">
     <log4j:Message><![CDATA[  BeforeConstant found INTEGER constant: value = 60, intValue = null]]></log4j:Message>
   </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787377139" level="INFO" thread="main">
+  <log4j:Event logger="mixin" timestamp="1794872611539" level="INFO" thread="main">
     <log4j:Message><![CDATA[    BeforeConstant found a matching constant TYPE at ordinal 1]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787377139" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872611539" level="INFO" thread="main">
     <log4j:Message><![CDATA[      BeforeConstant found IntInsn 60]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.attributeslib" timestamp="1794787377230" level="INFO" thread="main">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.attributeslib" timestamp="1794872611656" level="INFO" thread="main">
     <log4j:Message><![CDATA[Patching EffectRenderingInventoryScreen#renderEffects]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794787377797" level="INFO" thread="pool-4-thread-1">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794872612346" level="INFO" thread="pool-4-thread-1">
     <log4j:Message><![CDATA[Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.placebo" timestamp="1794787378853" level="INFO" thread="pool-4-thread-1">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.placebo" timestamp="1794872613550" level="INFO" thread="pool-4-thread-1">
     <log4j:Message><![CDATA[Patching IForgeItemStack#getEnchantmentLevel]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.placebo" timestamp="1794787378854" level="INFO" thread="pool-4-thread-1">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.placebo" timestamp="1794872613551" level="INFO" thread="pool-4-thread-1">
     <log4j:Message><![CDATA[Patching IForgeItemStack#getEnchantmentLevel]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794787378923" level="INFO" thread="pool-4-thread-1">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794872613644" level="INFO" thread="pool-4-thread-1">
     <log4j:Message><![CDATA[Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794787379473" level="INFO" thread="pool-4-thread-1">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794872614220" level="INFO" thread="pool-4-thread-1">
     <log4j:Message><![CDATA[Patching FishingHook#catchingFish]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="com.mojang.datafixers.DataFixerBuilder" timestamp="1794787380529" level="INFO" thread="Datafixer Bootstrap">
-    <log4j:Message><![CDATA[188 Datafixer optimizations took 232 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="com.mojang.datafixers.DataFixerBuilder" timestamp="1794872615116" level="INFO" thread="Datafixer Bootstrap">
+    <log4j:Message><![CDATA[188 Datafixer optimizations took 125 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794787381300" level="INFO" thread="pool-4-thread-1">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794872615809" level="INFO" thread="pool-4-thread-1">
     <log4j:Message><![CDATA[Patching FishingHook#catchingFish]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794787381968" level="INFO" thread="pool-4-thread-1">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794872616461" level="INFO" thread="pool-4-thread-1">
     <log4j:Message><![CDATA[Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794787381969" level="INFO" thread="pool-4-thread-1">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794872616462" level="INFO" thread="pool-4-thread-1">
     <log4j:Message><![CDATA[Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.packs.VanillaPackResourcesBuilder" timestamp="1794787383165" level="WARN" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.packs.VanillaPackResourcesBuilder" timestamp="1794872617579" level="WARN" thread="Render thread">
     <log4j:Message><![CDATA[Assets URL 'union:/C:/Users/Usuario/curseforge/minecraft/Install/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23204!/assets/.mcassetsroot' uses unexpected schema]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.packs.VanillaPackResourcesBuilder" timestamp="1794787383165" level="WARN" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.packs.VanillaPackResourcesBuilder" timestamp="1794872617579" level="WARN" thread="Render thread">
     <log4j:Message><![CDATA[Assets URL 'union:/C:/Users/Usuario/curseforge/minecraft/Install/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23204!/data/.mcassetsroot' uses unexpected schema]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService" timestamp="1794787383189" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService" timestamp="1794872617599" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD']]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.Minecraft" timestamp="1794787383695" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.Minecraft" timestamp="1794872618253" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Setting user: maycon2]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787383735" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618298" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[BeforeConstant is searching for constants in method with descriptor (Lnet/minecraft/network/chat/Component;Lnet/minecraft/client/GuiMessageTag;)V]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787383735" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618300" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[  BeforeConstant found STRING constant: value = , stringValue = null]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787383736" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618300" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[    BeforeConstant found a matching constant TYPE at ordinal 0]]></log4j:Message>
   </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787383736" level="INFO" thread="Render thread">
+  <log4j:Event logger="mixin" timestamp="1794872618300" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[      BeforeConstant found LdcInsn ]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787383736" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618300" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[  BeforeConstant found STRING constant: value = \\r, stringValue = null]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787383736" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618300" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[    BeforeConstant found a matching constant TYPE at ordinal 1]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787383736" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618300" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[      BeforeConstant found LdcInsn \\r]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787383736" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618300" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[  BeforeConstant found STRING constant: value = 
 , stringValue = null]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787383736" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618300" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[    BeforeConstant found a matching constant TYPE at ordinal 2]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787383736" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618300" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[      BeforeConstant found LdcInsn 
 ]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787383736" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618300" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[  BeforeConstant found STRING constant: value = \\n, stringValue = null]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="mixin" timestamp="1794787383736" level="INFO" thread="Render thread">
+
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618300" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[    BeforeConstant found a matching constant TYPE at ordinal 3]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="mixin" timestamp="1794787383737" level="INFO" thread="Render thread">
+
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618300" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[      BeforeConstant found LdcInsn \\n]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="mixin" timestamp="1794787383737" level="INFO" thread="Render thread">
+
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618301" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[  BeforeConstant found CLASS constant: value = Ljava/lang/String;, typeValue = null]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="mixin" timestamp="1794787383737" level="INFO" thread="Render thread">
+
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618301" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[  BeforeConstant found STRING constant: value = [{}] [CHAT] {}, stringValue = null]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="mixin" timestamp="1794787383737" level="INFO" thread="Render thread">
+
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618301" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[    BeforeConstant found a matching constant TYPE at ordinal 4]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="mixin" timestamp="1794787383737" level="INFO" thread="Render thread">
+
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618301" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[      BeforeConstant found LdcInsn [{}] [CHAT] {}]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="mixin" timestamp="1794787383737" level="INFO" thread="Render thread">
+
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618301" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[  BeforeConstant found STRING constant: value = [CHAT] {}, stringValue = null]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="mixin" timestamp="1794787383737" level="INFO" thread="Render thread">
+
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872618301" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[    BeforeConstant found a matching constant TYPE at ordinal 5]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="mixin" timestamp="1794787383737" level="INFO" thread="Render thread">
+  <log4j:Event logger="mixin" timestamp="1794872618301" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[      BeforeConstant found LdcInsn [CHAT] {}]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.Minecraft" timestamp="1794787383804" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.Minecraft" timestamp="1794872618361" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Backend library: LWJGL version 3.3.1 build 7]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794787383879" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794872618418" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Loaded client.properties]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794787384451" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794872619012" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Loaded common.properties]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794787384452" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794872619014" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Loaded dev.properties]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794787384466" level="INFO" thread="modloading-worker-0">
-    <log4j:Message><![CDATA[Looking for KubeJS plugins...]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794787384474" level="INFO" thread="modloading-worker-0">
-    <log4j:Message><![CDATA[Found plugin source kubejs]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="pie.ilikepiefoo.kubejsoffline.core.api.ReflectionHelper" timestamp="1794787384483" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="pie.ilikepiefoo.kubejsoffline.core.api.ReflectionHelper" timestamp="1794872619022" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Added new union URL Type to VFS]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="pie.ilikepiefoo.kubejsoffline.core.api.ReflectionHelper" timestamp="1794787384483" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="pie.ilikepiefoo.kubejsoffline.core.api.ReflectionHelper" timestamp="1794872619022" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Added new directory Url Types to VFS]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="pie.ilikepiefoo.kubejsoffline.core.api.ReflectionHelper" timestamp="1794787384483" level="INFO" thread="modloading-worker-0">
+  <log4j:Event logger="pie.ilikepiefoo.kubejsoffline.core.api.ReflectionHelper" timestamp="1794872619022" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Now attempting to load JavaAssist ClassFile class]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794787384490" level="WARN" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794872619031" level="INFO" thread="modloading-worker-0">
+    <log4j:Message><![CDATA[Looking for KubeJS plugins...]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794872619037" level="INFO" thread="modloading-worker-0">
+    <log4j:Message><![CDATA[Found plugin source kubejs]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794872619057" level="WARN" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794787384490" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794872619057" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Found plugin source kjscc]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794787384503" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794872619059" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Found plugin source kubejsoffline]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794787384503" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794872619070" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Found plugin source cucumber]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794787384504" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794872619072" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Found plugin source kubejsadditions]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794787384508" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794872619075" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Found plugin source pufferfishskillsjs]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="pie.ilikepiefoo.kubejsoffline.core.api.ReflectionHelper" timestamp="1794787384561" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="pie.ilikepiefoo.kubejsoffline.core.api.ReflectionHelper" timestamp="1794872619115" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Successfully loaded JavaAssist ClassFile class!]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="pie.ilikepiefoo.kubejsoffline.EventHandler" timestamp="1794787384569" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="pie.ilikepiefoo.kubejsoffline.EventHandler" timestamp="1794872619125" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Automatic generation of KubeJS documentation is disabled.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794787384592" level="INFO" thread="modloading-worker-0">
-    <log4j:Message><![CDATA[Done in 123.6 ms]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="KubeJS" timestamp="1794872619175" level="INFO" thread="modloading-worker-0">
+    <log4j:Message><![CDATA[Done in 144.1 ms]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="com.cooobird.datatip.Datatip" timestamp="1794787384603" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="com.cooobird.datatip.Datatip" timestamp="1794872619227" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Registered 16 content parsers]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="com.cooobird.datatip.Datatip" timestamp="1794787384603" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="com.cooobird.datatip.Datatip" timestamp="1794872619228" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[DataTip loaded]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.common.ForgeMod" timestamp="1794787384628" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.common.ForgeMod" timestamp="1794872619262" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Forge mod loading, version 47.4.28, for MC 1.20.1 with MCP 20230612.114412]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.common.MinecraftForge" timestamp="1794787384629" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.common.MinecraftForge" timestamp="1794872619264" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[MinecraftForge v47.4.28 Initialized]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787384691" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872619348" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Sending ConfigManager...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787384701" level="INFO" thread="modloading-worker-0">
-    <log4j:Message><![CDATA[Sending ConfigManager took 7.724 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872619368" level="INFO" thread="modloading-worker-0">
+    <log4j:Message><![CDATA[Sending ConfigManager took 11.69 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794787384739" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794872619398" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Registering S2C receiver with id architectury:sync_ids]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794787384741" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794872619403" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Registering C2S receiver with id architectury:sync_ids]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Rhino Script Remapper" timestamp="1794787384915" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="Rhino Script Remapper" timestamp="1794872619561" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Loading Rhino Minecraft remapper...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="dev.latvian.mods.rhino.mod.util.RhinoProperties" timestamp="1794787384918" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="dev.latvian.mods.rhino.mod.util.RhinoProperties" timestamp="1794872619563" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Rhino properties loaded.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Rhino Script Remapper" timestamp="1794787384921" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="Rhino Script Remapper" timestamp="1794872619567" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Loading mappings for 1.20.1]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Rhino Script Remapper" timestamp="1794787384990" level="INFO" thread="modloading-worker-0">
-    <log4j:Message><![CDATA[Done in 0.074 s]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="Rhino Script Remapper" timestamp="1794872619630" level="INFO" thread="modloading-worker-0">
+    <log4j:Message><![CDATA[Done in 0.069 s]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mixin" timestamp="1794787385297" level="WARN" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="mixin" timestamp="1794872620142" level="WARN" thread="modloading-worker-0">
     <log4j:Message><![CDATA[@Inject(@At("INVOKE")) Shift.BY=5 on attributeslib.mixins.json:client.ClientPacketListenerMixin::handler$zpc000$apoth_postAttrChangedEvent exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Startup" timestamp="1794787385445" level="INFO" thread="modloading-worker-0">
-    <log4j:Message><![CDATA[Loaded script startup_scripts:armor.js in 0.063 s]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="KubeJS Startup" timestamp="1794872620289" level="INFO" thread="modloading-worker-0">
+    <log4j:Message><![CDATA[Loaded script startup_scripts:armor.js in 0.07 s]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Startup" timestamp="1794787385449" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="KubeJS Startup" timestamp="1794872620292" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Loaded script startup_scripts:block.js in 0.003 s]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Startup" timestamp="1794787385450" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="KubeJS Startup" timestamp="1794872620292" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[example.js#1: ola, mundo  (Loaded startup scripts)]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Startup" timestamp="1794787385451" level="INFO" thread="modloading-worker-0">
-    <log4j:Message><![CDATA[Loaded script startup_scripts:example.js in 0.002 s]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="KubeJS Startup" timestamp="1794872620294" level="INFO" thread="modloading-worker-0">
+    <log4j:Message><![CDATA[Loaded script startup_scripts:example.js in 0.001 s]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Startup" timestamp="1794787385452" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="KubeJS Startup" timestamp="1794872620295" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Loaded script startup_scripts:itens.js in 0.001 s]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Startup" timestamp="1794787385456" level="INFO" thread="modloading-worker-0">
-    <log4j:Message><![CDATA[Loaded 4/4 KubeJS startup scripts in 0.463 s with 0 errors and 0 warnings]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="KubeJS Startup" timestamp="1794872620301" level="INFO" thread="modloading-worker-0">
+    <log4j:Message><![CDATA[Loaded 4/4 KubeJS startup scripts in 0.664 s with 0 errors and 0 warnings]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Client" timestamp="1794787385546" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="KubeJS Client" timestamp="1794872620383" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[example.js#5: Hello, World! (Loaded client scripts)]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Client" timestamp="1794787385546" level="INFO" thread="modloading-worker-0">
-    <log4j:Message><![CDATA[Loaded script client_scripts:example.js in 0.001 s]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="KubeJS Client" timestamp="1794872620384" level="INFO" thread="modloading-worker-0">
+    <log4j:Message><![CDATA[Loaded script client_scripts:example.js in 0.0 s]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Client" timestamp="1794787385547" level="INFO" thread="modloading-worker-0">
-    <log4j:Message><![CDATA[Loaded 1/1 KubeJS client scripts in 0.026 s with 0 errors and 0 warnings]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="KubeJS Client" timestamp="1794872620384" level="INFO" thread="modloading-worker-0">
+    <log4j:Message><![CDATA[Loaded 1/1 KubeJS client scripts in 0.022 s with 0 errors and 0 warnings]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794787385623" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794872620453" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Registering C2S receiver with id kubejs:send_data_from_client]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794787385624" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794872620454" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Registering S2C receiver with id kubejs:send_data_from_server]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794787385626" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794872620455" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Registering S2C receiver with id kubejs:paint]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794787385628" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794872620456" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Registering S2C receiver with id kubejs:add_stage]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794787385628" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794872620458" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Registering S2C receiver with id kubejs:remove_stage]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794787385630" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794872620460" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Registering S2C receiver with id kubejs:sync_stages]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794787385631" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794872620460" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Registering C2S receiver with id kubejs:first_click]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794787385632" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794872620461" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Registering S2C receiver with id kubejs:toast]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794787385632" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794872620463" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Registering S2C receiver with id kubejs:reload_startup_scripts]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794787385634" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794872620464" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Registering S2C receiver with id kubejs:display_server_errors]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794787385635" level="INFO" thread="modloading-worker-0">
+[STDOUT]   <log4j:Event logger="dev.architectury.networking.forge.NetworkManagerImpl" timestamp="1794872620465" level="INFO" thread="modloading-worker-0">
     <log4j:Message><![CDATA[Registering S2C receiver with id kubejs:display_client_errors]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="com.cooobird.datatip.client.DatatipClient" timestamp="1794787390493" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="com.cooobird.datatip.client.DatatipClient" timestamp="1794872625698" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[TipContentLoader registered for client reload]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Confluence Magic Lib" timestamp="1794787390884" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Confluence Magic Lib" timestamp="1794872626117" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Dynamic light backend: GPU spatial grid]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.util.eventlog.EventLogDirectory" timestamp="1794787390916" level="WARN" thread="Worker-Main-1">
+[STDOUT]   <log4j:Event logger="net.minecraft.util.eventlog.EventLogDirectory" timestamp="1794872626152" level="WARN" thread="Worker-Main-1">
     <log4j:Message><![CDATA[Failed to compress event log file: C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\logs\telemetry\20261115-1.json]]></log4j:Message>
     <log4j:Throwable><![CDATA[java.io.IOException: Compressed target file already exists: C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\logs\telemetry\20261115-1.json.gz
 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.eventlog.EventLogDirectory.m_260828_(EventLogDirectory.java:87)
@@ -683,106 +695,106 @@
 ]]></log4j:Throwable>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.packs.resources.ReloadableResourceManager" timestamp="1794787390970" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.packs.resources.ReloadableResourceManager" timestamp="1794872626209" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Reloading ResourceManager: vanilla, mod_resources, KubeJS Resource Pack [assets]]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Client" timestamp="1794787391192" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="KubeJS Client" timestamp="1794872626464" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Client resource reload complete!]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="harmonised.pmmo.util.MsLoggy" timestamp="1794787391298" level="INFO" thread="Worker-Main-4">
-    <log4j:Message><![CDATA[Messages Registered]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.client.gui.font.providers.UnihexProvider" timestamp="1794787391350" level="INFO" thread="Worker-Main-1">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.gui.font.providers.UnihexProvider" timestamp="1794872626511" level="INFO" thread="Worker-Main-8">
     <log4j:Message><![CDATA[Found unifont_all_no_pua-15.0.06.hex, loading]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794787391351" level="INFO" thread="Forge Version Check">
-    <log4j:Message><![CDATA[[cucumber] Starting version check at https://api.blakesmods.com/v2/mods/cucumber/1.20/updates]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteLoader" timestamp="1794787391636" level="WARN" thread="Worker-Main-4">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteLoader" timestamp="1794872626968" level="WARN" thread="Worker-Main-5">
     <log4j:Message><![CDATA[Texture confluence:dialog_background with size 48x24 limits mip level from 4 to 3]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteLoader" timestamp="1794787391637" level="WARN" thread="Worker-Main-4">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteLoader" timestamp="1794872626968" level="WARN" thread="Worker-Main-5">
     <log4j:Message><![CDATA[Texture confluence:hud/soul_quick_skill_hud/box_gray with size 22x22 limits mip level from 3 to 1]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteLoader" timestamp="1794787391637" level="WARN" thread="Worker-Main-4">
+
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteLoader" timestamp="1794872626968" level="WARN" thread="Worker-Main-5">
     <log4j:Message><![CDATA[Texture confluence:background/moon_0 with size 61x61 limits mip level from 1 to 0]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Confluence" timestamp="1794787391648" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registered 3 overworld biome regions and 2 nether biome regions]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="harmonised.pmmo.util.MsLoggy" timestamp="1794872627139" level="INFO" thread="Worker-Main-11">
+    <log4j:Message><![CDATA[Messages Registered]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794787391835" level="INFO" thread="Forge Version Check">
-    <log4j:Message><![CDATA[[cucumber] Found status: UP_TO_DATE Current: 7.0.16 Target: null]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794787391839" level="INFO" thread="Forge Version Check">
-    <log4j:Message><![CDATA[[extendedcrafting] Starting version check at https://api.blakesmods.com/v2/mods/extendedcrafting/1.20/updates]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="placebo" timestamp="1794787391848" level="INFO" thread="Placebo Patreon Trail Loader">
-    <log4j:Message><![CDATA[Loading patreon trails data...]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="placebo" timestamp="1794787391851" level="INFO" thread="Placebo Patreon Wing Loader">
-    <log4j:Message><![CDATA[Loading patreon wing data...]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteContents" timestamp="1794787391857" level="WARN" thread="Worker-Main-9">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteContents" timestamp="1794872627175" level="WARN" thread="Worker-Main-6">
     <log4j:Message><![CDATA[Unused frames in sprite kubejs:item/singularity: [3, 4, 5]]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="placebo" timestamp="1794787391900" level="INFO" thread="Placebo Patreon Trail Loader">
-    <log4j:Message><![CDATA[Loaded 52 patreon trails.]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="placebo" timestamp="1794787391905" level="INFO" thread="Placebo Patreon Wing Loader">
-    <log4j:Message><![CDATA[Loaded 44 patreon wings.]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteContents" timestamp="1794787391948" level="WARN" thread="Worker-Main-8">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteContents" timestamp="1794872627261" level="WARN" thread="Worker-Main-7">
     <log4j:Message><![CDATA[Invalid frame index on sprite kubejs:item/po_de_estelas frame 8: 8]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteContents" timestamp="1794787391985" level="WARN" thread="Worker-Main-5">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794872627287" level="INFO" thread="Forge Version Check">
+    <log4j:Message><![CDATA[[cucumber] Starting version check at https://api.blakesmods.com/v2/mods/cucumber/1.20/updates]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteContents" timestamp="1794872627308" level="WARN" thread="Worker-Main-9">
     <log4j:Message><![CDATA[Unused frames in sprite apotheosis:items/gems/blood_lord: [9]]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794787392011" level="INFO" thread="Forge Version Check">
-    <log4j:Message><![CDATA[[extendedcrafting] Found status: OUTDATED Current: 6.0.10 Target: 6.0.11]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794787392011" level="INFO" thread="Forge Version Check">
-    <log4j:Message><![CDATA[[computercraft] Starting version check at https://api.modrinth.com/updates/cc-tweaked/forge_updates.json]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteLoader" timestamp="1794787392045" level="WARN" thread="Worker-Main-7">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteLoader" timestamp="1794872627399" level="WARN" thread="Worker-Main-6">
     <log4j:Message><![CDATA[Texture confluence:block/tuff_booth/tuff_booth_black with size 72x72 limits mip level from 4 to 3]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteLoader" timestamp="1794787392045" level="WARN" thread="Worker-Main-7">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteLoader" timestamp="1794872627400" level="WARN" thread="Worker-Main-6">
     <log4j:Message><![CDATA[Texture confluence:item/flail/chain_knife_inventory with size 30x32 limits mip level from 3 to 1]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteLoader" timestamp="1794787392049" level="WARN" thread="Worker-Main-7">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.SpriteLoader" timestamp="1794872627400" level="WARN" thread="Worker-Main-6">
     <log4j:Message><![CDATA[Texture confluence:item/armor/flinx_fur_coat_armor with size 85x85 limits mip level from 1 to 0]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794787392206" level="INFO" thread="Forge Version Check">
+[STDOUT]   <log4j:Event logger="Confluence" timestamp="1794872627528" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registered 3 overworld biome regions and 2 nether biome regions]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="placebo" timestamp="1794872627711" level="INFO" thread="Placebo Patreon Trail Loader">
+    <log4j:Message><![CDATA[Loading patreon trails data...]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="placebo" timestamp="1794872627712" level="INFO" thread="Placebo Patreon Wing Loader">
+    <log4j:Message><![CDATA[Loading patreon wing data...]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794872627746" level="INFO" thread="Forge Version Check">
+    <log4j:Message><![CDATA[[cucumber] Found status: UP_TO_DATE Current: 7.0.16 Target: null]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794872627751" level="INFO" thread="Forge Version Check">
+    <log4j:Message><![CDATA[[extendedcrafting] Starting version check at https://api.blakesmods.com/v2/mods/extendedcrafting/1.20/updates]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="placebo" timestamp="1794872627766" level="INFO" thread="Placebo Patreon Wing Loader">
+    <log4j:Message><![CDATA[Loaded 44 patreon wings.]]></log4j:Message>
+  </log4j:Event>
+  <log4j:Event logger="placebo" timestamp="1794872627766" level="INFO" thread="Placebo Patreon Trail Loader">
+    <log4j:Message><![CDATA[Loaded 52 patreon trails.]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794872627900" level="INFO" thread="Forge Version Check">
+    <log4j:Message><![CDATA[[extendedcrafting] Found status: OUTDATED Current: 6.0.10 Target: 6.0.11]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794872627900" level="INFO" thread="Forge Version Check">
+    <log4j:Message><![CDATA[[computercraft] Starting version check at https://api.modrinth.com/updates/cc-tweaked/forge_updates.json]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794872628086" level="INFO" thread="Forge Version Check">
     <log4j:Message><![CDATA[[computercraft] Found status: OUTDATED Current: 1.113.1 Target: 1.121.0]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794787392206" level="INFO" thread="Forge Version Check">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794872628086" level="INFO" thread="Forge Version Check">
     <log4j:Message><![CDATA[[kjscc] Starting version check at https://raw.githubusercontent.com/wolfieboy09/KubeJS-CC-Tweaked/main/versions.json]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794787392231" level="WARN" thread="Forge Version Check">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794872628267" level="WARN" thread="Forge Version Check">
     <log4j:Message><![CDATA[Failed to process update information]]></log4j:Message>
     <log4j:Throwable><![CDATA[com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 6 column 6 path $..1.0.1-beta
 	at MC-BOOTSTRAP/com.google.gson@2.10/com.google.gson.Gson.fromJson(Gson.java:1229)
@@ -805,657 +817,648 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 ]]></log4j:Throwable>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794787392232" level="INFO" thread="Forge Version Check">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794872628269" level="INFO" thread="Forge Version Check">
     <log4j:Message><![CDATA[[forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794787392434" level="INFO" thread="Forge Version Check">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.fml.VersionChecker" timestamp="1794872628453" level="INFO" thread="Forge Version Check">
     <log4j:Message><![CDATA[[forge] Found status: UP_TO_DATE Current: 47.4.28 Target: null]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.resources.model.ModelManager" timestamp="1794787395733" level="WARN" thread="Worker-Main-11">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.resources.model.ModelManager" timestamp="1794872631319" level="WARN" thread="Worker-Main-11">
     <log4j:Message><![CDATA[Missing textures in model apotheosis:ancient_material#inventory:
     minecraft:textures/atlas/blocks.png:apotheosis:items/ancient_material]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.sounds.SoundEngine" timestamp="1794787398810" level="WARN" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.sounds.SoundEngine" timestamp="1794872634604" level="WARN" thread="Render thread">
     <log4j:Message><![CDATA[Missing sound for event: minecraft:item.goat_horn.play]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.sounds.SoundEngine" timestamp="1794787398810" level="WARN" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.sounds.SoundEngine" timestamp="1794872634605" level="WARN" thread="Render thread">
     <log4j:Message><![CDATA[Missing sound for event: minecraft:entity.goat.screaming.horn_break]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="com.mojang.blaze3d.audio.Library" timestamp="1794787398853" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="com.mojang.blaze3d.audio.Library" timestamp="1794872634648" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[OpenAL initialized on device OpenAL Soft on Fones de ouvido (2- Fuxi-H3 )]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.sounds.SoundEngine" timestamp="1794787398854" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.sounds.SoundEngine" timestamp="1794872634648" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Sound engine started]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794787399029" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794872634853" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Created: 4096x2048x4 minecraft:textures/atlas/blocks.png-atlas]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794787399052" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794872634880" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Created: 512x256x4 minecraft:textures/atlas/signs.png-atlas]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794787399070" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794872634899" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Created: 256x128x4 thr_dim_particle:textures/atlas/particles.png-atlas]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794787399071" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794787399071" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794872634899" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794787399071" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794872634900" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794872634900" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Created: 4096x2048x4 minecraft:textures/atlas/gui.png-atlas]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794787399088" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794872634916" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794787399092" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Created: 1024x512x4 minecraft:textures/atlas/chest.png-atlas]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794787399094" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794872634919" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794787399095" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794872634921" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Created: 1024x512x4 minecraft:textures/atlas/chest.png-atlas]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794787399095" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794872634922" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.ShaderInstance" timestamp="1794787399301" level="WARN" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794872634923" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.ShaderInstance" timestamp="1794872635135" level="WARN" thread="Render thread">
     <log4j:Message><![CDATA[Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.]]></log4j:Message>
   </log4j:Event>
 
 [STDOUT] [VFXWORKBENCH] lightning shader compiled
 [VFXWORKBENCH] lightning vivid shader compiled
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794787399384" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794872635208" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Created: 2048x1024x0 minecraft:textures/atlas/particles.png-atlas]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794787399387" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794872635211" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794787399387" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794872635211" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Created: 256x256x0 minecraft:textures/atlas/mob_effects.png-atlas]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794787399422" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794872635247" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Created: 256x256x0 jei:textures/atlas/gui.png-atlas]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="patchouli" timestamp="1794787399502" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="patchouli" timestamp="1794872635329" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[BookContentResourceListenerLoader preloaded 673 jsons]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794787399504" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.renderer.texture.TextureAtlas" timestamp="1794872635331" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Created: 128x128x0 computercraft:textures/atlas/gui.png-atlas]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="com.cooobird.datatip.internal.loader.TipContentLoader" timestamp="1794787399548" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="com.cooobird.datatip.internal.loader.TipContentLoader" timestamp="1794872635381" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Loaded 460 datatip entries (exact: 460, tag: 0, wildcard: 0, legacy converted: 0)]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="com.cooobird.datatip.internal.loader.TipContentLoader" timestamp="1794787399549" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="com.cooobird.datatip.internal.loader.TipContentLoader" timestamp="1794872635381" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Datatip reload plan: added 15, updated 0, deleted 0, unchanged 0]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="com.cooobird.datatip.client.DatatipClient" timestamp="1794787399549" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="com.cooobird.datatip.client.DatatipClient" timestamp="1794872635381" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[TipContentLoader updated with 460 entries]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.common.ForgeHooks" timestamp="1794787403676" level="WARN" thread="Render thread">
-    <log4j:Message><![CDATA[The following mods have version differences that were not resolved:
-pmmojs (version 0.5.2 -> MISSING)
-Things may not work well.]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraftforge.registries.GameData" timestamp="1794787403692" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.registries.GameData" timestamp="1794872667374" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Injecting existing registry data into this CLIENT instance]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.registries.ForgeRegistry" timestamp="1794787403710" level="WARN" thread="Render thread">
-    <log4j:Message><![CDATA[Registry portlib:synced_attachment_types: The object org.mesdag.portlib.attachment.PortAttachmentType@f2aede7 has been registered twice for the same name confluence:soul.]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.registries.ForgeRegistry" timestamp="1794872667397" level="WARN" thread="Render thread">
+    <log4j:Message><![CDATA[Registry portlib:synced_attachment_types: The object org.mesdag.portlib.attachment.PortAttachmentType@786f192b has been registered twice for the same name confluence:soul.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.registries.ForgeRegistry" timestamp="1794787403711" level="WARN" thread="Render thread">
-    <log4j:Message><![CDATA[Registry portlib:synced_attachment_types: The object org.mesdag.portlib.attachment.PortAttachmentType@413bf74f has been registered twice for the same name confluence:summon_mark_data.]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.registries.ForgeRegistry" timestamp="1794872667397" level="WARN" thread="Render thread">
+    <log4j:Message><![CDATA[Registry portlib:synced_attachment_types: The object org.mesdag.portlib.attachment.PortAttachmentType@6a614868 has been registered twice for the same name confluence:summon_mark_data.]]></log4j:Message>
+  </log4j:Event>
+  <log4j:Event logger="net.minecraftforge.registries.ForgeRegistry" timestamp="1794872667397" level="WARN" thread="Render thread">
+    <log4j:Message><![CDATA[Registry portlib:synced_attachment_types: The object org.mesdag.portlib.attachment.PortAttachmentType@578bb952 has been registered twice for the same name confluence:summoner_attachment_entity_data.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.registries.ForgeRegistry" timestamp="1794787403711" level="WARN" thread="Render thread">
-    <log4j:Message><![CDATA[Registry portlib:synced_attachment_types: The object org.mesdag.portlib.attachment.PortAttachmentType@71b03e9a has been registered twice for the same name confluence:summoner_attachment_entity_data.]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraftforge.registries.ForgeRegistry" timestamp="1794872667459" level="WARN" thread="Render thread">
+    <log4j:Message><![CDATA[Registry minecraft:item: Object did not get ID it asked for. Name: kubejs:teste Expected: 4950 Got: 5068]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787405364" level="WARN" thread="Render thread">
-    <log4j:Message><![CDATA[Missing data pack mod:pmmojs]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787405405" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872668940" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[example.js#5: Hello, World! (Loaded server scripts)]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787405406" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Loaded script server_scripts:example.js in 0.007 s]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872668941" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Loaded script server_scripts:example.js in 0.008 s]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787405407" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Loaded 1/1 KubeJS server scripts in 0.018 s with 0 errors and 0 warnings]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872668941" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Loaded 1/1 KubeJS server scripts in 0.016 s with 0 errors and 0 warnings]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787405407" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872668942" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Scripts loaded]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787405419" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872668954" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Initializing recipe event...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794787406045" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794872669563" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/server/commands/EnchantCommand]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787406421" level="INFO" thread="Worker-Main-4">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872669947" level="INFO" thread="Worker-Main-6">
     <log4j:Message><![CDATA[[minecraft:block] Found 610 tags, added 6 objects, removed 0 objects]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="placebo" timestamp="1794787406849" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="placebo" timestamp="1794872670418" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registered 34 additional loot tables.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787406851" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872670419" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Processing recipes...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787406910" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Found 3616 recipes in 57.74 ms]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872670487" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Found 3616 recipes in 66.02 ms]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787406934" level="ERROR" thread="Render thread">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872670515" level="ERROR" thread="Render thread">
     <log4j:Message><![CDATA[example.js#102: Failed to create custom JSON recipe from '{"type":"botania:mana_infusion","catalyst":{"type":"block","block":"botania:alchemy_catalyst"},"group":"botania:shrub_cycle","input":{"item":"minecraft:reinforced_deepslate"},"mana":99999,"output":{"item":"extendedcrafting:the_ultimate_nugget"}}': Unknown recipe type: botania:mana_infusion]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787406938" level="ERROR" thread="Render thread">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872670517" level="ERROR" thread="Render thread">
     <log4j:Message><![CDATA[example.js#120: Failed to create custom JSON recipe from '{"type":"create:mechanical_crafting","acceptMirrored":false,"pattern":[" A "," A ","BBB","ABA"],"key":{"A":{"item":"minecraft:oak_planks"},"B":{"item":"minecraft:command_block"}},"result":{"item":"minecraft:end_portal_frame"}}': Unknown recipe type: create:mechanical_crafting]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787406940" level="ERROR" thread="Render thread">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872670518" level="ERROR" thread="Render thread">
     <log4j:Message><![CDATA[example.js#149: Failed to create custom JSON recipe from '{"type":"botania:terra_plate","ingredients":[{"item":"minecraft:white_bed"},{"item":"minecraft:yellow_carpet"},{"item":"extendedcrafting:ultimate_singularity"}],"mana":7000,"result":{"item":"minecraft:command_block"}}': Unknown recipe type: botania:terra_plate]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787406941" level="ERROR" thread="Render thread">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872670519" level="ERROR" thread="Render thread">
     <log4j:Message><![CDATA[example.js#172: Failed to create custom JSON recipe from '{"type":"botania:petal_apothecary","ingredients":[{"item":"minecraft:gold_ingot"},{"item":"minecraft:iron_ingot"},{"item":"minecraft:copper_ingot"},{"item":"minecraft:netherite_ingot"}],"output":{"item":"minecraft:string"},"reagent":{"tag":"minecraft:ancient_debris"}}': Unknown recipe type: botania:petal_apothecary]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787406942" level="ERROR" thread="Render thread">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872670520" level="ERROR" thread="Render thread">
     <log4j:Message><![CDATA[example.js#198: Failed to create custom JSON recipe from '{"type":"create:milling","ingredients":[{"item":"minecraft:spawner"}],"processingTime":50,"results":[{"count":2,"item":"cyclic:altar_destruction"},{"chance":0.5,"item":"cyclic:spikes_fire"}]}': Unknown recipe type: create:milling]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787406943" level="ERROR" thread="Render thread">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872670521" level="ERROR" thread="Render thread">
     <log4j:Message><![CDATA[example.js#221: Failed to create custom JSON recipe from '{"type":"create:deploying","ingredients":[{"item":"minecraft:crying_obsidian"},{"item":"minecraft:crying_obsidian"}],"keepHeldItem":true,"results":[{"item":"minecraft:crying_obsidian"}]}': Unknown recipe type: create:deploying]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787406943" level="ERROR" thread="Render thread">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872670522" level="ERROR" thread="Render thread">
     <log4j:Message><![CDATA[example.js#241: Failed to create custom JSON recipe from '{"type":"botania:runic_altar","ingredients":[{"item":"cyclic:spikes_fire"},{"item":"minecraft:obsidian"},{"item":"cyclic:spikes_fire"},{"item":"minecraft:obsidian"}],"mana":12000,"output":{"item":"minecraft:crying_obsidian"}}': Unknown recipe type: botania:runic_altar]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787406944" level="ERROR" thread="Render thread">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872670522" level="ERROR" thread="Render thread">
     <log4j:Message><![CDATA[example.js#265: Failed to create custom JSON recipe from '{"type":"create:mechanical_crafting","accetMirrored":false,"pattern":["AAAAAAAAA","ABACADAEA","AFAFAFAFA","AAAAAAAAA","AGAGAGAGA","AAAAAAAAA","AHAIAJAKA","AFAFAFAFA","AAAAAAAAA"],"key":{"A":{"item":"minecraft:netherite_block"},"B":{"item":"minecraft:rabbit_spawn_egg"},"C":{"item":"minecraft:pig_spawn_egg"},"D":{"item":"minecraft:pillager_spawn_egg"},"E":{"item":"minecraft:pufferfish_spawn_egg"},"F":{"item":"extendedcrafting:ultimate_singularity"},"G":{"item":"extendedcrafting:the_ultimate_block"},"H":{"item":"minecraft:polar_bear_spawn_egg"},"I":{"item":"minecraft:piglin_spawn_egg"},"J":{"item":"minecraft:bee_spawn_egg"},"K":{"item":"minecraft:cave_spider_spawn_egg"}},"result":{"item":"minecraft:spawner","cout":1}}': Unknown recipe type: create:mechanical_crafting]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787406954" level="ERROR" thread="Render thread">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872670533" level="ERROR" thread="Render thread">
     <log4j:Message><![CDATA[example.js#324: Failed to create custom JSON recipe from '{"type":"extendedcrafting:shaped_table","accetMirrored":false,"pattern":["   AAAAAB"," C AAAAAA","   AAAAAA","    AAAAA","    DAAAA","   D  AAA","EED      ","EAE    F ","AEE      "],"key":{"A":{"item":"minecraft:nether_star"},"B":{"item":"minecraft:soul_lantern"},"C":{"item":"minecraft:ender_eye"},"D":{"item":"minecraft:coal_block"},"E":{"item":"minecraft:diamond_block"},"F":{"item":"minecraft:ender_pearl"}},"result":{"item":"avaritialiteextended:infinity_mace"}}': ItemStack 'result' can't be empty!]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787406958" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Posted recipe events in 46.84 ms]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872670536" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Posted recipe events in 48.75 ms]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787407004" level="WARN" thread="KubeJS Recipe Event Worker 0">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872670582" level="WARN" thread="KubeJS Recipe Event Worker 0">
     <log4j:Message><![CDATA[Duplicate original recipe for id terra_curio:extra_step_stool!
 Recipe A: {type=terra_curio:extra_step_stool, in=[], out='terra_curio:step_stool'}
 Recipe B: {type=terra_curio:extra_step_stool, in=[], out='terra_curio:step_stool'}
 Using last one encountered.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Extended Crafting" timestamp="1794787407026" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Extended Crafting" timestamp="1794872670600" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Loaded 19 singularity type(s) in 10 ms]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Cucumber Library" timestamp="1794787407028" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Cucumber Library" timestamp="1794872670604" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registered 19 recipes in 13 ms (KubeJS mode)]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787407033" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Added 7 recipes, removed 1 recipes, modified 0 recipes, with 9 failed recipes in 73.27 ms]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872670609" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Added 7 recipes, removed 1 recipes, modified 0 recipes, with 9 failed recipes in 69.93 ms]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.advancements.AdvancementList" timestamp="1794787407120" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.advancements.AdvancementList" timestamp="1794872670702" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Loaded 2576 advancements]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="placebo" timestamp="1794787407132" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="placebo" timestamp="1794872670713" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registered 26 additional recipes.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="top.theillusivec4.curios.Curios" timestamp="1794787407141" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="top.theillusivec4.curios.Curios" timestamp="1794872670721" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Loaded 11 curio slots]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="top.theillusivec4.curios.Curios" timestamp="1794787407147" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="top.theillusivec4.curios.Curios" timestamp="1794872670725" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Loaded 1 curio entities]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="dan200.computercraft.impl.UpgradeManager" timestamp="1794787407181" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="dan200.computercraft.impl.UpgradeManager" timestamp="1794872670766" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Loaded 9 turtle upgrades]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="dan200.computercraft.impl.UpgradeManager" timestamp="1794787407181" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="dan200.computercraft.impl.UpgradeManager" timestamp="1794872670766" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Loaded 3 pocket computer upgrades]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="placebo" timestamp="1794787407210" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="placebo" timestamp="1794872670795" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registered 16 gear_sets.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Enchantment" timestamp="1794787407214" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Enchantment" timestamp="1794872670799" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registered 29 enchanting_stats.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794787407215" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794872670800" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registered 6 rarities.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794787407226" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794872670810" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registered 81 affixes.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794787407232" level="WARN" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794872670819" level="WARN" thread="Render thread">
     <log4j:Message><![CDATA[Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category helmetRequired: 3; Provided: 2]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794787407232" level="WARN" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794872670820" level="WARN" thread="Render thread">
     <log4j:Message><![CDATA[Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category bootsRequired: 3; Provided: 2]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794787407232" level="WARN" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794872670820" level="WARN" thread="Render thread">
     <log4j:Message><![CDATA[Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bowRequired: 5; Provided: 4]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794787407232" level="WARN" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794872670820" level="WARN" thread="Render thread">
     <log4j:Message><![CDATA[Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category crossbowRequired: 5; Provided: 4]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794787407232" level="WARN" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794872670820" level="WARN" thread="Render thread">
     <log4j:Message><![CDATA[Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category pickaxeRequired: 5; Provided: 4]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="Apotheosis : Adventure" timestamp="1794787407234" level="WARN" thread="Render thread">
+
+[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794872670820" level="WARN" thread="Render thread">
     <log4j:Message><![CDATA[Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shovelRequired: 5; Provided: 4]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794787407234" level="WARN" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794872670820" level="WARN" thread="Render thread">
     <log4j:Message><![CDATA[Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shieldRequired: 5; Provided: 4]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794787407234" level="WARN" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794872670820" level="WARN" thread="Render thread">
     <log4j:Message><![CDATA[Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category helmetRequired: 4; Provided: 2]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794787407234" level="WARN" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794872670820" level="WARN" thread="Render thread">
     <log4j:Message><![CDATA[Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bootsRequired: 4; Provided: 2]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794787407242" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794872670828" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registered 19 gems.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794787407248" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794872670834" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registered 67 affix_loot_entries.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794787407255" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794872670840" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registered 17 bosses.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794787407261" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794872670844" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registered 8 rogue_spawners.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794787407264" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Adventure" timestamp="1794872670847" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registered 5 minibosses.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Apotheosis : Village" timestamp="1794787407268" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Apotheosis : Village" timestamp="1794872670850" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registered 28 wanderer_trades.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Cucumber Library" timestamp="1794787408785" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Cucumber Library" timestamp="1794872672182" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Loaded cucumber-tags.json in 2 ms]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.server.IntegratedServer" timestamp="1794787408956" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.server.IntegratedServer" timestamp="1794872672358" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Starting integrated minecraft server version 1.20.1]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787408956" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872672359" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Generating keypair]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794787409116" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794872672516" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794787409116" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794872672516" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794787409116" level="INFO" thread="Server thread">
+  <log4j:Event logger="net.minecraftforge.coremod.CoreMod.apotheosis" timestamp="1794872672516" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Confluence" timestamp="1794787409486" level="INFO" thread="Worker-Main-3">
-    <log4j:Message><![CDATA[Biome region confluence:the_corruption took over at block (-76, 0, 24); climate T=1945 H=-259 C=-1614 E=3376 D=4888 W=-2181]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="Confluence" timestamp="1794872672902" level="INFO" thread="Worker-Main-6">
+    <log4j:Message><![CDATA[Biome region confluence:the_corruption took over at block (-72, 0, 24); climate T=1934 H=-256 C=-1689 E=3358 D=4427 W=-2208]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Confluence" timestamp="1794787409503" level="INFO" thread="Worker-Main-3">
+[STDOUT]   <log4j:Event logger="Confluence" timestamp="1794872672929" level="INFO" thread="Worker-Main-7">
     <log4j:Message><![CDATA[Biome region confluence:the_corruption owns column (44, 88) but no parameter box covers T=870 H=-1168 C=-1929 E=2469 D=3762 W=-2828; falling back to vanilla]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Confluence" timestamp="1794787409553" level="INFO" thread="Worker-Main-9">
+[STDOUT]   <log4j:Event logger="Confluence" timestamp="1794872672978" level="INFO" thread="Worker-Main-2">
     <log4j:Message><![CDATA[Biome region confluence:glowing_mushroom took over at block (-16184, 0, 4744); climate T=3411 H=-1879 C=-6120 E=751 D=2740 W=4582]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Confluence" timestamp="1794787409558" level="INFO" thread="Worker-Main-4">
+[STDOUT]   <log4j:Event logger="Confluence" timestamp="1794872672990" level="INFO" thread="Worker-Main-1">
     <log4j:Message><![CDATA[Biome region confluence:the_crimson owns column (-5240, -17112) but no parameter box covers T=-1207 H=3341 C=-4460 E=3151 D=3740 W=4553; falling back to vanilla]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Confluence" timestamp="1794787409607" level="INFO" thread="Worker-Main-4">
+[STDOUT]   <log4j:Event logger="Confluence" timestamp="1794872673019" level="INFO" thread="Worker-Main-1">
     <log4j:Message><![CDATA[Biome region confluence:the_crimson took over at block (-5116, 0, -17048); climate T=-676 H=3008 C=-1887 E=3578 D=3762 W=7095]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Confluence" timestamp="1794787409870" level="INFO" thread="Worker-Main-4">
+[STDOUT]   <log4j:Event logger="Confluence" timestamp="1794872673258" level="INFO" thread="Worker-Main-9">
     <log4j:Message><![CDATA[Biome region confluence:glowing_mushroom owns column (21244, -33704) but no parameter box covers T=-4744 H=-3316 C=7322 E=-10027 D=14590 W=-3926; falling back to vanilla]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787411191" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872674493" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Preparing start region for dimension minecraft:overworld]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787411197" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872674497" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Server resource reload complete!]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794787414647" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794872677229" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Preparing spawn area: 0%]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794787414647" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794872677248" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Preparing spawn area: 0%]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794787414647" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794872677285" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Preparing spawn area: 0%]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794787414648" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794872677338" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Preparing spawn area: 0%]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794787414648" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Preparing spawn area: 0%]]></log4j:Message>
-  </log4j:Event>
-  <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794787414648" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794872677338" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Preparing spawn area: 0%]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794787414648" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794872677356" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Preparing spawn area: 0%]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794787414704" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794872677522" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Preparing spawn area: 0%]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794787415210" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Preparing spawn area: 42%]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794872678018" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Preparing spawn area: 43%]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.server.permission.PermissionAPI" timestamp="1794787415456" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.server.permission.PermissionAPI" timestamp="1794872678264" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Successfully initialized permission handler forge:default_handler]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794787415463" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Time elapsed: 4269 ms]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraft.server.level.progress.LoggerChunkProgressListener" timestamp="1794872678271" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Time elapsed: 3761 ms]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="puffish_skills" timestamp="1794787415476" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="puffish_skills" timestamp="1794872678279" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[[puffish_skills] Mod configuration loaded successfully!]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="harmonised.pmmo.util.MsLoggy" timestamp="1794787415512" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="harmonised.pmmo.util.MsLoggy" timestamp="1794872678309" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Loading PMMO Saved Data]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="harmonised.pmmo.util.MsLoggy" timestamp="1794787415512" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="harmonised.pmmo.util.MsLoggy" timestamp="1794872678310" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Computing data for cache]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="harmonised.pmmo.util.MsLoggy" timestamp="1794787415515" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="harmonised.pmmo.util.MsLoggy" timestamp="1794872678312" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[PMMO Server loading process complete]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="patchouli" timestamp="1794787415565" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="patchouli" timestamp="1794872678354" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Sending reload packet to clients]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.server.IntegratedServer" timestamp="1794787415804" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.server.IntegratedServer" timestamp="1794872678546" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Changing view distance to 12, from 10]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.server.IntegratedServer" timestamp="1794787415806" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.server.IntegratedServer" timestamp="1794872678548" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Changing simulation distance to 12, from 0]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="io.netty.util.internal.SystemPropertyUtil" timestamp="1794787415857" level="WARN" thread="Render thread">
+[STDOUT]   <log4j:Event logger="io.netty.util.internal.SystemPropertyUtil" timestamp="1794872678606" level="WARN" thread="Render thread">
     <log4j:Message><![CDATA[Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraftforge.network.NetworkHooks" timestamp="1794787416728" level="INFO" thread="Netty Local Client IO #0">
+[STDOUT]   <log4j:Event logger="net.minecraftforge.network.NetworkHooks" timestamp="1794872679444" level="INFO" thread="Netty Local Client IO #0">
     <log4j:Message><![CDATA[Connected to a modded server.]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.players.PlayerList" timestamp="1794787416809" level="INFO" thread="Server thread">
-    <log4j:Message><![CDATA[maycon2[local:E:a044ead4] logged in with entity id 103 at (-157.41408297378038, 70.81173690044633, 353.9255733276572)]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraft.server.players.PlayerList" timestamp="1794872679512" level="INFO" thread="Server thread">
+    <log4j:Message><![CDATA[maycon2[local:E:78d609ab] logged in with entity id 138 at (-149.49323918352607, 71.57124962084438, 160.76517409268672)]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787416996" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872679757" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[maycon2 joined the game]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="Extended Crafting" timestamp="1794787417247" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="Extended Crafting" timestamp="1794872680263" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Loaded 19 singularities from the server]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="placebo" timestamp="1794787417248" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="placebo" timestamp="1794872680264" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Starting sync for enchanting_stats]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="placebo" timestamp="1794787417251" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="placebo" timestamp="1794872680267" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Starting sync for rarities]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="placebo" timestamp="1794787417252" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="placebo" timestamp="1794872680267" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Starting sync for affixes]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="placebo" timestamp="1794787417258" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="placebo" timestamp="1794872680273" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Starting sync for gems]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.ClientRecipeBook" timestamp="1794787417284" level="WARN" thread="Render thread">
-    <log4j:Message><![CDATA[Unknown recipe category: apotheosis:fletching/apotheosis:fletching/arrow]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.client.ClientRecipeBook" timestamp="1794787417287" level="WARN" thread="Render thread">
-    <log4j:Message><![CDATA[Unknown recipe category: apotheosis:fletching/apotheosis:fletching/iron_mining_arrow]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.client.ClientRecipeBook" timestamp="1794787417288" level="WARN" thread="Render thread">
-    <log4j:Message><![CDATA[Unknown recipe category: apotheosis:fletching/apotheosis:fletching/broadhead_arrow]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.client.ClientRecipeBook" timestamp="1794787417293" level="WARN" thread="Render thread">
-    <log4j:Message><![CDATA[Unknown recipe category: apotheosis:fletching/apotheosis:fletching/spectral_arrow]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.client.ClientRecipeBook" timestamp="1794787417295" level="WARN" thread="Render thread">
-    <log4j:Message><![CDATA[Unknown recipe category: apotheosis:fletching/apotheosis:fletching/obsidian_arrow]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.client.ClientRecipeBook" timestamp="1794787417301" level="WARN" thread="Render thread">
-    <log4j:Message><![CDATA[Unknown recipe category: apotheosis:fletching/apotheosis:fletching/diamond_mining_arrow]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.client.ClientRecipeBook" timestamp="1794787417304" level="WARN" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.ClientRecipeBook" timestamp="1794872680303" level="WARN" thread="Render thread">
     <log4j:Message><![CDATA[Unknown recipe category: apotheosis:fletching/apotheosis:fletching/explosive_arrow]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794787418427" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.ClientRecipeBook" timestamp="1794872680307" level="WARN" thread="Render thread">
+    <log4j:Message><![CDATA[Unknown recipe category: apotheosis:fletching/apotheosis:fletching/arrow]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="net.minecraft.client.ClientRecipeBook" timestamp="1794872680313" level="WARN" thread="Render thread">
+    <log4j:Message><![CDATA[Unknown recipe category: apotheosis:fletching/apotheosis:fletching/iron_mining_arrow]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="net.minecraft.client.ClientRecipeBook" timestamp="1794872680316" level="WARN" thread="Render thread">
+    <log4j:Message><![CDATA[Unknown recipe category: apotheosis:fletching/apotheosis:fletching/broadhead_arrow]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="net.minecraft.client.ClientRecipeBook" timestamp="1794872680319" level="WARN" thread="Render thread">
+    <log4j:Message><![CDATA[Unknown recipe category: apotheosis:fletching/apotheosis:fletching/spectral_arrow]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="net.minecraft.client.ClientRecipeBook" timestamp="1794872680321" level="WARN" thread="Render thread">
+    <log4j:Message><![CDATA[Unknown recipe category: apotheosis:fletching/apotheosis:fletching/diamond_mining_arrow]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="net.minecraft.client.ClientRecipeBook" timestamp="1794872680323" level="WARN" thread="Render thread">
+    <log4j:Message><![CDATA[Unknown recipe category: apotheosis:fletching/apotheosis:fletching/obsidian_arrow]]></log4j:Message>
+  </log4j:Event>
+
+[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794872681692" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Starting JEI...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418430" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872681694" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Configuring JEI...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418431" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Configuring JEI took 1.104 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872681696" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Configuring JEI took 855.9 microseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418444" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872681704" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registering item subtypes...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418451" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering item subtypes took 6.824 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872681712" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering item subtypes took 6.477 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418451" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872681712" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registering fluid subtypes...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418452" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering fluid subtypes took 419.9 microseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872681713" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering fluid subtypes took 434.6 microseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418454" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872681716" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registering ingredients...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794787418765" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering ingredients: jei:minecraft took 309.7 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794872681994" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering ingredients: jei:minecraft took 278.2 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418765" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering ingredients took 311.0 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872681995" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering ingredients took 279.0 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418766" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872681995" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registering extra ingredients...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418766" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering extra ingredients took 322.8 microseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872681995" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering extra ingredients took 307.0 microseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418766" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872681997" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registering search ingredient aliases...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418768" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering search ingredient aliases took 295.9 microseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872681997" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering search ingredient aliases took 303.7 microseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418786" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872682025" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registering Mod Info...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418787" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering Mod Info took 548.5 microseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872682026" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering Mod Info took 525.1 microseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418808" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872682046" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registering categories...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794787418842" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering categories: jei:minecraft took 32.67 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794872682093" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering categories: jei:minecraft took 45.52 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794787418856" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering categories: confluence:jei_plugin took 14.35 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794872682109" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering categories: confluence:jei_plugin took 16.46 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418879" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering categories took 69.64 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872682137" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering categories took 89.61 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418880" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872682138" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registering vanilla category extensions...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418886" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering vanilla category extensions took 4.886 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872682144" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering vanilla category extensions took 5.501 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418886" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872682146" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registering recipe catalysts...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418888" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering recipe catalysts took 811.4 microseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872682147" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering recipe catalysts took 1.202 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794787418888" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794872682147" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Building recipe registry...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794787418902" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Building recipe registry took 14.95 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794872682162" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Building recipe registry took 14.40 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418905" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872682164" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registering advanced plugins...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.registration.AdvancedRegistration" timestamp="1794787418908" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.registration.AdvancedRegistration" timestamp="1794872682167" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Added recipe manager plugin: class dan200.computercraft.client.integration.jei.RecipeResolver]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418908" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering advanced plugins took 2.426 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872682167" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering advanced plugins took 3.481 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787418909" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872682168" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registering recipes...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.util.IngredientSupplierHelper" timestamp="1794787421112" level="ERROR" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.util.IngredientSupplierHelper" timestamp="1794872684156" level="ERROR" thread="Render thread">
     <log4j:Message><![CDATA[Found a broken recipe, failed to setRecipe with RecipeLayoutBuilder:
 Recipe is from Mod: Apotheosis (apotheosis)
 Recipe Name: apotheosis:socketing
@@ -1518,312 +1521,256 @@ Recipe Type: minecraft:smithing]]></log4j:Message>
 ]]></log4j:Throwable>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794787422554" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering recipes: jei:minecraft took 3.645 seconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794872685342" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering recipes: jei:minecraft took 3.173 seconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794787422582" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering recipes: confluence:jei_plugin took 28.76 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794872685369" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering recipes: confluence:jei_plugin took 27.32 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794787422611" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering recipes: apotheosis:adventure_module took 15.68 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794872685399" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering recipes: apotheosis:adventure_module took 15.71 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794787422800" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering recipes: jei:internal took 185.9 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794872685559" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering recipes: jei:internal took 157.4 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787422800" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering recipes took 3.891 seconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872685559" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering recipes took 3.391 seconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787422820" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872685575" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registering recipes transfer handlers...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787422830" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering recipes transfer handlers took 9.530 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872685581" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering recipes transfer handlers took 5.674 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794787422831" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794872685583" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Building runtime...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787422832" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872685584" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registering gui handlers...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787422845" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering gui handlers took 11.12 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872685593" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering gui handlers took 8.108 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787422848" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872685596" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registering advanced search...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787422850" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering advanced search took 295.7 microseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872685596" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering advanced search took 306.7 microseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787422852" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872685598" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Registering Runtime...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.gui.startup.JeiGuiStarter" timestamp="1794787422855" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.gui.startup.JeiGuiStarter" timestamp="1794872685600" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Starting JEI GUI]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794787422856" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794872685600" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Building ingredient list...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794787422913" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Building ingredient list took 57.03 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794872685646" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Building ingredient list took 44.89 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794787422914" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794872685646" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Building ingredient filter...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794787427953" level="ERROR" thread="pool-28-thread-1">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794872690699" level="ERROR" thread="pool-28-thread-1">
     <log4j:Message><![CDATA[Registering Runtime: jei:forge_gui is running and has taken 5.100 seconds so far]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.gui.ingredients.IngredientFilter" timestamp="1794787428265" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Adding 5643 ingredients]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.gui.ingredients.IngredientFilter" timestamp="1794872691188" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Adding 5644 ingredients]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.gui.ingredients.IngredientFilter" timestamp="1794787428296" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Added 5643 ingredients]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.gui.ingredients.IngredientFilter" timestamp="1794872691216" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Added 5644 ingredients]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794787428296" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Building ingredient filter took 5.383 seconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794872691217" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Building ingredient filter took 5.572 seconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794787428375" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering Runtime: jei:forge_gui took 5.522 seconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCallerTimerRunnable" timestamp="1794872691300" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering Runtime: jei:forge_gui took 5.702 seconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787428375" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Registering Runtime took 5.523 seconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872691301" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Registering Runtime took 5.702 seconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794787428376" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Building runtime took 5.545 seconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794872691301" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Building runtime took 5.718 seconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787428376" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872691302" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Sending Runtime...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.ingredients.IngredientManager" timestamp="1794787428378" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.ingredients.IngredientManager" timestamp="1794872691303" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Ingredients are being added at runtime: 24 net.minecraft.world.item.ItemStack]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787428381" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Sending Runtime took 3.195 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872691307" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Sending Runtime took 5.167 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794787428381" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Starting JEI took 9.952 seconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.common.util.LoggedTimer" timestamp="1794872691307" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Starting JEI took 9.615 seconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.gui.components.ChatComponent" timestamp="1794787428490" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.gui.components.ChatComponent" timestamp="1794872691514" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[[System] [CHAT] KubeJS errors found [9]! Run '/kubejs errors server' for more info]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.advancements.AdvancementList" timestamp="1794787428513" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Loaded 209 advancements]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="net.minecraft.advancements.AdvancementList" timestamp="1794872691533" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Loaded 212 advancements]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="patchouli" timestamp="1794787428518" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[BookContentResourceListenerLoader: Files found in 844.8 μs]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="patchouli" timestamp="1794872691537" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[BookContentResourceListenerLoader: Files found in 898.3 μs]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="patchouli" timestamp="1794787428524" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[BookContentResourceListenerLoader: Files found in 810.8 μs]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="patchouli" timestamp="1794872691542" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[BookContentResourceListenerLoader: Files found in 848.9 μs]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="patchouli" timestamp="1794787428546" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[BookContentResourceListenerLoader: Files found in 902.9 μs]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="patchouli" timestamp="1794872691559" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[BookContentResourceListenerLoader: Files found in 1.111 ms]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="patchouli" timestamp="1794787428551" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[BookContentResourceListenerLoader: Files found in 36.30 μs]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="patchouli" timestamp="1794872691563" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[BookContentResourceListenerLoader: Files found in 25.80 μs]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="patchouli" timestamp="1794787428551" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[BookContentResourceListenerLoader: Files found in 29.70 μs]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="patchouli" timestamp="1794872691563" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[BookContentResourceListenerLoader: Files found in 16.90 μs]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="patchouli" timestamp="1794787428552" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[BookContentResourceListenerLoader: Files found in 22.10 μs]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="patchouli" timestamp="1794872691564" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[BookContentResourceListenerLoader: Files found in 13.80 μs]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.server.IntegratedServer" timestamp="1794787429718" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.server.IntegratedServer" timestamp="1794872692343" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Saving and pausing game...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787429762" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872692368" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787431023" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872693323" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end]]></log4j:Message>
   </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787431026" level="INFO" thread="Server thread">
+  <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872693327" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.server.IntegratedServer" timestamp="1794787447958" level="INFO" thread="Server thread">
-    <log4j:Message><![CDATA[Saving and pausing game...]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787447970" level="INFO" thread="Server thread">
-    <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787447990" level="INFO" thread="Server thread">
-    <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787447994" level="INFO" thread="Server thread">
-    <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.client.server.IntegratedServer" timestamp="1794787451308" level="INFO" thread="Server thread">
-    <log4j:Message><![CDATA[Saving and pausing game...]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787451316" level="INFO" thread="Server thread">
-    <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787451328" level="INFO" thread="Server thread">
-    <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787451330" level="INFO" thread="Server thread">
-    <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.advancements.AdvancementList" timestamp="1794787457975" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Loaded 210 advancements]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787505884" level="ERROR" thread="Server thread">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872703807" level="ERROR" thread="Server thread">
     <log4j:Message><![CDATA[example.js#397: Error in 'ItemEvents.rightClicked': TypeError: Cannot read property "id" from undefined]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794787506039" level="ERROR" thread="Server thread">
+[STDOUT]   <log4j:Event logger="KubeJS Server" timestamp="1794872766086" level="ERROR" thread="Server thread">
     <log4j:Message><![CDATA[example.js#397: Error in 'ItemEvents.rightClicked': TypeError: Cannot read property "id" from undefined]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.server.IntegratedServer" timestamp="1794787513158" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.server.IntegratedServer" timestamp="1794872770378" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Saving and pausing game...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787513167" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872770388" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787513181" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872770400" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787513183" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872770402" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.server.IntegratedServer" timestamp="1794787514808" level="INFO" thread="Server thread">
-    <log4j:Message><![CDATA[Saving and pausing game...]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787514817" level="INFO" thread="Server thread">
-    <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787514827" level="INFO" thread="Server thread">
-    <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787514828" level="INFO" thread="Server thread">
-    <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="mezz.jei.library.startup.JeiStarter" timestamp="1794787515558" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.startup.JeiStarter" timestamp="1794872771595" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Stopping JEI]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787515558" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872771596" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Sending Runtime Unavailable...]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.forge.plugins.forge.ForgeGuiPlugin" timestamp="1794787515560" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="mezz.jei.forge.plugins.forge.ForgeGuiPlugin" timestamp="1794872771596" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Stopping JEI GUI]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794787515562" level="INFO" thread="Render thread">
-    <log4j:Message><![CDATA[Sending Runtime Unavailable took 2.487 milliseconds]]></log4j:Message>
+[STDOUT]   <log4j:Event logger="mezz.jei.library.load.PluginCaller" timestamp="1794872771598" level="INFO" thread="Render thread">
+    <log4j:Message><![CDATA[Sending Runtime Unavailable took 2.095 milliseconds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.client.Minecraft" timestamp="1794787515576" level="INFO" thread="Render thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.client.Minecraft" timestamp="1794872771609" level="INFO" thread="Render thread">
     <log4j:Message><![CDATA[Stopping!]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.network.ServerGamePacketListenerImpl" timestamp="1794787515620" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.network.ServerGamePacketListenerImpl" timestamp="1794872771636" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[maycon2 lost connection: Disconnected]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787515620" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872771636" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[maycon2 left the game]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.network.ServerGamePacketListenerImpl" timestamp="1794787515631" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.network.ServerGamePacketListenerImpl" timestamp="1794872771646" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Stopping singleplayer server as player logged out]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787515674" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872771682" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Stopping server]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787515675" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872771682" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Saving players]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787515675" level="INFO" thread="Server thread">
+
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872771682" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Saving worlds]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.world.level.chunk.storage.RegionFile" timestamp="1794787516351" level="WARN" thread="IO-Worker-15">
-    <log4j:Message><![CDATA[Saving oversized chunk [-31, 44] (1207752 bytes} to external file C:\Users\Usuario\curseforge\minecraft\Instances\TineTiDev\saves\New World\region\c.-31.44.mcc]]></log4j:Message>
-  </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787516352" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872772090" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787517076" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872772514" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787517078" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872772515" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether]]></log4j:Message>
   </log4j:Event>
 
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787517112" level="INFO" thread="Server thread">
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872772545" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[ThreadedAnvilChunkStorage (New World): All chunks are saved]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787517112" level="INFO" thread="Server thread">
+
+[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872772545" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[ThreadedAnvilChunkStorage (DIM1): All chunks are saved]]></log4j:Message>
   </log4j:Event>
-  <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787517112" level="INFO" thread="Server thread">
+  <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872772545" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[ThreadedAnvilChunkStorage (DIM-1): All chunks are saved]]></log4j:Message>
   </log4j:Event>
-
-[STDOUT]   <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794787517112" level="INFO" thread="Server thread">
+  <log4j:Event logger="net.minecraft.server.MinecraftServer" timestamp="1794872772545" level="INFO" thread="Server thread">
     <log4j:Message><![CDATA[ThreadedAnvilChunkStorage: All dimensions are saved]]></log4j:Message>
   </log4j:Event>
 
