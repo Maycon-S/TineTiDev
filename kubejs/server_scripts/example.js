@@ -393,3 +393,11 @@ event.custom(
   });
 
 
+ItemEvents.rightClicked(event => {
+  if (event.hand == 'MAIN_HAND' && event.block.id == 'seu_mod:custom_crafting_table_6x6') {
+    event.server.runCommand(`execute as ${event.player.username} run tellraw @s ["",{"text":"Bancada 6x6 aberta! (Implemente sua UI aqui)"}]`)
+    
+    // Exemplo de abertura de UI personalizada (requer KubeJS UI)
+    // event.player.openChestGUI('Crafting 6x6', 6, ui => { ... })
+  }
+})

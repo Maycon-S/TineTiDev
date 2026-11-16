@@ -1,6 +1,2 @@
-// priority: 0
-
-// Visit the wiki for more info - https://kubejs.com/
-
-console.info('Hello, World! (Loaded startup scripts)')
+console.info('ola, mundo  (Loaded startup scripts)')
 

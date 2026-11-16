@@ -26,4 +26,3 @@ StartupEvents.registry('block', event => {
     .tagBlock('minecraft:mineable/pickaxe')
     .tagBlock('minecraft:needs_diamond_tool');
 });
-

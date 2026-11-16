@@ -116,18 +116,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2026-11-15 20:41:08 -0300"
-    },
-    "done": true
-  },
-  "confluence:achievements/new_world": {
-    "criteria": {
-      "requirement": "2026-11-15 20:40:24 -0300"
-    },
-    "done": true
-  },
   "confluence:recipes/shapeless/sticky_dynamite": {
     "criteria": {
       "has_gel": "2026-11-15 20:39:44 -0300"
@@ -155,6 +143,126 @@
   "confluence:achievements/matching_attire": {
     "criteria": {
       "never": "2026-11-15 20:40:19 -0300"
+    },
+    "done": true
+  },
+  "confluence:achievements/new_world": {
+    "criteria": {
+      "requirement": "2026-11-15 20:40:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-11-15 20:41:08 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/monitor_normal": {
+    "criteria": {
+      "has_computer": "2026-11-15 20:59:35 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/printer": {
+    "criteria": {
+      "has_computer": "2026-11-15 20:59:35 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/cable": {
+    "criteria": {
+      "has_computer": "2026-11-15 20:59:35 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/wireless_modem_advanced": {
+    "criteria": {
+      "has_computer": "2026-11-15 20:59:35 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/disk_drive": {
+    "criteria": {
+      "has_computer": "2026-11-15 20:59:35 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced": {
+    "criteria": {
+      "has_computer": "2026-11-15 20:59:35 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/speaker": {
+    "criteria": {
+      "has_computer": "2026-11-15 20:59:35 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal": {
+    "criteria": {
+      "has_computer": "2026-11-15 20:59:35 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/wired_modem": {
+    "criteria": {
+      "has_computer": "2026-11-15 20:59:35 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/wireless_modem_normal": {
+    "criteria": {
+      "has_computer": "2026-11-15 20:59:35 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_normal": {
+    "criteria": {
+      "has_computer": "2026-11-15 20:59:35 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/monitor_advanced": {
+    "criteria": {
+      "has_computer": "2026-11-15 20:59:35 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_advanced": {
+    "criteria": {
+      "has_computer": "2026-11-15 20:59:35 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_turtle": "2026-11-15 21:01:37 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_turtle": "2026-11-15 21:01:37 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_turtle": "2026-11-15 21:02:06 -0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_turtle": "2026-11-15 21:02:06 -0300"
+    },
+    "done": true
+  },
+  "confluence:recipes/shapeless/copper_coin": {
+    "criteria": {
+      "has_silver_coin": "2026-11-15 21:04:17 -0300"
     },
     "done": true
   },

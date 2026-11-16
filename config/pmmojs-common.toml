@@ -1,0 +1,18 @@
+
+#PmmoJS common configuration
+[disableDefaultSettings]
+	#Master switch. When true, all supported PMMO default data categories below are disabled before pack customizations run.
+	all = false
+	#Disable PMMO's default skills before custom SkillsConfig edits are applied.
+	skills = false
+	#Disable PMMO's default perk lists before custom PerksConfig edits are applied.
+	perks = false
+	#Disable default PMMO item, block, and entity requirements before PmmoJS.settings scripts run.
+	requirements = false
+	#Disable default PMMO item, block, and entity XP-award data before PmmoJS.settings scripts run.
+	xpAwards = false
+	#Disable default PMMO item extras: bonuses, effects, salvage, and item vein data before PmmoJS.settings scripts run.
+	itemExtras = false
+	#Disable default PMMO block vein-mining data before PmmoJS.settings scripts run.
+	blockVeinData = false
+
