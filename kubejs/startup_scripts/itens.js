@@ -14,5 +14,5 @@ event.create('star')
 event.create('singularity')
 event.create('void')
 event.create('teste')
-  } 
-);
+   } 
+ );
