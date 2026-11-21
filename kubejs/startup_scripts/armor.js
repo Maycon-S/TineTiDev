@@ -28,6 +28,16 @@
         }); 
       });
 
+  ItemEvents.toolTierRegistry((event) => {
+  event.add("starfall_vanguard", tier => {  
+        tier.uses = 25000; 
+        tier.speed = 30;
+        tier.attackDamageBonus = 45;
+        tier.level = 6;
+        tier.enchantmentValue = 358;
+        }); 
+  });
+
       ItemEvents.armorTierRegistry((event) => {
         event.add("dimensionite", tier => {  
           tier.durabilityMultiplier = 5000; // durabilidade extremamente alta, tornando a armadura muito resistente ao desgaste.
@@ -65,6 +75,19 @@
       });
     });
 
+    ItemEvents.armorTierRegistry((event) => {
+        event.add("starfall_vanguard", tier => {  
+          tier.durabilityMultiplier = 50; 
+          tier.slotProtections = [9, 9, 99, 9];
+          tier.enchantmentValue = 40; 
+          tier.equipSound = 'minecraft:item.armor.equip_netherite'; 
+          tier.repairIngredient = 'kubejs:starfall_vanguard';
+          tier.toughness = 9.0; 
+          tier.knockbackResistance = 9; 
+        });
+      });
+
+
 
 StartupEvents.registry('item', event => {
 event.create('realinite_capecete', 'helmet').displayName('Realinite Helmet').rarity('epic').tier('realinite');
@@ -83,6 +106,12 @@ event.create("dimensionite_capecete", 'helmet').displayName('Dimensionite Helmet
 event.create("dimensionite_peitoral", 'chestplate').displayName('Dimensionite Chestplate').rarity('epic').tier('dimensionite');
 event.create("dimensionite_leggings", 'leggings').displayName('Dimensionite Leggings').rarity('epic').tier('dimensionite');
 event.create("dimensionite_botas", 'boots').displayName('Dimensionite Boots').rarity('epic').tier('dimensionite');
+
+event.create("starfall_vanguard_capecete", 'helmet').displayName('Starfall Vanguard Helmet').rarity('epic').tier('starfall_vanguard');
+event.create("starfall_vanguard_peitoral", 'chestplate').displayName('Starfall Vanguard Chestplate').rarity('epic').tier('starfall_vanguard');
+event.create("starfall_vanguard_leggings", 'leggings').displayName('Starfall Vanguard Leggings').rarity('epic').tier('starfall_vanguard');
+event.create("starfall_vanguard_botas", 'boots').displayName('Starfall Vanguard Boots').rarity('epic').tier('starfall_vanguard');
+
 });
 
 
@@ -112,5 +141,4 @@ StartupEvents.registry('item', event => {
  event.create("dimensionite_axe", 'axe').tier('dimensionite').attackDamageBaseline(30)
  event.create("dimensionite_shovel", 'shovel').tier('dimensionite').attackDamageBaseline(10)
  event.create("dimensionite_hoe", 'hoe').tier('dimensionite').attackDamageBaseline(0)
-
 });

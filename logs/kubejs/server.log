@@ -1,36 +1,12 @@
-[20:44:28] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
-[20:44:28] [INIT] Loaded plugins:
-[20:44:28] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[20:44:28] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[20:44:28] [INIT] - com.wolfieboy09.kjscc.ComputerCraftPlugin
-[20:44:28] [INIT] - pie.ilikepiefoo.kubejsoffline.OfflinePlugin
-[20:44:28] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[20:44:28] [INIT] - pie.ilikepiefoo.AdditionsPlugin
-[20:44:28] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
-[20:44:28] [INIT] - com.hp.skilljs.PufferfishSkillsKubeJSPlugin
-[20:44:28] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[20:44:28] [INFO] Loaded script server_scripts:example.js in 0.008 s
-[20:44:28] [INFO] Loaded 1/1 KubeJS server scripts in 0.016 s with 0 errors and 0 warnings
-[20:44:28] [INFO] Scripts loaded
-[20:44:28] [INFO] Initializing recipe event...
-[20:44:29] [INFO] [minecraft:block] Found 610 tags, added 6 objects, removed 0 objects
-[20:44:30] [INFO] Processing recipes...
-[20:44:30] [INFO] Found 3616 recipes in 66.02 ms
-[20:44:30] [ERROR] ! example.js#102: Failed to create custom JSON recipe from '{"type":"botania:mana_infusion","catalyst":{"type":"block","block":"botania:alchemy_catalyst"},"group":"botania:shrub_cycle","input":{"item":"minecraft:reinforced_deepslate"},"mana":99999,"output":{"item":"extendedcrafting:the_ultimate_nugget"}}': Unknown recipe type: botania:mana_infusion
-[20:44:30] [ERROR] ! example.js#120: Failed to create custom JSON recipe from '{"type":"create:mechanical_crafting","acceptMirrored":false,"pattern":[" A "," A ","BBB","ABA"],"key":{"A":{"item":"minecraft:oak_planks"},"B":{"item":"minecraft:command_block"}},"result":{"item":"minecraft:end_portal_frame"}}': Unknown recipe type: create:mechanical_crafting
-[20:44:30] [ERROR] ! example.js#149: Failed to create custom JSON recipe from '{"type":"botania:terra_plate","ingredients":[{"item":"minecraft:white_bed"},{"item":"minecraft:yellow_carpet"},{"item":"extendedcrafting:ultimate_singularity"}],"mana":7000,"result":{"item":"minecraft:command_block"}}': Unknown recipe type: botania:terra_plate
-[20:44:30] [ERROR] ! example.js#172: Failed to create custom JSON recipe from '{"type":"botania:petal_apothecary","ingredients":[{"item":"minecraft:gold_ingot"},{"item":"minecraft:iron_ingot"},{"item":"minecraft:copper_ingot"},{"item":"minecraft:netherite_ingot"}],"output":{"item":"minecraft:string"},"reagent":{"tag":"minecraft:ancient_debris"}}': Unknown recipe type: botania:petal_apothecary
-[20:44:30] [ERROR] ! example.js#198: Failed to create custom JSON recipe from '{"type":"create:milling","ingredients":[{"item":"minecraft:spawner"}],"processingTime":50,"results":[{"count":2,"item":"cyclic:altar_destruction"},{"chance":0.5,"item":"cyclic:spikes_fire"}]}': Unknown recipe type: create:milling
-[20:44:30] [ERROR] ! example.js#221: Failed to create custom JSON recipe from '{"type":"create:deploying","ingredients":[{"item":"minecraft:crying_obsidian"},{"item":"minecraft:crying_obsidian"}],"keepHeldItem":true,"results":[{"item":"minecraft:crying_obsidian"}]}': Unknown recipe type: create:deploying
-[20:44:30] [ERROR] ! example.js#241: Failed to create custom JSON recipe from '{"type":"botania:runic_altar","ingredients":[{"item":"cyclic:spikes_fire"},{"item":"minecraft:obsidian"},{"item":"cyclic:spikes_fire"},{"item":"minecraft:obsidian"}],"mana":12000,"output":{"item":"minecraft:crying_obsidian"}}': Unknown recipe type: botania:runic_altar
-[20:44:30] [ERROR] ! example.js#265: Failed to create custom JSON recipe from '{"type":"create:mechanical_crafting","accetMirrored":false,"pattern":["AAAAAAAAA","ABACADAEA","AFAFAFAFA","AAAAAAAAA","AGAGAGAGA","AAAAAAAAA","AHAIAJAKA","AFAFAFAFA","AAAAAAAAA"],"key":{"A":{"item":"minecraft:netherite_block"},"B":{"item":"minecraft:rabbit_spawn_egg"},"C":{"item":"minecraft:pig_spawn_egg"},"D":{"item":"minecraft:pillager_spawn_egg"},"E":{"item":"minecraft:pufferfish_spawn_egg"},"F":{"item":"extendedcrafting:ultimate_singularity"},"G":{"item":"extendedcrafting:the_ultimate_block"},"H":{"item":"minecraft:polar_bear_spawn_egg"},"I":{"item":"minecraft:piglin_spawn_egg"},"J":{"item":"minecraft:bee_spawn_egg"},"K":{"item":"minecraft:cave_spider_spawn_egg"}},"result":{"item":"minecraft:spawner","cout":1}}': Unknown recipe type: create:mechanical_crafting
-[20:44:30] [ERROR] ! example.js#324: Failed to create custom JSON recipe from '{"type":"extendedcrafting:shaped_table","accetMirrored":false,"pattern":["   AAAAAB"," C AAAAAA","   AAAAAA","    AAAAA","    DAAAA","   D  AAA","EED      ","EAE    F ","AEE      "],"key":{"A":{"item":"minecraft:nether_star"},"B":{"item":"minecraft:soul_lantern"},"C":{"item":"minecraft:ender_eye"},"D":{"item":"minecraft:coal_block"},"E":{"item":"minecraft:diamond_block"},"F":{"item":"minecraft:ender_pearl"}},"result":{"item":"avaritialiteextended:infinity_mace"}}': ItemStack 'result' can't be empty!
-[20:44:30] [INFO] Posted recipe events in 48.75 ms
-[20:44:30] [WARN] Duplicate original recipe for id terra_curio:extra_step_stool!
-Recipe A: {type=terra_curio:extra_step_stool, in=[], out='terra_curio:step_stool'}
-Recipe B: {type=terra_curio:extra_step_stool, in=[], out='terra_curio:step_stool'}
-Using last one encountered.
-[20:44:30] [INFO] Added 7 recipes, removed 1 recipes, modified 0 recipes, with 9 failed recipes in 69.93 ms
-[20:44:34] [INFO] Server resource reload complete!
-[20:45:03] [ERROR] ! example.js#397: Error in 'ItemEvents.rightClicked': TypeError: Cannot read property "id" from undefined
-[20:46:06] [ERROR] ! example.js#397: Error in 'ItemEvents.rightClicked': TypeError: Cannot read property "id" from undefined
+[23:02:53] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
+[23:02:53] [INIT] Loaded plugins:
+[23:02:53] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[23:02:53] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[23:02:53] [INIT] - pie.ilikepiefoo.kubejsoffline.OfflinePlugin
+[23:02:53] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[23:02:53] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[23:02:53] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[23:02:53] [INFO] Loaded 0/0 KubeJS server scripts in 0.008 s with 0 errors and 0 warnings
+[23:02:53] [INFO] Scripts loaded
+[23:02:54] [INFO] [minecraft:block] Found 597 tags, added 6 objects, removed 0 objects
+[23:02:58] [INFO] Server resource reload complete!

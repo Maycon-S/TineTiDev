@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Specification-Title: starfallarmor
+Specification-Vendor: TineTiDev
+Specification-Version: 1
+Implementation-Title: starfall-armor
+Implementation-Version: 1.0.0
+

@@ -1,0 +1,39 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="starfallarmor"
+version="1.0.0"
+displayName="Starfall Vanguard Armor Renderer"
+description='''
+Connects the Starfall Vanguard armor items to their GeckoLib model.
+'''
+
+[[dependencies.starfallarmor]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.28,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.starfallarmor]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.starfallarmor]]
+modId="geckolib"
+mandatory=true
+versionRange="[4.8.4,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.starfallarmor]]
+modId="kubejs"
+mandatory=true
+versionRange="[2001.6.5,)"
+ordering="AFTER"
+side="BOTH"
